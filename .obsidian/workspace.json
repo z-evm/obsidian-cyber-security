@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e736ff41b244e97",
+        "id": "a51907b45c530be1",
         "type": "tabs",
         "children": [
           {
-            "id": "fc699e44e1ece1f9",
+            "id": "5fee2ce296cf86ef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,10 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e5ff73adfb3fb5f",
+  "active": "5fee2ce296cf86ef",
   "lastOpenFiles": [
-    "13 Templates/Threat Hunting Campaign Log Template.md",
     "13 Templates/Tech Issue Template.md",
+    "13 Templates/Threat Hunting Campaign Log Template.md",
     "13 Templates/SOC SOP Checklist Template.md",
     "13 Templates/SOC Shift Handover Template.md",
     "13 Templates/SOC Metrics & KPI Tracking Template.md",
