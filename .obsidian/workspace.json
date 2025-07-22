@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "cc4e9141f80a556d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e736ff41b244e97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc699e44e1ece1f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4020054aaff4d8cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "76b5b639479f3f0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e5ff73adfb3fb5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "32b55010020f649f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe108fa3bbf415d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da840f2c4f64ccf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "71838466649affec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b231400b691a9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1b059e1219d9d185",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "534eca58ca0d608b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "531d52c3dad73807",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3e5ff73adfb3fb5f",
+  "lastOpenFiles": [
+    "13 Templates/Threat Hunting Campaign Log Template.md",
+    "13 Templates/Tech Issue Template.md",
+    "13 Templates/SOC SOP Checklist Template.md",
+    "13 Templates/SOC Shift Handover Template.md",
+    "13 Templates/SOC Metrics & KPI Tracking Template.md",
+    "13 Templates/SIEM Alert Triage Template.md",
+    "13 Templates/Research Log Template.md",
+    "13 Templates/Red Team Engagement Log Template.md",
+    "13 Templates/Quick Note Dump Template.md",
+    "13 Templates/Purple Team Exercise Templates.md",
+    "13 Templates/Phishing Simulation Campaign Template.md",
+    "13 Templates/Pentesting Template.md",
+    "13 Templates/Malware Triage Template.md",
+    "13 Templates/Lab Template.md",
+    "13 Templates/IR Playbook Template.md",
+    "13 Templates/Insider Threat Investigation Log Template.md",
+    "13 Templates/Incident Response Log Template.md",
+    "13 Templates/Forensics Case Template.md",
+    "13 Templates/Exploit Dev Notes Template.md",
+    "13 Templates/Elastic & Splunk Detection Rule Template.md",
+    "13 Templates/DevSecOps Pipeline Security Template.md",
+    "13 Templates/Defensive Gap Analysis Template.md",
+    "13 Templates/Bug Bounty Report Template.md",
+    "13 Templates/Blue Team Lab Documentation Template.md",
+    "13 Templates/Vulnerability report Template.md",
+    "13 Templates/Threat Modelling Template.md",
+    "13 Templates",
+    "12 Tools & Cheat Sheets",
+    "11 Phishing Simulations",
+    "10 Purple Team",
+    "09 Insider Threats",
+    "08 Threat Hunting",
+    "07 Metrics Reports",
+    "06 Incidents",
+    "05 Labs",
+    "04 Playbooks"
+  ]
+}
