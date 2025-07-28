@@ -4,55 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6f4aac83831e01aa",
+        "id": "75dea79ed8c69136",
         "type": "tabs",
         "children": [
           {
-            "id": "4061f2847d8d0400",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "0c092075b595ebd6",
+            "id": "1d6a9bc558e26f92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONTRIBUTING.md",
+                "file": "01 Theory/Secure File Handling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONTRIBUTING"
-            }
-          },
-          {
-            "id": "d54816f9047405bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Folder Usage Guidelines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Folder Usage Guidelines"
+              "title": "Secure File Handling"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,34 +168,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d54816f9047405bf",
+  "active": "3e5ff73adfb3fb5f",
   "lastOpenFiles": [
-    "LICENSE.md",
-    "Folder Usage Guidelines.md",
-    "CODE OF CONDUCT.md",
-    "CONTRIBUTING.md",
     "README.md",
-    "01 Theory/Cipher Suites and Key Exchange.md",
-    "01 Theory/Perfect Forward Secrecy (PFS).md",
-    "01 Theory/Secure Messaging Protocols.md",
-    "01 Theory/TLS 1.3.md",
-    "01 Theory/TLS Protocol Overview.md",
-    "01 Theory/NIST Secure Software Development Framework (SSDF).md",
-    "01 Theory/Software Composition Analysis (SCA).md",
-    "01 Theory/Vendor Security Assessment.md",
-    "01 Theory/SBOM (Software Bill of Materials).md",
-    "01 Theory/Third-Party Risk Management.md",
-    "01 Theory/System Hardening Checklist.md",
-    "01 Theory/Supply Chain Security.md",
-    "01 Theory/Social Engineering Attacks.md",
-    "01 Theory/Secure Configuration Baseline.md",
-    "01 Theory/Security Models.md",
-    "01 Theory/Security Principles.md",
-    "Security Principles.md",
-    "Security Models.md",
-    "01 Theory/CIS Benchmarks.md",
-    "01 Theory/Secrets Management.md",
-    "01 Theory/Environment Hardening.md",
+    "01 Theory/Incident Response Policy.md",
+    "01 Theory/Data Breach Notification Procedure.md",
+    "01 Theory/Encryption Standards.md",
+    "Data Retention Polic.md",
+    "01 Theory/Data Retention Policy.md",
+    "01 Theory/Secure File Handling.md",
+    "01 Theory/Data Classification Policy.md",
+    "01 Theory/CIA Triad.md",
+    "01 Theory/Change Management Process.md",
+    "01 Theory/Change Management.md",
+    "01 Theory/Chain of Custody.md",
+    "01 Theory/Certificate Pinning.md",
+    "01 Theory/Certificate Management.md",
+    "01 Theory/CASB (Cloud Access Security Broker).md",
+    "01 Theory/Business Impact Analysis (BIA).md",
+    "01 Theory/Business Continuity Planning (BCP).md",
+    "01 Theory/Business Continuity & Disaster Recovery.md",
+    "01 Theory/Bug Bounty and Pentesting.md",
+    "01 Theory/Buffer Overflow.md",
+    "01 Theory/Budget Justification for Security Controls.md",
+    "01 Theory/Brute Force Mitigation.md",
+    "01 Theory/Blue Teaming.md",
+    "01 Theory/Biba Model.md",
+    "01 Theory/Bell-LaPadula Model.md",
+    "01 Theory/Backup Strategies.md",
     "CI",
     "SOPs",
     "BC",

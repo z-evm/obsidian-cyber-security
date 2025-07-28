@@ -82,7 +82,7 @@ An **audit log** is a chronological record of system events, user actions, and s
 - [[Incident Response Framework]]
 - [[Chain of Custody]]
 - [[Compliance Regulations]]
-- [[Endpoint Detection and Response (EDR)]]
+- [[Endpoint Detection & Response (EDR)]]
 - [[Security Policy Frameworks]]
 
 ---

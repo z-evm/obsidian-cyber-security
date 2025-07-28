@@ -119,7 +119,7 @@ Mapped to MITRE:
 - [[MITRE ATT&CK]]
 - [[Threat Hunting]]
 - [[SIEM & Log Analysis]]
-- [[EDR and Threat Detection]]
+- [[EDR & Threat Detection]]
 - [[Red Team vs Blue Team]]
 - [[Post-Exploitation]]
 - [[Detection Engineering]]

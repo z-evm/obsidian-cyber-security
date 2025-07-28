@@ -89,7 +89,7 @@ A traditional **endpoint security tool** designed to detect, block, and remove *
 ## 📚 Related Topics
 
 - [[Endpoint Protection]]
-- [[Endpoint Detection and Response (EDR)]]
+- [[Endpoint Detection & Response (EDR)]]
 - [[Malware Detection and Forensics]]
 - [[SIEM & Log Analysis]]
 - [[Patch Management Process]]

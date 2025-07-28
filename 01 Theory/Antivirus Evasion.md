@@ -110,7 +110,7 @@ powershell -nop -w hidden -enc <base64-encoded-payload>
 ## 🔗 Related Topics
 
 - [[Payload Creation with msfvenom]]
-- [[EDR and Threat Detection]]
+- [[EDR & Threat Detection]]
 - [[Post-Exploitation]]
 - [[Persistence Techniques]]
 - [[Metasploit Framework]]

@@ -88,7 +88,7 @@
 
 ## 🧩 Related Topics
 
-- [[Disaster Recovery Planning]]
+- [[Disaster Recovery Planning (DRP)]]
 - [[Business Impact Analysis (BIA)]]
 - [[Risk Assessment Techniques]]
 - [[Incident Response Planning (IRP)]]

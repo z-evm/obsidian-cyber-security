@@ -83,7 +83,7 @@ Business Impact Analysis (BIA) is a key component of **risk management** and **b
 
 ## 🧩 Integration Points
 
-- [[Disaster Recovery Planning]]
+- [[Disaster Recovery Planning (DRP)]]
 - [[Business Continuity Planning (BCP)]]
 - [[Risk Assessment Techniques]]
 - [[Security Controls]]

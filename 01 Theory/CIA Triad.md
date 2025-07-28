@@ -1,4 +1,3 @@
-
 The CIA Triad represents the **three core principles of information security**:  
 **Confidentiality**, **Integrity**, and **Availability**. All security strategies aim to protect one or more of these pillars.
 
@@ -78,7 +77,7 @@ The CIA Triad represents the **three core principles of information security**:
 - [[Security Controls]]
 - [[Control Types]]
 - [[Hashing and Integrity Test]]
-- [[SOPs/Data Classification Policy]]
+- [[Data Classification Policy]]
 
 ---
 

@@ -126,7 +126,7 @@
 - [[Credential Dumping]]
 - [[Post-Exploitation]]
 - [[BloodHound Cheat Sheet]]
-- [[EDR and Threat Detection]]
+- [[EDR & Threat Detection]]
 
 ---
 

@@ -7,7 +7,7 @@ An **After Action Report (AAR)** is a formal document that captures observations
 - Analyze what **happened**, **why it happened**, and **how to improve**.
 - Identify **gaps in plans**, procedures, communications, and tools.
 - Document **lessons learned** for future preparedness.
-- Inform updates to the [[Crisis Management Plan]], [[Incident Response Planning (IRP)]], or [[Business Continuity Planning]].
+- Inform updates to the [[Crisis Management Plan]], [[Incident Response Planning (IRP)]], or [[Business Continuity Planning (BCP)]].
 
 ---
 

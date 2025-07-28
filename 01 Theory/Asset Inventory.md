@@ -97,7 +97,7 @@
 
 - [[Vulnerability Scanning]]
 - [[Patch Management]]
-- [[Data Classification]]
+- [[Data Classification and Labeling]]
 - [[Configuration Management]]
 - [[Endpoint Detection & Response (EDR)]]
 
