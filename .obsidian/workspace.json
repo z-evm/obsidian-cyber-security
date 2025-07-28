@@ -201,6 +201,8 @@
   },
   "active": "d54816f9047405bf",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "Folder Usage Guidelines.md",
     "CODE OF CONDUCT.md",
     "CONTRIBUTING.md",
     "README.md",
@@ -225,8 +227,6 @@
     "01 Theory/CIS Benchmarks.md",
     "01 Theory/Secrets Management.md",
     "01 Theory/Environment Hardening.md",
-    "01 Theory/Qualitative Risk.md",
-    "01 Theory/ISO 27001.md",
     "CI",
     "SOPs",
     "BC",
