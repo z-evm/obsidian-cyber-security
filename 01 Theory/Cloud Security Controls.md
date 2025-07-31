@@ -92,7 +92,7 @@
 ## 📚 Related Topics
 
 - [[Cloud Access Security Broker (CASB)]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[Access Control Models]]
 - [[SIEM & Log Analysis]]
 - [[Data Loss Prevention (DLP)]]

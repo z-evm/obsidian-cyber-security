@@ -87,9 +87,9 @@
 
 ## 🧩 Related Topics
 
-- [[SIEM and Threat Detection]]
+- [[SIEM & Threat Detection]]
 - [[Security Logging and Monitoring]]
-- [[Security Orchestration Automation and Response (SOAR)]]
+- [[Security Orchestration, Automation, and Response (SOAR)]]
 - [[Threat Hunting]]
 - [[Adversary Emulation]]
 - [[Incident Response Planning (IRP)]]

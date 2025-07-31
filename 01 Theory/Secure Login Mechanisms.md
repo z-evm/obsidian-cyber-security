@@ -101,7 +101,7 @@
 - [[Password Policies]]
 - [[Password Hashing Techniques]]
 - [[Authentication Attacks]]
-- [[OpenID]]
+- [[OpenID Connect]]
 - [[TLS & SSL]]
 - [[Session Hijacking]]
 

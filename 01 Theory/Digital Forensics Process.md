@@ -92,6 +92,7 @@
 - [[Malware Analysis]]
 - [[Memory Forensics]]
 - [[Volatility Framework]]
+- [[Digital Forensics Tools]]
 
 ---
 

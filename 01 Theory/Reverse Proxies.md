@@ -86,7 +86,7 @@ Unlike a **forward proxy**, which protects clients, a reverse proxy protects **s
 - [[TLS Certificate Management]]
 - [[Load Balancing Strategies]]
 - [[Firewall Rules & Zoning]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 
 ---
 

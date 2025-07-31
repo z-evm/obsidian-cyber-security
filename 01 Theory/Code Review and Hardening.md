@@ -96,7 +96,7 @@ Code review involves manual or automated examination of source code to catch **b
 
 ## 📚 Related Topics
 
-- [[Secure Development Lifecycle (SDLC)]]
+- [[Secure Software Development Life Cycle (SSDLC)]]
 - [[Application Security Testing Tools]]
 - [[OWASP Top 10]]
 - [[Input Validation and Sanitization]]

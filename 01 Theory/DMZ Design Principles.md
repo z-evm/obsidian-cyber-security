@@ -96,7 +96,7 @@ Internet
 - [[Intrusion Prevention Systems (IPS)]]
 - [[Access Control List (ACL)]]
 - [[VPN & TLS Protocol]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 
 ---
 

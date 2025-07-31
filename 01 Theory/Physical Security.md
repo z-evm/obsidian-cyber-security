@@ -112,6 +112,7 @@ Goals:
 - [[Incident Response Planning (IRP)]]
 - [[Defense in Depth]]
 - [[Compliance Frameworks]]
+- [[RFID Cloning]]
 
 ---
 

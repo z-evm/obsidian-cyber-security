@@ -111,7 +111,7 @@ Login failed. Please try again.
 - [[Malware Detection and Forensics]]
 - [[Incident Response Playbook]]
 - [[Authentication Attacks]]
-- [[Logging Standards (NIST, ISO)]]
+- [[Logging Standards]]
 
 ---
 

@@ -83,7 +83,7 @@ THEN:
 ## 📚 Related Concepts
 
 - [[RBAC vs ABAC vs MAC]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[Security Policy Frameworks]]
 - [[Least Privilege Principle]]
 - [[Access Control Models]]

@@ -99,7 +99,7 @@
 
 ## 🧩 Related Topics
 
-- [[Secure Development Lifecycle (SDLC)]]
+- [[Secure Software Development Life Cycle (SSDLC)]]
 - [[DevSecOps Practice]]
 - [[Infrastructure as Code Security]]
 - [[Secrets Management]]

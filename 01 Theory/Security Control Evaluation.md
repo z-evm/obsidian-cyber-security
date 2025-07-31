@@ -86,7 +86,7 @@
 - [[Security Controls]]
 - [[Risk Assessment]]
 - [[Penetration Testing]]
-- [[SIEM and Threat Detection]]
+- [[SIEM & Threat Detection]]
 - [[Continuous Monitoring]]
 - [[NIST SP 800-53A]]
 - [[ISO 27001]]

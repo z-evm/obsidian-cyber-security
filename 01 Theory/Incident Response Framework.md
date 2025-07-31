@@ -98,7 +98,7 @@ The **NIST SP 800-61 Rev. 2**: *Computer Security Incident Handling Guide* is th
 ## 📚 Related Topics
 
 - [[Phishing Response Workflow]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Chain of Custody]]
 - [[Vulnerability Management]]
 - [[Digital Forensics Process]]

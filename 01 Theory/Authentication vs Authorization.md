@@ -96,10 +96,10 @@
 ## 🔗 Related Topics
 
 - [[Access Control]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Multi-Factor Authentication (MFA)]]
 - [[LDAP & Kerberos]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 
 ---
 

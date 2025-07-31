@@ -111,7 +111,7 @@ Assertions are **digitally signed** to ensure integrity and authenticity.
 ## 🗂 Related Topics
 
 - [[OAuth vs SAML vs OpenID]]
-- [[OpenID]]
+- [[OpenID Connect]]
 - [[Authentication Protocols]]
 - [[Single Sign-On (SSO)]]
 - [[Federated Identity]]

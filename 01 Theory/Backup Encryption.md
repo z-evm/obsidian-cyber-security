@@ -90,7 +90,7 @@
 
 ## 🧩 Related Topics
 
-- [[Backup Strategies]]
+- [[Backup & Recovery Strategies]]
 - [[Disaster Recovery Planning (DRP)]]
 - [[Key Management Systems (KMS)]]
 - [[Encryption Algorithms]]

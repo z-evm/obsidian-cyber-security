@@ -71,7 +71,7 @@ Goals:
 - **Physical access controls and badge policies**
 - **Least privilege and need-to-know principles**
 
-📎 Related: [[Security Controls]], [[Defense in Depth]], [[Zero Trust]]
+📎 Related: [[Security Controls]], [[Defense in Depth]], [[Zero Trust Architecture]]
 
 ---
 
@@ -100,7 +100,7 @@ Goals:
 - [[User Awareness Training]]
 - [[Incident Response Planning (IRP)]]
 - [[Access Control]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[Threat Intelligence]]
 
 ---

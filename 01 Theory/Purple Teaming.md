@@ -54,7 +54,7 @@ Goals:
 | **ELK / Splunk / QRadar** | SIEM platforms used for detection and analysis  |
 | **PurpleSharp**            | Simulated adversary activity generator          |
 
-📎 Related: [[Detection Engineering]], [[SIEM]], [[TTPs]]
+📎 Related: [[Detection Engineering]], [[Security Information & Event Management (SIEM)]], [[TTPs]]
 
 ---
 

@@ -15,7 +15,7 @@ Goals:
 - Inform threat intelligence and response
 - Shareable artifacts for collaborative defense
 
-📎 Related: [[Threat Intelligence]], [[TTPs]], [[Incident Response Planning (IRP)]], [[SIEM]]
+📎 Related: [[Threat Intelligence]], [[TTPs]], [[Incident Response Planning (IRP)]], [[Security Information & Event Management (SIEM)]]
 
 ---
 
@@ -105,7 +105,7 @@ Goals:
 
 - [[Threat Intelligence]]
 - [[TTPs]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Incident Response Planning (IRP)]]
 - [[Detection Engineering]]
 - [[MITRE ATT&CK]]

@@ -94,7 +94,7 @@ Maintaining a **chain of custody** ensures evidence is:
 - [[Incident Response Planning (IRP)]]
 - [[Chain of Custody]]
 - [[Volatility Framework]]
-- [[SIEM and Threat Detection]]
+- [[SIEM & Threat Detection]]
 - [[Root Cause Analysis]]
 - [[Security Logging and Monitoring]]
 - [[After Action Report (AAR)]]

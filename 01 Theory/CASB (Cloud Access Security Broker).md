@@ -84,7 +84,7 @@ CASBs can be deployed in **multiple modes** depending on visibility and enforcem
 - [[Multi-Factor Authentication (MFA)]]
 - [[SIEM & Log Analysis]]
 - [[Access Control Models]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 
 ---
 

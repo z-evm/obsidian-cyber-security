@@ -13,7 +13,7 @@ Goals:
 - Enforce **principle of least privilege**
 - Enable **policy-based control over resources**
 
-📎 Related: [[Authentication]], [[Authorization]], [[Zero Trust]]
+📎 Related: [[Authentication]], [[Authorization]], [[Zero Trust Architecture]]
 
 ---
 
@@ -60,7 +60,7 @@ Goals:
 - **Need to Know** – Users only access data relevant to their role
 - **Implicit Deny** – Deny all unless explicitly permitted
 
-📎 Related: [[Zero Trust]], [[Security Controls]]
+📎 Related: [[Zero Trust Architecture]], [[Security Controls]]
 
 ---
 
@@ -100,7 +100,7 @@ Goals:
 
 - [[Authentication]]
 - [[Authorization]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[Control Types]]
 - [[Security Controls]]
 - [[Access Control Provisioning]]

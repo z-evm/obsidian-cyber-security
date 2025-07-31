@@ -102,10 +102,10 @@
 ## 🗂 Related Topics
 
 - [[SAML]]
-- [[OpenID]]
+- [[OpenID Connect]]
 - [[OAuth vs SAML vs OpenID]]
 - [[Single Sign-On (SSO)]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Authentication Protocols]]
 
 ---

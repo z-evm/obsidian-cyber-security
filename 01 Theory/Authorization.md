@@ -73,7 +73,8 @@ It ensures users can only access resources or perform operations that they have 
 - [[Access Control Provisioning]]
 - [[Non-Repudiation]]
 - [[Security Controls]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
+- [[Authorization Models]]
 
 ---
 

@@ -15,7 +15,7 @@ Goals:
 - Maintain **regulatory compliance** in dynamic environments
 - Prevent misconfigurations and unauthorized access
 
-📎 Related: [[Risk Management]], [[Identity and Access Management (IAM)]], [[Compliance Frameworks]]
+📎 Related: [[Risk Management]], [[Identity & Access Management (IAM)]], [[Compliance Frameworks]]
 
 ---
 
@@ -84,7 +84,7 @@ Goals:
 - Review **IAM policies** and audit logs regularly
 - Apply **automated tagging, labeling, and DLP controls**
 
-📎 Related: [[Identity and Access Management (IAM)]], [[Data Loss Prevention]], [[Auditing & Accounting]]
+📎 Related: [[Identity & Access Management (IAM)]], [[Data Loss Prevention]], [[Auditing & Accounting]]
 
 ---
 
@@ -102,7 +102,7 @@ Goals:
 
 ## 📚 Related Concepts
 
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Access Control Provisioning]]
 - [[Risk Management]]
 - [[Compliance Frameworks]]

@@ -1,137 +1,79 @@
-The **OWASP Top 10** is a regularly updated list of the most critical **web application security risks**, curated by the **Open Web Application Security Project (OWASP)**. It provides a baseline for identifying and mitigating vulnerabilities in modern applications.
+The **OWASP Top 10 (2024 Edition)** is a standard awareness document that outlines the ten most critical web application security risks. It serves as a foundational reference for developers, security professionals, and organizations to assess, mitigate, and prioritize web security threats.
 
-> 🎯 Goal: Educate developers, testers, architects, and defenders on **the most common and impactful security flaws**.
-
----
-
-## 📋 OWASP Top 10 (2021 Edition)
-
-### 1. **Broken Access Control**
-
-- Users can act **outside their intended permissions**
-- Unauthorized access to admin functions, data, or APIs
-- 🚨 Often leads to full account takeover or data breach
-
-**Mitigation:**
-- Enforce **role-based access** and deny by default
-- Use **secure design patterns** and **authorization middleware**
+Published by the **Open Worldwide Application Security Project (OWASP)**, the Top 10 is based on extensive data from vulnerabilities, security tools, and industry trends.
 
 ---
 
-### 2. **Cryptographic Failures** (formerly “Sensitive Data Exposure”)
+## 📊 OWASP Top 10 - 2024 List
 
-- Improper encryption or lack thereof for **confidential data**
-- Weak algorithms, poor key management, missing TLS
-
-**Mitigation:**
-- Use strong, modern cryptography (e.g., AES-256, TLS 1.3)
-- Encrypt **data at rest** and **in transit**
-
----
-
-### 3. **Injection**
-
-- Unsanitized input leads to execution of **arbitrary commands or queries**
-- Includes **SQLi, NoSQLi, OS command injection, LDAP injection**
-
-**Mitigation:**
-- Use **parameterized queries**, input validation, and ORM frameworks
+| Rank | Risk | Description |
+|------|------|-------------|
+| A01  | **Broken Access Control** | Failures to restrict access to resources, enabling privilege escalation, horizontal/vertical access, or unauthorized data exposure. |
+| A02  | **Cryptographic Failures** | Weak or absent protection of sensitive data (e.g., passwords, tokens, PII) due to poor cryptographic practices. |
+| A03  | **Injection** | Attacker sends untrusted data to an interpreter (SQL, NoSQL, OS, LDAP) leading to arbitrary commands or queries. |
+| A04  | **Insecure Design** | Flawed architecture or insecure design patterns that cannot be mitigated by technical patches alone. |
+| A05  | **Security Misconfiguration** | Default settings, unnecessary services, verbose error messages, or overly permissive policies. |
+| A06  | **Vulnerable and Outdated Components** | Use of components with known vulnerabilities (libraries, frameworks, platforms). |
+| A07  | **Identification and Authentication Failures** | Weak authentication, session management flaws, brute-force susceptibility. |
+| A08  | **Software and Data Integrity Failures** | Insecure software supply chains, CI/CD pipelines, or unsigned/unauthenticated code updates. |
+| A09  | **Security Logging and Monitoring Failures** | Insufficient logging, alerting, or visibility into attack attempts and system events. |
+| A10  | **Server-Side Request Forgery (SSRF)** | An attacker induces the server to fetch a remote resource, leading to internal service discovery or data exposure. |
 
 ---
 
-### 4. **Insecure Design**
+## 🔍 Risk Summary
 
-- Lack of security controls in the application **design phase**
-- No threat modeling or misuse-case planning
+### 🔐 A01 – Broken Access Control
+- **Examples**: Insecure Direct Object References (IDOR), missing authorization checks
+- **Impact**: Data leakage, privilege escalation
 
-**Mitigation:**
-- Integrate **secure architecture reviews**
-- Apply **security design patterns** and defense-in-depth
+### 🔐 A02 – Cryptographic Failures
+- **Examples**: Unencrypted transmission (e.g., HTTP), weak ciphers, hardcoded keys
+- **Impact**: Credential theft, data breach, man-in-the-middle attacks
 
----
+### 💉 A03 – Injection
+- **Examples**: SQLi, XSS, OS Command Injection
+- **Impact**: Data exfiltration, system compromise, account takeover
 
-### 5. **Security Misconfiguration**
+### 🧱 A04 – Insecure Design
+- **Examples**: Lack of threat modeling, failing to enforce business constraints
+- **Impact**: Vulnerabilities built into the system from inception
 
-- Default credentials, overly verbose error messages, unnecessary features enabled
-- Misconfigured cloud buckets, headers, permissions
+### ⚙️ A05 – Security Misconfiguration
+- **Examples**: Open S3 buckets, unnecessary HTTP methods, default credentials
+- **Impact**: Remote code execution, unauthorized access
 
-**Mitigation:**
-- Harden all environments (dev, staging, prod)
-- Automate and audit configuration management
+### 🧬 A06 – Vulnerable and Outdated Components
+- **Examples**: Unpatched libraries, unsupported software
+- **Impact**: Exploitable known vulnerabilities
 
----
+### 🧑‍💼 A07 – Identification and Authentication Failures
+- **Examples**: Missing MFA, session ID exposed in URL, password stuffing
+- **Impact**: Unauthorized access, session hijacking
 
-### 6. **Vulnerable and Outdated Components**
+### 🧾 A08 – Software and Data Integrity Failures
+- **Examples**: Unsigned updates, malicious code injection in CI/CD pipeline
+- **Impact**: Supply chain compromise, malware propagation
 
-- Using libraries, plugins, or frameworks with **known vulnerabilities**
-- Attackers exploit known CVEs
+### 📉 A09 – Security Logging and Monitoring Failures
+- **Examples**: No alerting on failed logins, missing audit trails
+- **Impact**: Delayed incident response, undetected intrusions
 
-**Mitigation:**
-- Track dependencies (SBOMs), patch regularly, use SCA tools
-
----
-
-### 7. **Identification and Authentication Failures**
-
-- Weak login mechanisms, predictable tokens, credential stuffing exposure
-- Broken session handling
-
-**Mitigation:**
-- Implement **MFA**, strong password policies, and session timeout
-- Use **secure identity providers** and token validation
-
----
-
-### 8. **Software and Data Integrity Failures**
-
-- Untrusted updates or CI/CD pipelines
-- Insecure deserialization or unsigned software
-
-**Mitigation:**
-- Use **code signing**, secure update mechanisms, and pipeline hardening
+### 🌐 A10 – Server-Side Request Forgery (SSRF)
+- **Examples**: Attacker tricks server into accessing internal systems or cloud metadata
+- **Impact**: Internal service scanning, sensitive data leakage
 
 ---
 
-### 9. **Security Logging and Monitoring Failures**
+## ✅ Recommendations
 
-- Lack of visibility for detecting or investigating attacks
-- No alerting on critical events
-
-**Mitigation:**
-- Centralize logs with **SIEM**, monitor for anomalies
-- Ensure **audit trails** and alerting are in place
-
----
-
-### 10. **Server-Side Request Forgery (SSRF)**
-
-- App fetches remote resources **without validation**
-- Can lead to internal port scans or metadata leakage
-
-**Mitigation:**
-- Validate URLs, deny internal IP ranges, and enforce allow-lists
-
----
-
-## 🧠 Why the OWASP Top 10 Matters
-
-- A foundational **application security standard**
-- Used by:
-  - Developers (secure coding practices)
-  - Auditors and pentesters
-  - Risk and compliance teams
-- Referenced in standards like **PCI-DSS**, **ISO 27001**, **NIST 800-53**
-
----
-
-## ✅ Best Practices
-
-- Train developers on OWASP Top 10 and **secure coding**
-- Integrate **SAST/DAST tools** in CI/CD pipelines
-- Use **threat modeling** in early design phases
-- Regularly update components and perform **vulnerability scanning**
-- Perform **secure code reviews**
-
+- Perform **threat modeling** and **secure design reviews**
+- Adopt **secure coding practices** and input validation
+- Use automated tools (e.g., **SAST**, **DAST**, **SBOM scanners**)
+- Keep components **updated and patched**
+- Enforce **strong authentication and session management**
+- Monitor systems with **SIEM**, **EDR**, and **audit logging**
+- Educate developers with **OWASP guidelines**, cheat sheets, and secure SDLC integration
 ---
 
 ## 🗂 Related Topics
@@ -139,9 +81,13 @@ The **OWASP Top 10** is a regularly updated list of the most critical **web appl
 - [[XSS and Web Exploits]]
 - [[SQL Injection]]
 - [[Authentication Protocols]]
+- [[Vulnerability Scanning]]
 - [[Secure Login Mechanisms]]
+- [[Secure Software Development Life Cycle (SSDLC)]]
+- [[Application Threat Modeling]]
 - [[SAST vs DAST]]
 - [[Patch Management]]
+- [OWASP Top 10 Project](https://owasp.org/www-project-top-ten/)
 
 ---
 

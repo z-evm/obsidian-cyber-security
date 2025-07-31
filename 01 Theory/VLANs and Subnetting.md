@@ -131,7 +131,7 @@ interface GigabitEthernet0/1.10
 - [[Firewall Rules & Zoning]]
 - [[Network Access Control (NAC)]]
 - [[SIEM & Log Analysis]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 
 ---
 

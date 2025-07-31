@@ -101,7 +101,7 @@
 
 - [[Authentication vs Authorization]]
 - [[Public Key Infrastructure (PKI)]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[Phishing Attacks]]
 - [[Credential Dumping]]
 - [[VPN & TLS Protocol]]

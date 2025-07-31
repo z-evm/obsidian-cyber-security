@@ -114,7 +114,7 @@
 - [[Least Privilege Principle]]
 - [[Separation of Duties]]
 - [[Access Control List (ACL)]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Privilege Escalation Risks]]
 
 ---

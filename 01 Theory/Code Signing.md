@@ -96,7 +96,7 @@
 - [[Public Key Infrastructure (PKI)]]
 - [[Digital Signatures]]
 - [[Certificate Management]]
-- [[Secure Development Lifecycle (SDLC)]]
+- [[Secure Software Development Life Cycle (SSDLC)]]
 - [[Supply Chain Security]]
 - [[Hashing & File Integrity]]
 

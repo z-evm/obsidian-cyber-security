@@ -78,7 +78,7 @@
 - [[Least Privilege Principle]]
 - [[Access Control Models]]
 - [[Change Management Process]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Security Policy Frameworks]]
 
 ---

@@ -12,7 +12,7 @@ The framework provides:
 - Mapping between **threat actor behavior** and **defensive controls**
 - A structure for **simulating and detecting** advanced persistent threats (APTs)
 
-📎 Related: [[Threat Intelligence]], [[Incident Response Planning (IRP)]], [[SIEM]]
+📎 Related: [[Threat Intelligence]], [[Incident Response Planning (IRP)]], [[Security Information & Event Management (SIEM)]]
 
 ---
 
@@ -101,7 +101,7 @@ The framework provides:
 
 - [[Threat Intelligence]]
 - [[TTPs]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Incident Response Planning (IRP)]]
 - [[Security Controls]]
 - [[Red Teaming]]

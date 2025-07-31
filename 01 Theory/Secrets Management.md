@@ -90,7 +90,7 @@
 - [[Access Control Models]]
 - [[Environment Hardening]]
 - [[Continuous Integration & Continuous Deployment Pipeline Security]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Password Security ]]
 - [[Password Policies]]
 

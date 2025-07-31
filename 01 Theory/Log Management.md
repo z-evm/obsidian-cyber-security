@@ -13,7 +13,7 @@ Goals:
 - Support **incident response** and **forensic investigations**
 - Ensure **compliance** with regulatory requirements
 
-📎 Related: [[SIEM]], [[Auditing & Accounting]], [[Incident Response Planning (IRP)]]
+📎 Related: [[Security Information & Event Management (SIEM)]], [[Auditing & Accounting]], [[Incident Response Planning (IRP)]]
 
 ---
 
@@ -55,7 +55,7 @@ Goals:
 | **Graylog / ELK Stack** | Open-source log aggregation and analysis      |
 | **Cloud-native tools**  | AWS CloudTrail, Azure Monitor, GCP Logging    |
 
-📎 Related: [[SIEM]], [[Detection Engineering]]
+📎 Related: [[Security Information & Event Management (SIEM)]], [[Detection Engineering]]
 
 ---
 
@@ -103,7 +103,7 @@ Goals:
 
 ## 📚 Related Concepts
 
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Auditing & Accounting]]
 - [[Detection Engineering]]
 - [[Incident Response Planning (IRP)]]

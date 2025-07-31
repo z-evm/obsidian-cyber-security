@@ -100,7 +100,7 @@
 
 ## 📚 Related Topics
 
-- [[Threat Intelligence Platforms]]
+- [[Threat Intelligence Platforms (TIP)]]
 - [[SIEM & Log Analysis]]
 - [[MITRE ATT&CK]]
 - [[Threat Modeling]]

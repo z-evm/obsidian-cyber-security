@@ -96,7 +96,7 @@
 - [[Security Logging and Monitoring]]
 - [[Compliance Reporting and Audits]]
 - [[Security Policy Enforcement]]
-- [[SIEM and Threat Detection]]
+- [[SIEM & Threat Detection]]
 - [[Incident Response Planning (IRP)]]
 - [[Monitoring & Alerting in the Cloud]]
 

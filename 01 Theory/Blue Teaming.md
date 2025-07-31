@@ -15,7 +15,7 @@ Objectives:
 - Strengthen defenses through continuous improvement
 - Investigate incidents and prevent recurrence
 
-📎 Related: [[Red Teaming]], [[Purple Teaming]], [[SIEM]], [[Incident Response Planning (IRP)]]
+📎 Related: [[Red Teaming]], [[Purple Teaming]], [[Security Information & Event Management (SIEM)]], [[Incident Response Planning (IRP)]]
 
 ---
 
@@ -95,7 +95,7 @@ Objectives:
 
 ## 📚 Related Concepts
 
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Incident Response Planning (IRP)]]
 - [[Detection Engineering]]
 - [[Threat Intelligence]]

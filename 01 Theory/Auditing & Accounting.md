@@ -16,7 +16,7 @@ They support:
 - **Compliance auditing**
 - **Operational oversight**
 
-📎 Related: [[AAA Framework]], [[SIEM]], [[Incident Response Planning (IRP)]]
+📎 Related: [[AAA Framework]], [[Security Information & Event Management (SIEM)]], [[Incident Response Planning (IRP)]]
 
 ---
 
@@ -103,7 +103,7 @@ They support:
 ## 📚 Related Concepts
 
 - [[AAA Framework]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Non-Repudiation]]
 - [[Incident Response Planning (IRP)]]
 - [[Compliance Frameworks]]

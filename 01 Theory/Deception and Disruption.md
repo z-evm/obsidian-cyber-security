@@ -43,7 +43,7 @@ Goals:
 | **Command & Control Blocking** | Prevent communication with known malicious hosts | Egress filtering or DNS blocking                  |
 | **Auto-containment**     | Isolate hosts that show signs of compromise          | EDR quarantines a system automatically            |
 
-📎 Related: [[SIEM]], [[Threat Intelligence]]
+📎 Related: [[Security Information & Event Management (SIEM)]], [[Threat Intelligence]]
 
 ---
 
@@ -93,7 +93,7 @@ Goals:
 - [[Threat Detection]]
 - [[Defense in Depth]]
 - [[Incident Response Planning (IRP)]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Indicators of Compromise (IOCs)]]
 - [[Detection Engineering]]
 

@@ -99,7 +99,7 @@ A **Security Operations Center (SOC)** is a centralized unit that monitors, dete
 - [[Incident Response Framework]]
 - [[Endpoint Detection & Response (EDR)]]
 - [[Threat Intelligence]]
-- [[Security Orchestration Automation and Response (SOAR)]]
+- [[Security Orchestration, Automation, and Response (SOAR)]]
 - [[Digital Forensics Process]]
 
 ---

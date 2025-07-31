@@ -85,7 +85,7 @@
 - [[Backup Encryption]]
 - [[Cloud Disaster Recovery]]
 - [[TLS Certificate Management]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 
 ---
 

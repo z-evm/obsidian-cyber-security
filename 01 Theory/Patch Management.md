@@ -110,7 +110,7 @@ Goals:
 - [[Security Controls]]
 - [[Configuration Management]]
 - [[Change Management]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Incident Response Planning (IRP)]]
 
 ---

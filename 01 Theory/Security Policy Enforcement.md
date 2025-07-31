@@ -94,10 +94,10 @@ Policy Creation → Control Mapping → Tool Implementation → Monitoring → R
 ## 🧩 Related Topics
 
 - [[Compliance & Governance in the Cloud]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Configuration Management]]
 - [[Monitoring & Alerting in the Cloud]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[Security Auditing and Logging]]
 
 ---

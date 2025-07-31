@@ -16,7 +16,7 @@ Objectives:
 - Preserve evidence for legal and forensic needs
 - Prevent future incidents via lessons learned
 
-📎 Related: [[Incident Response Planning (IRP)]], [[SIEM]], [[Threat Intelligence]]
+📎 Related: [[Incident Response Planning (IRP)]], [[Security Information & Event Management (SIEM)]], [[Threat Intelligence]]
 
 ---
 
@@ -120,7 +120,7 @@ Objectives:
 ## 📚 Related Concepts
 
 - [[Incident Response Planning (IRP)]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Threat Intelligence]]
 - [[Detection Engineering]]
 - [[Vulnerability Management]]

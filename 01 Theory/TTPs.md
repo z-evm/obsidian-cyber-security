@@ -100,7 +100,7 @@ They help organizations:
 - [[Indicators of Compromise (IOCs)]]
 - [[Incident Response Planning (IRP)]]
 - [[Detection Engineering]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 
 ---
 

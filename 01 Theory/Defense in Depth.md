@@ -103,7 +103,7 @@ Instead of relying on one security control (e.g., a firewall), DiD distributes s
 - [[Incident Response Planning (IRP)]]
 - [[Risk Management]]
 - [[Gap Analysis]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Authentication]]
 - [[Access Control Provisioning]]
 

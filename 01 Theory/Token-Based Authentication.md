@@ -75,7 +75,7 @@ Instead of relying on session IDs or continuous password use, token-based system
 - [[JWT Token Structure]]
 - [[Federated Identity Management]]
 - [[Session Management]]
-- [[OpenID]]
+- [[OpenID Connect]]
 
 ---
 

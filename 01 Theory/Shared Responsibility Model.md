@@ -14,7 +14,7 @@ Goals:
 - Align **cloud adoption** with security controls and compliance
 - Enable secure design across **IaaS**, **PaaS**, and **SaaS**
 
-📎 Related: [[Cloud Security]], [[Identity and Access Management (IAM)]], [[Compliance Frameworks]]
+📎 Related: [[Cloud Security]], [[Identity & Access Management (IAM)]], [[Compliance Frameworks]]
 
 ---
 
@@ -44,7 +44,7 @@ Goals:
 - **Endpoint protection**
 - **Compliance with regulatory frameworks**
 
-📎 Related: [[Access Control]], [[Data Classification and Labeling]], [[Data Loss Prevention (DLP)]]
+📎 Related: [[Access Control]], [[Data Classification & Labeling]], [[Data Loss Prevention (DLP)]]
 
 ---
 
@@ -82,11 +82,11 @@ Goals:
 ## 📚 Related Concepts
 
 - [[Cloud Security]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Access Control Provisioning]]
 - [[Risk Management]]
 - [[Compliance Frameworks]]
-- [[Data Classification and Labeling]]
+- [[Data Classification & Labeling]]
 
 ---
 

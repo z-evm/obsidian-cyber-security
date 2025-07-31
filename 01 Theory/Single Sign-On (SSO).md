@@ -107,7 +107,7 @@
 
 ## 🗂 Related Topics
 
-- [[OpenID]]
+- [[OpenID Connect]]
 - [[SAML]]
 - [[OAuth vs SAML vs OpenID]]
 - [[Authentication Protocols]]

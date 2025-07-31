@@ -15,7 +15,7 @@ Goals:
 - Support **threat hunting** and **incident investigation**
 - Reduce **dwell time** of attackers
 
-📎 Related: [[SIEM]], [[Detection Engineering]], [[Threat Intelligence]]
+📎 Related: [[Security Information & Event Management (SIEM)]], [[Detection Engineering]], [[Threat Intelligence]]
 
 ---
 
@@ -95,10 +95,11 @@ Goals:
 
 ## 📚 Related Concepts
 
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Detection Engineering]]
 - [[Incident Response]]
 - [[Threat Intelligence]]
+- [[Network-Based Threat Detection]]
 - [[TTPs]]
 - [[Indicators of Compromise (IOCs)]]
 

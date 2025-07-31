@@ -90,7 +90,7 @@
 - [[Antivirus vs EDR]]
 - [[Security Policy Frameworks]]
 - [[Patch Management Process]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 
 ---
 

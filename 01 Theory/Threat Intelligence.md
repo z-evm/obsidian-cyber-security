@@ -25,7 +25,7 @@ Goals:
 | **Operational**    | Insights about specific ongoing campaigns or threat actors       | Indicators tied to active campaigns     |
 | **Technical**      | Raw technical data and IOCs (Indicators of Compromise)           | IPs, file hashes, domain names          |
 
-📎 Related: [[Incident Response Planning (IRP)]], [[SIEM]], [[Risk Management]]
+📎 Related: [[Incident Response Planning (IRP)]], [[Security Information & Event Management (SIEM)]], [[Risk Management]]
 
 ---
 
@@ -97,7 +97,7 @@ A globally accessible knowledge base of:
 
 - [[Incident Response Planning (IRP)]]
 - [[Risk Management]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Vulnerability Management]]
 - [[MITRE ATT&CK]]
 - [[Defense in Depth]]

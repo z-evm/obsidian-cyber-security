@@ -121,7 +121,7 @@ If you do not act, your account will be locked.
 
 ## ✅ To Do
 
--  Simulate phishing campaign in lab using Gophish or King Phisher
--  Monitor SIEM for Event ID 4104 + rare domain traffic
--  Create playbook for phishing incident response
--  Train users to recognize common phishing tactics
+- [ ]  Simulate phishing campaign in lab using Gophish or King Phisher
+- [ ]  Monitor SIEM for Event ID 4104 + rare domain traffic
+- [ ]  Create playbook for phishing incident response
+- [ ]  Train users to recognize common phishing tactics

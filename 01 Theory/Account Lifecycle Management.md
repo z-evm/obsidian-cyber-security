@@ -83,7 +83,7 @@
 - [[Least Privilege Principle]]
 - [[RBAC vs ABAC vs MAC]]
 - [[Password Policies]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 
 ---
 

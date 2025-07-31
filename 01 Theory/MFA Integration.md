@@ -108,7 +108,7 @@
 - [[Federated Identity]]
 - [[Authentication Protocols]]
 - [[Phishing Defense Techniques]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[Authorization Models]]
 
 ---

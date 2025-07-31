@@ -24,7 +24,7 @@ Goals:
 | **3. Containment, Eradication, Recovery** | Stop spread, remove threat, restore services |
 | **4. Post-Incident Activity** | Lessons learned, reporting, and policy updates     |
 
-📎 Related: [[SIEM]], [[Security Controls]], [[Risk Management]]
+📎 Related: [[Security Information & Event Management (SIEM)]], [[Security Controls]], [[Risk Management]]
 
 ---
 
@@ -61,7 +61,7 @@ Goals:
 - End-user reports
 - System audit logs
 
-📎 Related: [[Accounting]], [[SIEM]], [[Authentication]]
+📎 Related: [[Accounting]], [[Security Information & Event Management (SIEM)]], [[Authentication]]
 
 ---
 
@@ -108,7 +108,7 @@ Goals:
 
 - [[Risk Management]]
 - [[Security Controls]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Business Continuity & Disaster Recovery]]
 - [[Threat Intelligence]]
 - [[Gap Analysis]]

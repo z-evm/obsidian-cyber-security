@@ -102,7 +102,7 @@ Without secure key management, even strong encryption becomes ineffective.
 - [[Digital Certificates]]
 - [[Authentication]]
 - [[Confidentiality]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 
 ---
 

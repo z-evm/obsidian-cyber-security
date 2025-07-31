@@ -97,7 +97,7 @@
 ## 🧩 Related Topics
 
 - [[Incident Response Planning (IRP)]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Compliance Reporting and Audits]]
 - [[Security Policy Enforcement]]
 - [[Monitoring & Alerting in the Cloud]]

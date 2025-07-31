@@ -85,7 +85,7 @@ A **Cloud Access Security Broker (CASB)** is a security solution that sits betwe
 
 - [[Cloud Security Principles]]
 - [[Data Loss Prevention (DLP)]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Monitoring & Alerting in the Cloud]]
 - [[Security Policy Enforcement]]
 - [[Compliance & Governance in the Cloud]]

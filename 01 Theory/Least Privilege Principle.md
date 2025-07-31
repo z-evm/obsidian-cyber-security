@@ -80,7 +80,7 @@ The **Principle of Least Privilege (PoLP)** is a foundational security concept t
 - [[Privilege Escalation Risks]]
 - [[Role Based Access Control (RBAC)]]
 - [[Separation of Duties]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 
 ---
 

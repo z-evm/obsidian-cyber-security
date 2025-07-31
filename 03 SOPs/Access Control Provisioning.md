@@ -15,7 +15,7 @@ Goals:
 - Support **compliance** with audit and regulatory requirements
 - Minimize **insider threats**, orphaned accounts, and privilege creep
 
-📎 Related: [[Access Control]], [[Security Policies]], [[Identity and Access Management (IAM)]]
+📎 Related: [[Access Control]], [[Security Policies]], [[Identity & Access Management (IAM)]]
 
 ---
 
@@ -67,7 +67,7 @@ Goals:
 - Log and monitor **all access changes and escalations**
 - Maintain clear **ownership and approval chains**
 
-📎 Related: [[Zero Trust]], [[Compliance Frameworks]]
+📎 Related: [[Zero Trust Architecture]], [[Compliance Frameworks]]
 
 ---
 
@@ -84,7 +84,7 @@ Goals:
 ## 📚 Related Concepts
 
 - [[Access Control]]
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Authentication]]
 - [[Authorization]]
 - [[Security Policies]]

@@ -122,7 +122,7 @@
 - [[VLANs and Subnetting]]
 - [[Secure Network Design]]
 - [[Authentication Protocols]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[SIEM & Log Analysis]]
 
 ---

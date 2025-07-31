@@ -95,7 +95,7 @@ Allow SSH from Internal (192.168.10.0/24) to Secure zone (192.168.20.0/24)
 
 - [[Network Segmentation]]
 - [[SIEM & Log Analysis]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[01 Theory/Intrusion Detection Systems (IDS)]]
 - [[Asset Inventory]]
 

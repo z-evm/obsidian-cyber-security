@@ -106,6 +106,7 @@ TLS cipher suites define the algorithms used for:
 
 ## 🧩 Related Topics
 
+- [[TLS 1.3]]
 - [[Certificate Management]]
 - [[OCSP vs CRL]]
 - [[Public Key Infrastructure (PKI)]]

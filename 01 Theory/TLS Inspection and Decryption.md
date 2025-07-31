@@ -111,7 +111,7 @@ A **VPN** creates a **secure tunnel** between endpoints (e.g., user ↔ company 
 - [[Encrypting Data]]
 - [[Authentication vs Authorization]]
 - [[Public Key Infrastructure (PKI)]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 
 ---
 

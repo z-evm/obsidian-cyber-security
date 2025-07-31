@@ -44,7 +44,7 @@ Goals:
 | **Attachment Sandboxing**   | Execute suspicious attachments in isolated VMs          |
 | **Link Unwrapping / Redirect Tracing** | Reveal the final URL behind shortened links  |
 
-📎 Related: [[Mail Header Analysis]], [[SIEM]], [[Indicators of Compromise (IOCs)]]
+📎 Related: [[Mail Header Analysis]], [[Security Information & Event Management (SIEM)]], [[Indicators of Compromise (IOCs)]]
 
 ---
 

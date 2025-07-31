@@ -21,7 +21,7 @@ It ensures that all access and usage events are **recorded**, **retained**, and 
 | **Command execution**            | Commands run on servers, especially privileged actions     |
 | **Network activity**             | IP addresses, ports, protocols used                       |
 
-📎 Related: [[SIEM]], [[Non-Repudiation]]
+📎 Related: [[Security Information & Event Management (SIEM)]], [[Non-Repudiation]]
 
 ---
 
@@ -93,7 +93,7 @@ It ensures that all access and usage events are **recorded**, **retained**, and 
 - [[AAA Framework]]
 - [[Authentication]]
 - [[Authorization]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Non-Repudiation]]
 - [[Security Controls]]
 

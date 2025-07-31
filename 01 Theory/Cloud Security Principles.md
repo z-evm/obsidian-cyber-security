@@ -94,7 +94,7 @@
 
 ## 🧩 Related Topics
 
-- [[Identity and Access Management (IAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Encryption Algorithms]]
 - [[Key Management Systems (KMS)]]
 - [[Cloud Disaster Recovery]]

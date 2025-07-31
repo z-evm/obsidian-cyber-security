@@ -121,7 +121,7 @@ Applies to:
 
 - [[Security Logging and Monitoring]]
 - [[Phishing Response]]
-- [[SIEM and Threat Detection]]
+- [[SIEM & Threat Detection]]
 - [[Chain of Custody]]
 - [[Disaster Recovery Planning (DRP)]]
 - [[Data Breach Notification Procedure]]

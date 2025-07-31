@@ -93,7 +93,7 @@ It is commonly implemented in enterprise environments, especially in remote acce
 - [[Non-Repudiation]]
 - [[Access Control Provisioning]]
 - [[Integrity]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 
 ---
 

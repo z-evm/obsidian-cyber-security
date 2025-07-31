@@ -111,4 +111,4 @@ It ensures that sensitive data is only accessible to those with the **right perm
 
 - [ ] Diagram: Data flow with confidentiality controls applied
 - [ ] Include a breach case study demonstrating failed confidentiality
-- [ ] Link to [[Zero Trust]] in future notes
+- [ ] Link to [[Zero Trust Architecture]] in future notes

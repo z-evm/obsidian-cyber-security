@@ -130,7 +130,7 @@
 - [[CIA Triad]]
 - [[Authorization Models]]
 - [[Access Control Provisioning]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[Auditing & Accounting]]
 - [[Security Models]]
 

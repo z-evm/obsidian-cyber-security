@@ -78,9 +78,9 @@ They help security leaders assess performance, justify investments, and drive co
 
 - [[Security Operations Center (SOC)]]
 - [[SIEM & Log Analysis]]
-- [[Security Orchestration Automation and Response (SOAR)]]
+- [[Security Orchestration, Automation, and Response (SOAR)]]
 - [[Incident Response Framework]]
-- [[Threat Intelligence Platforms]]
+- [[Threat Intelligence Platforms (TIP)]]
 - [[Penetration Testing Phases]]
 
 ---

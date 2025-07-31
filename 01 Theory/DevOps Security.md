@@ -58,7 +58,7 @@ Goals:
 | **Infrastructure as Code**| Terraform, Ansible, AWS CloudFormation             |
 | **CI/CD Security Plugins**| GitLab Secure, Jenkins Security Plugins            |
 
-📎 Related: [[Patch Management]], [[Technical Change Management]], [[SIEM]]
+📎 Related: [[Patch Management]], [[Technical Change Management]], [[Security Information & Event Management (SIEM)]]
 
 ---
 
@@ -101,7 +101,7 @@ Goals:
 - [[Technical Change Management]]
 - [[Configuration Management]]
 - [[Patch Management]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Cloud Security]]
 - [[Risk Management]]
 - [[Access Control Provisioning]]

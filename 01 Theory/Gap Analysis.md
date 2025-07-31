@@ -49,7 +49,7 @@ It helps organizations:
 - **Vulnerability scans and audits**
 - **SIEM and log analysis** for control validation
 
-📎 Related: [[Security Controls]], [[SIEM]], [[Compliance Frameworks]]
+📎 Related: [[Security Controls]], [[Security Information & Event Management (SIEM)]], [[Compliance Frameworks]]
 
 ---
 

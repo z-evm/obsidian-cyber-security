@@ -114,7 +114,7 @@
 - [[Encryption Technologies]]
 - [[TLS Protocol Overview]]
 - [[Public Key Infrastructure (PKI)]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[Mobile Application Security]]
 
 ---

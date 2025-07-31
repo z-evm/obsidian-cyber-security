@@ -111,8 +111,8 @@ permissions:
 - [[Discretionary Access Control (DAC)]]
 - [[Mandatory Access Control (MAC)]]
 - [[Access Control List (ACL)]]
-- [[Identity and Access Management (IAM)]]
-- [[Zero Trust]]
+- [[Identity & Access Management (IAM)]]
+- [[Zero Trust Architecture]]
 - [[Security Policy Enforcement]]
 
 ---

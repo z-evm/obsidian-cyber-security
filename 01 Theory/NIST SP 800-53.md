@@ -98,7 +98,7 @@ An **API Gateway** is a centralized entry point that manages, secures, and route
 - [[Certificate Pinning]]
 - [[Authentication Protocols]]
 - [[Reverse Proxies]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 
 ---
 

@@ -115,7 +115,7 @@ The **OWASP API Security Top 10** is a security awareness document that highligh
 - [[Authentication Protocols]]
 - [[API Gateway Security]]
 - [[Input Validation and Sanitization]]
-- [[Secure Development Lifecycle (SDLC)]]
+- [[Secure Software Development Life Cycle (SSDLC)]]
 - [[Code Review and Hardening]]
 
 ---

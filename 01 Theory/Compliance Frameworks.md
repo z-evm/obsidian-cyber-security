@@ -106,7 +106,7 @@ Maintain both through **defense-in-depth**, **continuous monitoring**, and **inc
 - [[Risk Management]]
 - [[Gap Analysis]]
 - [[Incident Response Planning (IRP)]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Non-Repudiation]]
 
 ---

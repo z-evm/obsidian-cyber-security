@@ -102,7 +102,7 @@
 ## 🔗 Related Topics
 
 - [[Firewall Rules & Zoning]]
-- [[Zero Trust]]
+- [[Zero Trust Architecture]]
 - [[01 Theory/Intrusion Detection Systems (IDS)]]
 - [[SIEM & Log Analysis]]
 - [[Patch Management]]

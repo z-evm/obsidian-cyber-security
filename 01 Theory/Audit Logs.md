@@ -13,7 +13,7 @@ Goals:
 - Support **incident response** and **forensic investigations**
 - Provide evidence for **compliance and audits**
 
-📎 Related: [[Auditing & Accounting]], [[Log Management]], [[SIEM]]
+📎 Related: [[Auditing & Accounting]], [[Log Management]], [[Security Information & Event Management (SIEM)]]
 
 ---
 
@@ -100,10 +100,11 @@ Goals:
 
 ## 📚 Related Concepts
 
+- [[Audit Trails]]
 - [[Auditing & Accounting]]
 - [[Log Management]]
 - [[Incident Response]]
-- [[SIEM]]
+- [[Security Information & Event Management (SIEM)]]
 - [[Threat Detection]]
 - [[Compliance Frameworks]]
 

@@ -110,7 +110,7 @@
 ## 🗂 Related Topics
 
 - [[OWASP Top 10]]
-- [[Secure Development Lifecycle (SDLC)]]
+- [[Secure Software Development Life Cycle (SSDLC)]]
 - [[Application Security Testing Tools]]
 - [[DevSecOps Practice]]
 - [[Code Review Checklist]]

@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "75dea79ed8c69136",
+        "id": "80ddd23b5370746c",
         "type": "tabs",
         "children": [
           {
-            "id": "1d6a9bc558e26f92",
+            "id": "1a1110c681b704fe",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Theory/Secure File Handling.md",
+                "file": "01 Theory/Wireless Attacks.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Secure File Handling"
+              "title": "Wireless Attacks"
             }
           }
         ]
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 413.5026054382324
   },
   "right": {
     "id": "da840f2c4f64ccf7",
@@ -168,34 +170,36 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3e5ff73adfb3fb5f",
+  "active": "1a1110c681b704fe",
   "lastOpenFiles": [
-    "README.md",
-    "01 Theory/Incident Response Policy.md",
-    "01 Theory/Data Breach Notification Procedure.md",
-    "01 Theory/Encryption Standards.md",
-    "Data Retention Polic.md",
-    "01 Theory/Data Retention Policy.md",
-    "01 Theory/Secure File Handling.md",
-    "01 Theory/Data Classification Policy.md",
-    "01 Theory/CIA Triad.md",
-    "01 Theory/Change Management Process.md",
-    "01 Theory/Change Management.md",
-    "01 Theory/Chain of Custody.md",
-    "01 Theory/Certificate Pinning.md",
-    "01 Theory/Certificate Management.md",
-    "01 Theory/CASB (Cloud Access Security Broker).md",
-    "01 Theory/Business Impact Analysis (BIA).md",
-    "01 Theory/Business Continuity Planning (BCP).md",
-    "01 Theory/Business Continuity & Disaster Recovery.md",
-    "01 Theory/Bug Bounty and Pentesting.md",
-    "01 Theory/Buffer Overflow.md",
-    "01 Theory/Budget Justification for Security Controls.md",
-    "01 Theory/Brute Force Mitigation.md",
-    "01 Theory/Blue Teaming.md",
-    "01 Theory/Biba Model.md",
-    "01 Theory/Bell-LaPadula Model.md",
-    "01 Theory/Backup Strategies.md",
+    "01 Theory/Vulnerability Scanning Tools.md",
+    "01 Theory/Vulnerability Scanning.md",
+    "01 Theory/Vulnerability Management.md",
+    "01 Theory/Wireless Attacks.md",
+    "Brand Protection Strategies.md",
+    "Typosquatting Detection Tools.md",
+    "DNS Attacks.md",
+    "01 Theory/DNS Security.md",
+    "01 Theory/Denial of Service (DoS).md",
+    "01 Theory/RFID Cloning.md",
+    "01 Theory/Network Pentesting Methodology.md",
+    "01 Theory/Account Takeover Prevention.md",
+    "01 Theory/Identity & Access Management (IAM).md",
+    "01 Theory/Password Policy Enforcement.md",
+    "01 Theory/Phishing Campaign Simulation.md",
+    "01 Theory/SIEM & Threat Detection.md",
+    "01 Theory/Physical Security Recon.md",
+    "01 Theory/Credential Leak Monitoring.md",
+    "01 Theory/Open Source Intelligence (OSINT).md",
+    "01 Theory/Social Engineering Recon.md",
+    "01 Theory/Red Teaming.md",
+    "01 Theory/Wireless Pentesting Methodology.md",
+    "01 Theory/Proximity Card Spoofing.md",
+    "01 Theory/Physical Security.md",
+    "01 Theory/Malware Types.md",
+    "01 Theory/Logic Bomb.md",
+    "Unwanted Software Classification (PUA",
+    "TLS",
     "CI",
     "SOPs",
     "BC",
@@ -203,8 +207,6 @@
     "SSL",
     "SAML/ OAuth",
     "SAML",
-    "Business Continuity and Disaster Recovery (BC",
-    "TLS",
-    "Tools & Cheat Sheets"
+    "Business Continuity and Disaster Recovery (BC"
   ]
 }

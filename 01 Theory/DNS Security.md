@@ -113,10 +113,11 @@ Without inspection, **security tools become blind** to:
 
 - [[TLS & SSL]]
 - [[Man-in-the-Middle Attacks]]
-- [[Firewall Rules and Zoning]]
+- [[Firewall Rules & Zoning]]
 - [[Data Loss Prevention (DLP)]]
 - [[Secure Web Gateways]]
 - [[TLS Certificate Management]]
+- [[DNS Attacks]]
 
 ---
 
