@@ -61,7 +61,7 @@ The act of exploiting a vulnerability, misconfiguration, or flaw to gain **eleva
 
 - [[Privilege Escalation Techniques]]
 - [[Least Privilege Principle]]
-- [[File Integrity Monitoring]]
+- [[File Integrity Monitoring (FIM)]]
 - [[Endpoint Detection & Response (EDR)]]
 - [[Credential Dumping]]
 

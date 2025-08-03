@@ -101,11 +101,11 @@ MITRE ATT&CK provides a standardized way to **map tactics, techniques, and proce
 
 ## 🔗 Related Topics
 
-- [[MITRE ATT&CK ]]
+- [[MITRE ATT&CK Framework]]
 - [[SIEM & Log Analysis]]
 - [[Incident Response]]
 - [[Advanced Persistent Threats (APT)]]
-- [[Indicators of Compromise (IOCs)]]
+- [[Indicators of Compromise (IoC)]]
 - [[Endpoint Detection & Response (EDR)]]
 
 ---

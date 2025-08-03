@@ -76,7 +76,7 @@ The CIA Triad represents the **three core principles of information security**:
 
 - [[Security Controls]]
 - [[Control Types]]
-- [[Hashing and Integrity Test]]
+- [[Hashing & Integrity Test]]
 - [[Data Classification Policy]]
 
 ---

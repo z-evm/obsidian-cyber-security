@@ -59,7 +59,7 @@
 
 **Example:** HR role has access to employee records but not financial systems.
 
-→ See: [[Role Based Access Control (RBAC)]]
+→ See: [[Role-Based Access Control (RBAC)]]
 
 ---
 
@@ -74,7 +74,7 @@
 - Uses logic like: "Allow access if user.department = HR AND time = work_hours"
 - Used in Zero Trust and cloud environments
 
-→ See: [[ABAC vs RBAC]]
+→ See: [[Attribute-Based Access Control (ABAC)]]
 
 ---
 

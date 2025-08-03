@@ -78,7 +78,7 @@ A snapshot captures the current state of a VM, including:
 
 - [[Virtualization Vulnerabilities]]
 - [[Hypervisor Security]]
-- [[Cloud-Specific Vulnerabilities]]
+- [[Cloud Specific Vulnerabilities]]
 - [[Backup vs Snapshot]]
 - [[Encryption Lifecycle]]
 

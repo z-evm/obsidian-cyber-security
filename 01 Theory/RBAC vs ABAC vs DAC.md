@@ -32,7 +32,7 @@ Understanding access control models is essential for managing who can access wha
 - Not context-aware
 - Role explosion in complex orgs
 
-> See: [[Role Based Access Control (RBAC)]]
+> See: [[Role-Based Access Control (RBAC)]]
 
 ---
 
@@ -95,7 +95,7 @@ Understanding access control models is essential for managing who can access wha
 - [[Access Control Models]]
 - [[NTFS Permissions]]
 - [[Least Privilege Principle]]
-- [[Account Lifecycle Management]]
+- [[Account Lifecycle Management (ALM)]]
 
 ---
 

@@ -110,7 +110,7 @@
 - [[Vulnerability Management]]
 - [[Code Signing]]
 - [[SBOM (Software Bill of Materials)]]
-- [[DevOps Security]]
+- [[DevSecOps]]
 - [[Incident Response Framework]]
 - [[Supply Chain Attacks]]
 

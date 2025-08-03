@@ -79,8 +79,8 @@
 
 ## 🗂 Related Topics
 
-- [[PKI and Certificates]]
-- [[HTTPS Inspection and Decryption]]
+- [[PKI & Certificates]]
+- [[HTTPS Inspection & Decryption]]
 - [[TLS Protocol Overview]]
 - [[OCSP vs CRL]]
 - [[Cryptographic Key Management]]

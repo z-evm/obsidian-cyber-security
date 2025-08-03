@@ -78,7 +78,7 @@ A **Risk Register** is a structured document or system used to record, track, an
 
 - [[Risk Assessment Techniques]]
 - [[Business Impact Analysis (BIA)]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[Security Assessment Report (SAR)]]
 - [[System Security Plan (SSP)]]
 - [[Continuous Monitoring]]

@@ -44,7 +44,7 @@ Objectives:
 | **Log Management**   | Syslog, Filebeat, Graylog                           |
 | **Vulnerability Scanning** | Nessus, Qualys, OpenVAS                    |
 
-📎 Related: [[Detection Engineering]], [[Threat Intelligence]], [[Indicators of Compromise (IOCs)]]
+📎 Related: [[Detection Engineering]], [[Threat Intelligence]], [[Indicators of Compromise (IoC)]]
 
 ---
 
@@ -68,7 +68,7 @@ Objectives:
 - **Cyber Kill Chain**: Framework to understand attack stages
 - **Defense in Depth**: Layered security strategy
 
-📎 Related: [[Defense in Depth]], [[MITRE ATT&CK]], [[TTPs]]
+📎 Related: [[Defense in Depth]], [[MITRE ATT&CK Framework]], [[Threat Actor Tactics, Techniques, & Procedures (TTPs)]]
 
 ---
 
@@ -99,7 +99,7 @@ Objectives:
 - [[Incident Response Planning (IRP)]]
 - [[Detection Engineering]]
 - [[Threat Intelligence]]
-- [[Indicators of Compromise (IOCs)]]
+- [[Indicators of Compromise (IoC)]]
 - [[Defense in Depth]]
 - [[Vulnerability Management]]
 

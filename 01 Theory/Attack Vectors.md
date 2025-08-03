@@ -85,7 +85,7 @@
 - [[Social Engineering]]
 - [[Phishing Response]]
 - [[Malware Types]]
-- [[Intrusion Detection and Prevention]]
+- [[Intrusion Detection & Prevention]]
 - [[SIEM & SOAR]]
 
 ---

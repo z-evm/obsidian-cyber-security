@@ -55,7 +55,7 @@ Control types can also be classified by **how they are implemented**:
 | **Administrative**| Managed by people and policies       | Security policies, background checks, training|
 | **Physical**      | Protect physical access or environments | Locks, badges, security guards              |
 
-📎 Related: [[Configuration Management]], [[Change Management]]
+📎 Related: [[Configuration Management]], [[Change Management Process]]
 
 ---
 

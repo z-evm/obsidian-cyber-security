@@ -93,9 +93,9 @@ Servers failing health checks are removed from the pool until recovery.
 ## 📚 Related Topics
 
 - [[Reverse Proxies]]
-- [[Web Application Firewalls]]
+- [[Web Application Firewall (WAF)]]
 - [[TLS Certificate Management]]
-- [[High Availability and Redundancy]]
+- [[High Availability & Redundancy]]
 - [[API Gateway Security]]
 - [[Network Segmentation]]
 

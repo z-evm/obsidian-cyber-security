@@ -119,7 +119,7 @@ Segmenting the network limits lateral movement and exposure.
 ## 🗂 Related Topics
 
 - [[Firewall Rules & Zoning]]
-- [[802.1X and EAP]]
+- [[802.1X & EAP]]
 - [[Zero Trust Architecture]]
 - [[VLANs and Subnetting]]
 - [[SIEM & Log Analysis]]

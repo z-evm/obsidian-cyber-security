@@ -31,7 +31,7 @@ A **Continuous Monitoring Plan (ConMon Plan)** outlines how a Cloud Service Prov
 
 ### 🔹 **Monthly Activities**
 - Submit vulnerability scan results (internal, external, web app).
-- Update [[Plan of Action and Milestones (POA&M)]].
+- Update [[Plan of Action & Milestones (POA&M)]].
 - Report system changes, open ports, inventory updates.
 
 ### 🔸 **Quarterly/Annual Activities**
@@ -67,7 +67,7 @@ A **Continuous Monitoring Plan (ConMon Plan)** outlines how a Cloud Service Prov
 
 - [[System Security Plan (SSP)]]
 - [[Security Assessment Report (SAR)]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[FedRAMP Continuous Monitoring Strategy Guide]]
 - [[NIST SP 800-137]]
 

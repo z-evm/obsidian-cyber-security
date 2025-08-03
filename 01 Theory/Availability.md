@@ -116,4 +116,4 @@ Goals:
 
 - [ ] Add visual: Availability strategy map (redundancy, DR, backup)
 - [ ] Include SLA/Uptime percentage cheat sheet (e.g., 99.99% = ~5 mins/month)
-- [ ] Link to [[DR Plan]] and [[Redundancy Models]] for continuity planning
+- [ ] Link to [[di]] and [[Redundancy Models]] for continuity planning

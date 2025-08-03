@@ -109,7 +109,7 @@ The receiver must compute the same HMAC using the same key and compare results.
 - [[Hashing]]
 - [[Digital Signatures]]
 - [[Symmetric vs Asymmetric Encryption]]
-- [[TLS & SSL]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Authentication Protocols]]
 - [[Data Integrity]]
 

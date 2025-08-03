@@ -105,7 +105,7 @@ Tier 1 → Tier 2 → Tier 3 → IR Team / External Support
 - [[SIEM & SOAR]]
 - [[Incident Response Planning (IRP)]]
 - [[Threat Intelligence]]
-- [[Intrusion Detection and Prevention]]
+- [[Intrusion Detection & Prevention]]
 - [[Security Automation]]
 - [[Behavior Analytics]]
 

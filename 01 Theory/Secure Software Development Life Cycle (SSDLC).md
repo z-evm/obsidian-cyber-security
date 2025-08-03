@@ -84,7 +84,7 @@ The **Secure Development Lifecycle (SDL)** is a structured process that integrat
 - [[OWASP Top 10]]
 - [[SAST vs DAST]]
 - [[Threat Modeling]]
-- [[DevOps Security]]
+- [[DevSecOps]]
 - [[Code Review and Hardening]]
 
 ---

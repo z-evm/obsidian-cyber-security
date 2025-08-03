@@ -44,7 +44,7 @@ Goals:
 - **Endpoint protection**
 - **Compliance with regulatory frameworks**
 
-📎 Related: [[Access Control]], [[Data Classification & Labeling]], [[Data Loss Prevention (DLP)]]
+📎 Related: [[Access Control]], [[Data Classification & Labelling]], [[Data Loss Prevention (DLP)]]
 
 ---
 
@@ -86,7 +86,7 @@ Goals:
 - [[Access Control Provisioning]]
 - [[Risk Management]]
 - [[Compliance Frameworks]]
-- [[Data Classification & Labeling]]
+- [[Data Classification & Labelling]]
 
 ---
 

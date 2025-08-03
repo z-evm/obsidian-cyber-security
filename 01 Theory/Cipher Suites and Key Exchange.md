@@ -109,7 +109,7 @@ TLS_AES_128_GCM_SHA256
 
 - [[TLS Protocol Overview]]
 - [[Perfect Forward Secrecy (PFS)]]
-- [[TLS 1.3]]
+- [[Transport Layer Security (TLS 1.3)]]
 - [[Encryption Technologies]]
 - [[Public Key Infrastructure (PKI)]]
 - [[Certificate Management]]

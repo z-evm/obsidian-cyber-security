@@ -96,7 +96,7 @@
 ## 🗂 Related Topics
 
 - [[Password Hashing Techniques]]
-- [[Password Policies]]
+- [[Password Policy]]
 - [[Authentication Attacks]]
 - [[Multi-Factor Authentication (MFA)]]
 - [[Hash Cracking & Rainbow Tables]]

@@ -102,7 +102,7 @@ sha256sum -c myfile.txt.sha256
 ## 🧩 Related Topics
 
 - [[Digital Signatures]]
-- [[File Integrity Monitoring]]
+- [[File Integrity Monitoring (FIM)]]
 - [[Password Hashing Techniques]]
 - [[Malware Detection and Forensics]]
 - [[Security Auditing and Logging]]

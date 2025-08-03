@@ -99,7 +99,7 @@ The **Federal Risk and Authorization Management Program (FedRAMP)** standardizes
 - [[Authorization to Operate (ATO)]]
 - [[Security Assessment Report (SAR)]]
 - [[System Security Plan (SSP)]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[Continuous Monitoring]]
 - [[Risk Management Framework (RMF)]]
 

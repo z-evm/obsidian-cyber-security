@@ -91,7 +91,7 @@
 - [[Secure Login Mechanisms]]
 - [[Man-in-the-Middle Attacks]]
 - [[XSS and Web Exploits]]
-- [[TLS & SSL]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Authentication Attacks]]
 - [[Cookie Security]]
 

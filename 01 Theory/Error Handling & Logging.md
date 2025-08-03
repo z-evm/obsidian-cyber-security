@@ -100,7 +100,7 @@ Login failed. Please try again.
 - Link logs to:
     - [[SIEM & Log Analysis]]
     - [[Phishing Response Workflow]]
-    - [[File Integrity Monitoring]]
+    - [[File Integrity Monitoring (FIM)]]
 
 ---
 

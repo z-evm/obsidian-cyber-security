@@ -1,5 +1,3 @@
-# ⏱️ Time-of-Check to Time-of-Use (TOCTOU)
-
 **TOCTOU** is a specific type of **race condition** where a program checks a condition (e.g., file permissions, existence) and then acts on it later — creating a window where the system state may change before use. Attackers exploit this gap to manipulate the system between **check** and **use**, bypassing security checks.
 
 ---

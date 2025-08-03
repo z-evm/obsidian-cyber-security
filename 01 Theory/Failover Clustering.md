@@ -98,12 +98,13 @@
 
 ## 🧩 Related Topics
 
-- [[High Availability and Load Balancing]]
+- [[High Availability & Load Balancing]]
 - [[Redundancy Models]]
 - [[Disaster Recovery Planning (DRP)]]
 - [[Cloud Disaster Recovery]]
 - [[Business Continuity Planning (BCP)]]
-- [[RTO and RPO]]
+- [[RTO and RPO
+- [[Failover]]
 
 ---
 

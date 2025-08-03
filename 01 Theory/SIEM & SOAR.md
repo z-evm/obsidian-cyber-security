@@ -100,7 +100,7 @@
 
 - [[Incident Response Planning (IRP)]]
 - [[Threat Intelligence]]
-- [[Intrusion Detection and Prevention]]
+- [[Intrusion Detection & Prevention]]
 - [[Security Automation]]
 - [[Log Management]]
 - [[SOC Roles & Responsibilities]]

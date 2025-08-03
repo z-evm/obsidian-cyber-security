@@ -80,7 +80,7 @@ It encompasses secure system design, tamper resistance, firmware validation, and
 - [[Bootkits]]
 - [[Secure Boot & Measured Boot]]
 - [[Trusted Platform Module (TPM)]]
-- [[Physical Security]]
+- [[Physical Security Controls]]
 - [[Zero Trust Architecture]]
 
 ---

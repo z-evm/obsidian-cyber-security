@@ -98,7 +98,7 @@ TLS_DHE_RSA_WITH_AES_128_GCM_SHA256
 - [[TLS Protocol Overview]]
 - [[Cipher Suites and Key Exchange]]
 - [[Public Key Infrastructure (PKI)]]
-- [[TLS 1.3]]
+- [[Transport Layer Security (TLS 1.3)]]
 - [[Encryption Technologies]]
 - [[Secure Messaging Protocols]]
 

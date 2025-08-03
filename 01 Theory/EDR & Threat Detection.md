@@ -1,5 +1,3 @@
-# 🖥️ EDR and Threat Detection
-
 **Endpoint Detection and Response (EDR)** combined with **threat detection** enables real-time visibility, investigation, and defense across endpoint environments. Together, they provide the **core of modern security operations**, especially in detecting advanced threats that bypass traditional antivirus or firewalls.
 
 ---
@@ -134,7 +132,7 @@ NewLogonIP NOT IN InternalRanges
 - [[SIEM & Log Analysis]]
 - [[Malware Analysis]]
 - [[Incident Response]]
-- [[Indicators of Compromise (IOCs)]]
+- [[Indicators of Compromise (IoC)]]
 - [[Endpoint Protection vs EDR]]
 
 ---

@@ -99,7 +99,7 @@ CSPs must submit the following each month to their authorizing agency or JAB rev
 ## 🧩 Related Topics
 
 - [[Continuous Monitoring Plan]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[System Security Plan (SSP)]]
 - [[Authorization to Operate (ATO)]]
 - [[Security Assessment Report (SAR)]]

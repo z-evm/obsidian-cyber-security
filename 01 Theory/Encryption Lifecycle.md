@@ -91,7 +91,7 @@
 - [[Digital Signatures]]
 - [[Cryptographic Hashing (Blockchain)]]
 - [[Post-Quantum Cryptography]]
-- [[Data Classification & Labeling]]
+- [[Data Classification & Labelling]]
 
 ---
 

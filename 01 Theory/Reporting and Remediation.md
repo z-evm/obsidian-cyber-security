@@ -92,11 +92,11 @@
 ## 📚 Related Topics
 
 - [[Penetration Testing Phases]]
-- [[Rules of Engagement]]
+- [[Rules of Engagement (RoE)]]
 - [[Security Assessments and Audits]]
 - [[Vulnerability Management]]
 - [[SIEM & Log Analysis]]
-- [[Remediation and Patching Process]]
+- [[Remediation & Patching Process]]
 
 ---
 

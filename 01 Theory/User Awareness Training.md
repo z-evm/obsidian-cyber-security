@@ -13,7 +13,7 @@ Goals:
 - Enforce **security policies** and best practices
 - Build a **culture of cybersecurity awareness**
 
-📎 Related: [[Social Engineering]], [[Physical Security]], [[Security Controls]]
+📎 Related: [[Social Engineering]], [[Physical Security Controls]], [[Security Controls]]
 
 ---
 
@@ -104,10 +104,10 @@ Goals:
 ## 📚 Related Concepts
 
 - [[Social Engineering]]
-- [[Physical Security]]
+- [[Physical Security Controls]]
 - [[Security Controls]]
 - [[Incident Response Planning (IRP)]]
-- [[Acceptable Use Policies]]
+- [[Acceptable Use Policy (AUP)]]
 - [[Access Control]]
 
 ---

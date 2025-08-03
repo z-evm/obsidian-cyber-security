@@ -89,7 +89,7 @@ Use badge design, dress code, or lingo collected during recon to improve authent
 - [[Red Teaming]]
 - [[RFID Cloning]]
 - [[Proximity Card Spoofing]]
-- [[Physical Security]]
+- [[Physical Security Controls]]
 
 ---
 

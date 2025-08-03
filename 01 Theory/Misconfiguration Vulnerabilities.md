@@ -95,7 +95,7 @@
 
 ## 🧩 Related Topics
 
-- [[Cloud-Specific Vulnerabilities]]
+- [[Cloud Specific Vulnerabilities]]
 - [[Infrastructure as Code (IaC) Security]]
 - [[Kubernetes Security]]
 - [[Runtime Threat Detection]]

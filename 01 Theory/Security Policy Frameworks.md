@@ -71,7 +71,7 @@
 ## 🗂 Related Topics
 
 - [[Risk Management Framework (RMF)]]
-- [[Acceptable Use Policy]]
+- [[Acceptable Use Policy (AUP)]]
 - [[Configuration Management]]
 - [[Access Control Models]]
 - [[Compliance Regulations]]

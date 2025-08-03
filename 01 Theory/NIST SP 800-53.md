@@ -94,7 +94,7 @@ An **API Gateway** is a centralized entry point that manages, secures, and route
 ## 📚 Related Topics
 
 - [[OWASP API Security Top 10]]
-- [[Web Application Firewalls]]
+- [[Web Application Firewall (WAF)]]
 - [[Certificate Pinning]]
 - [[Authentication Protocols]]
 - [[Reverse Proxies]]

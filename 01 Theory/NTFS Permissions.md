@@ -91,10 +91,10 @@ The **Effective Permissions** are the combination of:
 
 ## 📚 Related Topics
 
-- [[User and Group Management]]
+- [[User & Group Management]]
 - [[Access Control Models]]
 - [[Least Privilege Principle]]
-- [[Account Lifecycle Management]]
+- [[Account Lifecycle Management (ALM)]]
 - [[Discretionary Access Control (DAC)]]
 
 ---

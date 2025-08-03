@@ -15,7 +15,7 @@ Goals:
 - Install malware or harvest credentials
 - Establish a foothold for further attacks
 
-📎 Related: [[Physical Security]], [[Authentication]], [[Incident Response Planning (IRP)]]
+📎 Related: [[Physical Security Controls]], [[Authentication]], [[Incident Response Planning (IRP)]]
 
 ---
 
@@ -96,7 +96,7 @@ Goals:
 
 ## 📚 Related Concepts
 
-- [[Physical Security]]
+- [[Physical Security Controls]]
 - [[User Awareness Training]]
 - [[Incident Response Planning (IRP)]]
 - [[Access Control]]

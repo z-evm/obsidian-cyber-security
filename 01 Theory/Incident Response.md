@@ -92,7 +92,7 @@ Objectives:
 - Communication logs
 - Lessons learned and follow-up items
 
-📎 Related: [[Indicators of Compromise (IOCs)]], [[Configuration Management]]
+📎 Related: [[Indicators of Compromise (IoC)]], [[Configuration Management]]
 
 ---
 
@@ -119,6 +119,7 @@ Objectives:
 
 ## 📚 Related Concepts
 
+- [[Incident Response Framework]]
 - [[Incident Response Planning (IRP)]]
 - [[Security Information & Event Management (SIEM)]]
 - [[Threat Intelligence]]

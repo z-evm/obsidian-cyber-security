@@ -89,7 +89,7 @@
 ## 📚 Related Topics
 
 - [[Compliance & Governance in the Cloud]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[System Security Plan (SSP)]]
 - [[Security Assessment Report (SAR)]]
 - [[Security Policy Enforcement]]

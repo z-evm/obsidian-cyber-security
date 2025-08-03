@@ -110,7 +110,7 @@ Watch for:
 - [[Reverse Engineering]]
 - [[Memory Forensics]]
 - [[EDR & Threat Detection]]
-- [[Indicators of Compromise (IOCs)]]
+- [[Indicators of Compromise (IoC)]]
 
 ---
 

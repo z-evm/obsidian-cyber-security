@@ -98,7 +98,7 @@ Because DNS traffic is almost always allowed out of internal networks, it provid
 - [[Beaconing Detection]]
 - [[Threat Hunting]]
 - [[SIEM Tools]]
-- [[Network-Based Threat Detection]]
+- [[Network Based Threat Detection]]
 - [[Firewall Evasion Techniques]]
 
 ---

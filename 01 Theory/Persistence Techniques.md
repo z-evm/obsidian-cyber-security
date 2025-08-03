@@ -117,7 +117,7 @@ schtasks /create /tn "Updater" /tr "C:\malicious.exe" /sc onlogon /ru SYSTEM
 - [[Post-Exploitation]]
 - [[Lateral Movement]]
 - [[Privilege Escalation]]
-- [[Indicators of Compromise (IOCs)]]
+- [[Indicators of Compromise (IoC)]]
 - [[Threat Hunting]]
 
 ---

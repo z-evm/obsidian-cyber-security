@@ -81,7 +81,7 @@ Unlike a **forward proxy**, which protects clients, a reverse proxy protects **s
 
 ## 📚 Related Topics
 
-- [[Web Application Firewalls]]
+- [[Web Application Firewall (WAF)]]
 - [[Proxy Servers]]
 - [[TLS Certificate Management]]
 - [[Load Balancing Strategies]]

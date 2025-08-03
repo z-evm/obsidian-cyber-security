@@ -98,7 +98,7 @@
 
 - [[DevSecOps Pipeline]]
 - [[Container Security]]
-- [[Cloud-Specific Vulnerabilities]]
+- [[Cloud Specific Vulnerabilities]]
 - [[Secure API Design Guidelines]]
 - [[Continuous Integration & Continuous Deployment Pipeline Security]]
 

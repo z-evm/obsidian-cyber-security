@@ -7,7 +7,7 @@
 - Uncover **why** a security incident, failure, or disruption occurred.
 - Prevent recurrence by **addressing the true source** of the problem.
 - Improve **incident response**, **change management**, and **resilience**.
-- Support evidence-based decision-making in [[After Action Report (AAR)]], [[Plan of Action and Milestones (POA&M)]], or audits.
+- Support evidence-based decision-making in [[After Action Report (AAR)]], [[Plan of Action & Milestones (POA&M)]], or audits.
 
 ---
 
@@ -89,7 +89,7 @@
 
 - [[After Action Report (AAR)]]
 - [[Incident Response Planning (IRP)]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[Business Continuity Planning (BCP)]]
 - [[Change Management Process]]
 

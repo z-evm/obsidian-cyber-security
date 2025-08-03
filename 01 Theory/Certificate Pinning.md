@@ -101,10 +101,10 @@ Public-Key-Pins:
 
 ## 📚 Related Topics
 
-- [[PKI and Certificates]]
+- [[PKI & Certificates]]
 - [[TLS Certificate Management]]
-- [[HTTPS Inspection and Decryption]]
-- [[Web Application Firewalls]]
+- [[HTTPS Inspection & Decryption]]
+- [[Web Application Firewall (WAF)]]
 - [[Man-in-the-Middle Attacks]]
 - [[Mobile Application Security]]
 

@@ -98,7 +98,7 @@ The `hashed` output is stored in the DB. Verification compares the hash of the i
 - [[Hash Cracking & Rainbow Tables]]
 - [[Salting and Peppering]]
 - [[Authentication Attacks]]
-- [[Password Policies]]
+- [[Password Policy]]
 - [[Secure Login Mechanisms]]
 
 ---

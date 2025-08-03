@@ -82,7 +82,7 @@
 
 ---
 
-## 🧠 Security+ Context
+## 🧠 Context
 
 - Relevant to **blockchain vulnerabilities**, **consensus mechanisms**, and **risk management**.
 - Emphasizes:

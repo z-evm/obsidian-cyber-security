@@ -76,7 +76,7 @@ A **Secure Web Gateway (SWG)** is a security solution that **monitors, filters, 
 ## 🗂 Related Topics
 
 - [[Data Loss Prevention (DLP)]]
-- [[Web Application Firewalls]]
+- [[Web Application Firewall (WAF)]]
 - [[Content Filtering]]
 - [[Proxy Servers]]
 - [[CASB (Cloud Access Security Broker)]]

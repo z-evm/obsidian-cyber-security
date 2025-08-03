@@ -93,7 +93,7 @@ Feeds may be **commercial**, **open-source**, or **community-driven**, and are o
 - [[Threat Hunting]]
 - [[YARA Rule Development]]
 - [[Incident Response]]
-- [[MITRE ATT&CK]]
+- [[MITRE ATT&CK Framework]]
 
 ---
 

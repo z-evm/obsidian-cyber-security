@@ -71,6 +71,7 @@ This principle applies to data **at rest**, **in transit**, and **in processing*
 - [[Digital Signatures]]
 - [[Access Control Provisioning]]
 - [[Availability]]
+- [[Integrity vs Confidentiality]]
 
 ---
 

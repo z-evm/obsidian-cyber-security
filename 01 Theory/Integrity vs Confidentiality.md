@@ -83,7 +83,7 @@
 - [[Bell-LaPadula Model]]
 - [[Hashing]]
 - [[Encryption Technologies]]
-- [[Data Classification & Labeling]]
+- [[Data Classification & Labelling]]
 
 ---
 

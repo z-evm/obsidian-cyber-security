@@ -85,7 +85,7 @@ A **Software Bill of Materials (SBOM)** is a formal, machine-readable inventory 
 - [[Software Composition Analysis (SCA)]]
 - [[Secure Software Development Life Cycle (SSDLC)]]
 - [[Code Signing]]
-- [[DevOps Security]]
+- [[DevSecOps]]
 - [[Third-Party Risk Management]]
 - [[NIST Secure Software Development Framework (SSDF)]]
 

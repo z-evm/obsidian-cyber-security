@@ -80,8 +80,8 @@ A **Man-in-the-Middle (MitM)** attack occurs when a malicious actor intercepts, 
 ## 🗂 Related Topics
 
 - [[Session Hijacking]]
-- [[TLS & SSL]]
-- [[HTTPS Inspection and Decryption]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
+- [[HTTPS Inspection & Decryption]]
 - [[DNS Security]]
 - [[Phishing Defense Techniques]]
 - [[Network Segmentation]]

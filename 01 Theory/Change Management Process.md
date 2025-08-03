@@ -1,81 +1,113 @@
-**Change Management** is a structured approach to ensure that changes to IT systems, configurations, or infrastructure are implemented in a **controlled and secure** manner, reducing the risk of disruption or unintended consequences.
+**Change Management** is the formal process for planning, reviewing, approving, documenting, and implementing changes to **IT systems, configurations, or infrastructure** in a controlled and risk-aware manner.
+
+It ensures that changes are made **deliberately, safely, and with minimal disruption** to services or security posture.
 
 ---
 
-## 🎯 Objective
+## 🎯 Purpose
 
-To ensure all changes are:
-- 🔐 Secure
-- 📋 Documented
-- ✅ Approved
-- 🔄 Reversible (if necessary)
-- 🔍 Auditable
+> **Change Management answers the question:**  
+> _"How do we introduce change without introducing risk?"_
 
----
+Objectives:
+- Prevent **unauthorized or untested changes**
+- Minimize **service disruption**
+- Maintain **security and compliance**
+- Ensure **accountability and auditability**
 
-## 🧱 Key Phases of Change Management
-
-| Phase               | Description |
-|---------------------|-------------|
-| **1. Request**       | A formal change request (CR) is submitted, describing the nature, reason, and impact of the change. |
-| **2. Assessment**    | Technical teams assess the risk, feasibility, and potential impact (including security implications). |
-| **3. Approval**      | The change is reviewed and approved by a Change Advisory Board (CAB) or management. |
-| **4. Implementation**| The change is deployed in a controlled manner, often during maintenance windows. |
-| **5. Verification**  | Post-change testing is performed to confirm success and ensure no unintended effects. |
-| **6. Documentation** | Final details are recorded, and configuration management databases (CMDBs) are updated. |
-| **7. Review**        | A post-implementation review (PIR) is conducted for lessons learned and process improvement. |
+📎 Related: [[Configuration Management]], [[Patch Management]], [[Risk Management]]
 
 ---
 
-## 🧠 Types of Changes
+## 🧱 Core Elements of Change Management
 
-| Type        | Description |
-|-------------|-------------|
-| **Standard** | Pre-approved, low-risk, routine (e.g., software patching). |
-| **Normal**   | Non-urgent changes that follow the full change process. |
-| **Emergency**| Critical changes that bypass normal approval due to urgent business impact (e.g., zero-day mitigation). |
-
----
-
-## ⚠️ Security Considerations
-
-- 🕵️ **Auditability** — Logs and documentation for compliance.
-- 🔐 **Access Control** — Limit who can approve or execute changes.
-- 📉 **Rollback Plans** — Must include contingencies in case of failure.
-- 💣 **Segregation of Duties** — Prevents conflict of interest in change approval and implementation.
+| Element                | Description                                                     |
+|------------------------|-----------------------------------------------------------------|
+| **Change Request (CR)** | Formal proposal for the intended change                        |
+| **Change Advisory Board (CAB)** | Group that evaluates and approves/rejects changes     |
+| **Risk Assessment**     | Evaluation of impact and likelihood of disruption              |
+| **Backout Plan**        | Steps to revert change if it fails                             |
+| **Testing & Validation**| Change is tested in non-production before deployment           |
+| **Communication Plan**  | Notifies stakeholders of upcoming changes                      |
+| **Change Window**       | Approved time to perform change with minimal business impact   |
+| **Audit Trail**         | Record of what was changed, when, and by whom                  |
 
 ---
 
-## ✅ Benefits
+## 🔁 Change Management Lifecycle
 
-- 🚦 **Minimized downtime**
-- 🔐 **Reduced security risks**
-- 📋 **Improved compliance and accountability**
-- 🧰 **Efficient resource planning**
-
----
-
-## 🔧 Tools Involved
-
-- 📜 **IT Service Management (ITSM)** platforms (e.g., ServiceNow, Jira Service Management)
-- 🛠 **Version control systems** (e.g., Git)
-- 🧩 **CMDB** for tracking assets and configurations
-- 📡 **SIEM systems** for post-change monitoring
+1. **Submit Request**: Fill out CR with details, justification, and risk
+2. **Review & Approve**: CAB evaluates technical and business impact
+3. **Plan & Schedule**: Define change window and notify stakeholders
+4. **Test & Validate**: Change is tested in staging
+5. **Implement**: Deploy change with rollback plan ready
+6. **Verify**: Ensure change succeeded and system operates as expected
+7. **Document & Close**: Log actions, outcomes, and lessons learned
 
 ---
 
-## 🗂 Related Topics
+## 🧰 Examples of Changes Requiring Management
+
+| Change Type                | Examples                                                  |
+|----------------------------|------------------------------------------------------------|
+| **Hardware**               | Replacing a switch, upgrading a firewall                   |
+| **Software**               | Applying patches, updating business apps                   |
+| **Configuration**          | Changing port settings, group policies, ACLs              |
+| **Network**                | Updating routing rules, VPN configurations                 |
+| **Security Controls**      | Enabling MFA, changing log retention policies              |
+
+---
+
+## 🛡 Security and Compliance Relevance
+
+- Tracks **who made what change and when**
+- Supports **forensic investigations**
+- Prevents **shadow changes** or unauthorized modifications
+- Demonstrates **due diligence** for audits and frameworks (e.g., NIST, ISO 27001)
+
+📎 Related: [[Compliance Frameworks]], [[Auditing & Accounting]]
+
+---
+
+## ✅ Best Practices
+
+- Integrate with **Configuration and Patch Management**
+- Enforce **segregation of duties** for high-risk changes
+- Automate **change approvals and rollback validation** when possible
+- Use **ticketing systems** (e.g., Jira, ServiceNow) to track changes
+- Schedule **regular CAB meetings** and emergency change workflows
+- Conduct **post-change reviews** to improve the process
+
+---
+
+## ⚠️ Risks of Poor Change Management
+
+- Outages or data loss due to misconfigured updates
+- Security exposure from undocumented or rushed changes
+- Inability to **trace issues back to specific changes**
+- Audit and compliance failures
+
+---
+
+## 📚 Related Concepts
 
 - [[Configuration Management]]
-- [[Patch Management Process]]
-- [[Access Control Models]]
-- [[Security Policy Frameworks]]
-- [[Incident Response Playbook]]
+- [[Patch Management]]
+- [[Risk Management]]
+- [[Auditing & Accounting]]
+- [[Incident Response Planning (IRP)]]
+- [[Compliance Frameworks]]
 
 ---
 
 ## 🏷 Suggested Tags
 
-#change_management #ITSM #security_operations #CAB #compliance #risk_mitigation
+#change_management #itil #cab #system_changes #security_plus #audit_trail
 
 ---
+
+## ✅ To Do
+
+- [ ] Add flowchart: Change Request through approval and implementation
+- [ ] Include sample Change Request form fields
+- [ ] Link to configuration rollback checklist template

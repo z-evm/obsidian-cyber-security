@@ -15,7 +15,7 @@ Goals:
 - Reduce gaps between offensive and defensive security
 - Build shared understanding across security functions
 
-📎 Related: [[Red Teaming]], [[Blue Teaming]], [[Detection Engineering]], [[MITRE ATT&CK]]
+📎 Related: [[Red Teaming]], [[Blue Teaming]], [[Detection Engineering]], [[MITRE ATT&CK Framework]]
 
 ---
 
@@ -54,7 +54,7 @@ Goals:
 | **ELK / Splunk / QRadar** | SIEM platforms used for detection and analysis  |
 | **PurpleSharp**            | Simulated adversary activity generator          |
 
-📎 Related: [[Detection Engineering]], [[Security Information & Event Management (SIEM)]], [[TTPs]]
+📎 Related: [[Detection Engineering]], [[Security Information & Event Management (SIEM)]], [[Threat Actor Tactics, Techniques, & Procedures (TTPs)]]
 
 ---
 
@@ -103,8 +103,8 @@ Goals:
 
 - [[Red Teaming]]
 - [[Blue Teaming]]
-- [[MITRE ATT&CK]]
-- [[TTPs]]
+- [[MITRE ATT&CK Framework]]
+- [[Threat Actor Tactics, Techniques, & Procedures (TTPs)]]
 - [[Threat Intelligence]]
 - [[Detection Engineering]]
 - [[Incident Response Planning (IRP)]]

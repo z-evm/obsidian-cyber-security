@@ -78,10 +78,10 @@
 ## 🧩 Related Topics
 
 - [[Business Continuity Planning (BCP)]]
-- [[Disaster Recovery Planning]]
+- [[Disaster Recovery Planning (DRP)]]
 - [[Business Impact Analysis (BIA)]]
 - [[Incident Response Planning (IRP)]]
-- [[Emergency Communications Plan]]
+- [[Emergency Communications Plan (ECP)]]
 
 ---
 

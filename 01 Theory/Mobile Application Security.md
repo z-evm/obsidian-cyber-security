@@ -99,7 +99,7 @@
 - [[Certificate Pinning]]
 - [[OAuth vs SAML vs OpenID]]
 - [[Data Loss Prevention (DLP)]]
-- [[PKI and Certificates]]
+- [[PKI & Certificates]]
 - [[TLS Certificate Management]]
 - [[Application Security Testing Tools]]
 

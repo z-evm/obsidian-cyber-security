@@ -81,7 +81,7 @@ A formal strategy includes:
 
 - [[System Security Plan (SSP)]]
 - [[Security Assessment Report (SAR)]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[Authorization to Operate (ATO)]]
 - [[Vulnerability Management]]
 - [[SIEM & Log Analysis]]

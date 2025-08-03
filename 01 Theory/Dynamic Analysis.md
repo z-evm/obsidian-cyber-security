@@ -1,5 +1,3 @@
-# 🧪 Dynamic Analysis
-
 **Dynamic analysis** is the process of executing and observing a program in a **controlled environment** to understand its **real-time behavior**. It is widely used in **malware analysis**, **software debugging**, and **exploit research** to detect actions that may not be visible through static inspection.
 
 ---
@@ -100,8 +98,8 @@
 - [[Static vs Dynamic Analysis]]
 - [[Malware Analysis]]
 - [[Memory Forensics]]
-- [[EDR and Threat Detection]]
-- [[Indicators of Compromise (IOCs)]]
+- [[EDR & Threat Detection]]
+- [[Indicators of Compromise (IoC)]]
 
 ---
 

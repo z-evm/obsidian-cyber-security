@@ -105,7 +105,7 @@ Examples of high-risk misconfigs:
 - [[Patch Management]]
 - [[Security Controls]]
 - [[Vulnerability Management]]
-- [[Change Management]]
+- [[Change Management Process]]
 - [[Incident Response Planning (IRP)]]
 - [[Compliance Frameworks]]
 

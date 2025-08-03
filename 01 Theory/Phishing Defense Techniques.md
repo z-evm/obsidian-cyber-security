@@ -100,7 +100,7 @@
 ## 🗂 Related Topics
 
 - [[Email Security Gateways (SEG)]]
-- [[Email Security Standards (SPF, DKIM, DMARC)]]
+- [[Email Security Standards]]
 - [[Multi-Factor Authentication (MFA)]]
 - [[Authentication Attacks]]
 - [[Incident Response Playbook]]

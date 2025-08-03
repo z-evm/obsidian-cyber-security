@@ -99,6 +99,7 @@ Goals:
 - [[Threat Detection]]
 - [[Defense in Depth]]
 - [[Configuration Management]]
+- [[Zero Trust Network Access (ZTNA)]]
 
 ---
 

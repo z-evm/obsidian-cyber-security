@@ -1,5 +1,3 @@
-# 🛡️ Cybersecurity Knowledge Vault
-
 Welcome to the **Cybersecurity Knowledge Vault** — a structured, interlinked, and practical Obsidian knowledge base designed to support CompTIA Security+ certification and foundational cybersecurity mastery.
 
 ---

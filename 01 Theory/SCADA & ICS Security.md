@@ -95,7 +95,7 @@
 
 - [[Network Segmentation]]
 - [[Security Controls]]
-- [[Intrusion Detection and Prevention]]
+- [[Intrusion Detection & Prevention]]
 - [[Incident Response Planning (IRP)]]
 - [[Access Control Models]]
 - [[SIEM & SOAR]]

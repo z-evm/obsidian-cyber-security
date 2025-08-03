@@ -99,7 +99,7 @@ _Detects hosts communicating repeatedly with the same IP at short intervals._
 - [[SIEM Tools]]
 - [[DNS Tunneling]]
 - [[Threat Hunting]]
-- [[User and Entity Behavior Analytics (UEBA)]]
+- [[User & Entity Behavior Analytics (UEBA)]]
 
 ---
 

@@ -15,7 +15,7 @@ Goals:
 - Test incident response readiness
 - Improve organizational **resilience** and **awareness**
 
-📎 Related: [[Purple Teaming]], [[TTPs]], [[MITRE ATT&CK]], [[Incident Response Planning (IRP)]]
+📎 Related: [[Purple Teaming]], [[Threat Actor Tactics, Techniques, & Procedures (TTPs)]], [[MITRE ATT&CK Framework]], [[Incident Response Planning (IRP)]]
 
 ---
 
@@ -42,7 +42,7 @@ Goals:
 7. **Command & Control** – Maintain covert comms
 8. **Exfiltration** – Extract sensitive data
 
-📎 Related: [[MITRE ATT&CK]], [[TTPs]]
+📎 Related: [[MITRE ATT&CK Framework]], [[Threat Actor Tactics, Techniques, & Procedures (TTPs)]]
 
 ---
 
@@ -108,8 +108,8 @@ Deliverables often include:
 
 - [[Purple Teaming]]
 - [[Blue Teaming]]
-- [[MITRE ATT&CK]]
-- [[TTPs]]
+- [[MITRE ATT&CK Framework]]
+- [[Threat Actor Tactics, Techniques, & Procedures (TTPs)]]
 - [[Threat Intelligence]]
 - [[Incident Response Planning (IRP)]]
 

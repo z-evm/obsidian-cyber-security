@@ -1,4 +1,4 @@
-**Secrets Management** refers to the secure handling, storage, and lifecycle control of sensitive information (called “secrets”) such as **API keys, credentials, cryptographic keys, passwords**, tokens, certificates, and other privileged data used in systems and applications.
+**Secrets Management** refers to the secure handling, storage, and lifecycle control of sensitive information (called “secrets”) such as **API keys, credentials, cryptographic keys, passwords**, **tokens**, **certificates**, and other privileged data used in systems and applications.
 
 ---
 
@@ -92,7 +92,7 @@
 - [[Continuous Integration & Continuous Deployment Pipeline Security]]
 - [[Identity & Access Management (IAM)]]
 - [[Password Security ]]
-- [[Password Policies]]
+- [[Password Policy]]
 
 ---
 

@@ -85,7 +85,7 @@ This policy applies to:
 
 - [[Data Classification Policy]]
 - [[Encryption Standards]]
-- [[Acceptable Use Policies]]
+- [[Acceptable Use Policy (AUP)]]
 - [[Cryptographic Key Management]]
 - [[Data Retention Policy]]
 

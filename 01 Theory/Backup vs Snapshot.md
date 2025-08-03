@@ -69,7 +69,7 @@
 - [[Snapshot Risks]]
 - [[Disaster Recovery Planning (DRP)]]
 - [[Encryption Lifecycle]]
-- [[Cloud-Specific Vulnerabilities]]
+- [[Cloud Specific Vulnerabilities]]
 - [[Virtualization Vulnerabilities]]
 
 ---

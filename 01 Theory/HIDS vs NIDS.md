@@ -94,7 +94,7 @@
 
 ## 🗂 Related Topics (Links)
 
-- [[Intrusion Detection and Prevention]]
+- [[Intrusion Detection & Prevention]]
 - [[SIEM & SOAR]]
 - [[Anomaly Detection]]
 - [[Behavior Analytics]]

@@ -29,7 +29,7 @@ Goals:
 | **DNS Sinkholes**       | Redirect malicious domains to a null or safe server  | Malware fails to communicate with C2             |
 | **Decoy Credentials**   | Fake usernames/passwords seeded in logs or files     | Triggers alert if used for authentication        |
 
-📎 Related: [[Indicators of Compromise (IOCs)]], [[Detection Engineering]]
+📎 Related: [[Indicators of Compromise (IoC)]], [[Detection Engineering]]
 
 ---
 
@@ -94,7 +94,7 @@ Goals:
 - [[Defense in Depth]]
 - [[Incident Response Planning (IRP)]]
 - [[Security Information & Event Management (SIEM)]]
-- [[Indicators of Compromise (IOCs)]]
+- [[Indicators of Compromise (IoC)]]
 - [[Detection Engineering]]
 
 ---

@@ -56,7 +56,7 @@ Goals:
 | **Data Breaches**           | Unauthorized access or data leakage                 |
 | **Compliance Violations**   | Failure to meet legal/regulatory controls           |
 
-📎 Related: [[Access Control]], [[Data Classification]], [[Data Loss Prevention DLP]]
+📎 Related: [[Access Control]], [[Data Classification & Labelling]], [[Data Loss Prevention (DLP)]]
 
 ---
 
@@ -84,7 +84,7 @@ Goals:
 - Review **IAM policies** and audit logs regularly
 - Apply **automated tagging, labeling, and DLP controls**
 
-📎 Related: [[Identity & Access Management (IAM)]], [[Data Loss Prevention]], [[Auditing & Accounting]]
+📎 Related: [[Identity & Access Management (IAM)]], [[Data Loss Prevention (DLP)]], [[Auditing & Accounting]]
 
 ---
 
@@ -106,7 +106,7 @@ Goals:
 - [[Access Control Provisioning]]
 - [[Risk Management]]
 - [[Compliance Frameworks]]
-- [[Data Classification]]
+- [[Data Classification & Labelling]]
 - [[Data Loss Prevention (DLP)]]
 - [[Security Controls]]
 

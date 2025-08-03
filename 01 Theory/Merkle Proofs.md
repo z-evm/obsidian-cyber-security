@@ -99,7 +99,7 @@
 - [[Proof of Work (PoW)]]
 - [[Bitcoin Architecture]]
 - [[Cryptographic Hashing (Blockchain)]]
-- [[SPV (Simplified Payment Verification)]]
+- [[Simplified Payment Verification (SPV)]]
 
 ---
 

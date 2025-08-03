@@ -132,7 +132,7 @@ Blocked TCP from 5.188.86.153 to 10.1.1.10 on port 3389 (RDP)
 - [[Incident Response]]
 - [[Windows Event IDs]]
 - [[Log Normalization]]
-- [[MITRE ATT&CK ]]
+- [[MITRE ATT&CK Framework]]
 
 ---
 

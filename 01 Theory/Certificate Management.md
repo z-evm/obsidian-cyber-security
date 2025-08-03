@@ -102,7 +102,7 @@
 - [[Encryption Algorithms]]
 - [[OCSP vs CRL]]
 - [[Tokenization vs Encryption]]
-- [[HTTPS Inspection and Decryption]]
+- [[HTTPS Inspection & Decryption]]
 
 ---
 

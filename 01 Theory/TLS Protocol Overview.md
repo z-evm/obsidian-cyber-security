@@ -115,7 +115,7 @@ KX     Auth     Enc      Mode   MAC
 - [[Perfect Forward Secrecy (PFS)]]
 - [[Public Key Infrastructure (PKI)]]
 - [[TLS Inspection and Decryption]]
-- [[HTTPS Inspection and Decryption]]
+- [[HTTPS Inspection & Decryption]]
 - [[Certificate Pinning]]
 
 ---

@@ -80,7 +80,7 @@ A **Security Assessment Plan (SAP)** defines the scope, methodology, and approac
 
 - [[Security Assessment Report (SAR)]]
 - [[System Security Plan (SSP)]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[Risk Assessment Techniques]]
 - [[Authorization to Operate (ATO)]]
 

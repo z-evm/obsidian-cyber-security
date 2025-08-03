@@ -75,7 +75,7 @@
 
 ## 🧩 Related Topics
 
-- [[Acceptable Use Policy]]
+- [[Acceptable Use Policy (AUP)]]
 - [[Security Policy Enforcement]]
 - [[Incident Response Planning (IRP)]]
 - [[Phishing Defense Techniques]]

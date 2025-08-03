@@ -89,7 +89,7 @@
 - [[Backup Strategies]]
 - [[Business Continuity Planning (BCP)]]
 - [[Redundancy Models]]
-- [[RTO and RPO]]
+- [[Recovery Time Objective & Recovery Point Objective (RTO & RPO)]]
 - [[Cloud Security Principles]]
 
 ---

@@ -111,7 +111,7 @@ Without inspection, **security tools become blind** to:
 
 ## 🗂 Related Topics
 
-- [[TLS & SSL]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Man-in-the-Middle Attacks]]
 - [[Firewall Rules & Zoning]]
 - [[Data Loss Prevention (DLP)]]

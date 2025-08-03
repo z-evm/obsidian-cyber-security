@@ -110,6 +110,7 @@ A **Denial of Service (DoS)** attack is an intentional disruption of the availab
 - [[Runtime Threat Detection]]
 - [[Web Application Security Testing]]
 - [[SIEM & Threat Detection]]
+- [[Distributed Denial of Service (DDoS)]]
 
 ---
 

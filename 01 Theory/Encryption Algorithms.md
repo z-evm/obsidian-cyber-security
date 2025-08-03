@@ -102,7 +102,7 @@ Used in **TLS/SSL**, **PGP**, and other real-world systems.
 - [[Hashing]]
 - [[Digital Signatures]]
 - [[Public Key Infrastructure (PKI)]]
-- [[TLS & SSL]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Confidentiality]]
 - [[Encryption Key Management]]
 

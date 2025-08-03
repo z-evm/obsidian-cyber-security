@@ -98,7 +98,7 @@ Each **NIST SP 800-53 control** included in the SSP should detail:
 - [[NIST SP 800-53]]
 - [[Risk Management Framework (RMF)]]
 - [[Security Assessments and Audits]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[Authorization to Operate (ATO)]]
 - [[Continuous Monitoring]]
 

@@ -1,142 +1,151 @@
-## **1. Headings**
-
-Use `#` for headings (up to 6 levels).
-
-```
-# Heading 1 
-## Heading 2 
-### Heading 3 
-#### Heading 4 
-##### Heading 5 
-###### Heading 6
-```
-
----
-## **2. Emphasis (Bold, Italics, Strikethrough)**
-
-```
-*Italic* or _Italic_ 
-**Bold** or __Bold__ 
-***Bold and Italic*** or ___Bold and Italic___ 
-~~Strikethrough~~
-```
+A quick reference for writing Markdown documents.
 
 ---
 
-## **3. Lists**
+## 🧱 Basic Formatting
 
-### **Unordered List**
-
-```
-- Item 1 
-- Item 2  
-	- Subitem  
-	- Subitem 
-* Another way to list
-```
-
-### **Ordered List**
-
-```
-1. First item 
-2. Second item 
-3. Third item
-```
+**Bold**: `**text**` or `__text__` → **text**  
+*Italic*: `*text*` or `_text_` → *text*  
+~~Strikethrough~~: `~~text~~` → ~~text~~
 
 ---
 
-## **4. Links**
+## 📚 Headings
+
+```markdown
+# H1 Heading
+## H2 Heading
+### H3 Heading
+#### H4 Heading
+##### H5 Heading
+###### H6 Heading
+```
+
+## 📋 Lists
+
+### ➤ Unordered List
+```
+- Item 1
+- Item 2
+  - Nested item
+* Also works with asterisks
+```
+
+### ➤ Ordered List
+```
+1. First item
+2. Second item
+3. Sub-item
+```
+
+## 🔗 Links
+
+### ➤ External Links
+```
+[OpenAI](https://www.openai.com)
+```
+
+### ➤ Internal Links (Obsidian)
+```
+[[Page Name]]
+[[Folder/Page Name]]
+[[Page Name|Custom Display Text]]
+```
+
+## 🖼 Images
 
 ```
-[Text](https://example.com) 
-[Text with title](https://example.com "Tooltip Text")
+![Alt text](https://example.com/image.png)
+![Alt text](/path/to/image.png)
 ```
 
+## 🧾 Code
+
+### ➤ Inline Code
+```
+Use `code` like this.
+```
+
+### ➤ Code Block
+```
+<pre> ```language // code here ``` </pre>
+
+Example:
+
+<pre> ```bash sudo apt update ``` </pre>
+```
+
+## 📐 Blockquote
+```
+> This is a quote.
+>> Nested quote.
+```
+
+## 📏 Horizontal Line
+```
 ---
-
-## **5. Images**
-
-```
-![Alt text](image-url.png) 
-![Alt text with title](image-url.png "Image Title")
 ```
 
----
-
-## **6. Blockquotes**
-
+## ✅ Task Lists
 ```
-> This is a blockquote. >> Nested blockquote.
+- [ ] To do item
+- [x] Completed item
 ```
 
----
-
-## **7. Code Blocks**
-
-### **Inline Code**
-
+## 📊 Tables
 ```
-`Inline code`
+| Header 1 | Header 2 |
+|----------|----------|
+| Cell A1  | Cell A2  |
+| Cell B1  | Cell B2  |
 ```
 
-### **Code Block (Fenced)**
-![[Pasted image 20250314134414.png]]
-### **Code Block with Syntax Highlighting**
+## ⌨ Callouts (Obsidian Specific)
+```
+> [!NOTE]
+> This is a note.
 
-```
-```javascript 
-console.log("Hello, world!"); 
-```
+> [!WARNING]
+> This is a warning block.
 
-```
----  
-## **8. Horizontal Line** 
-```md 
----
+> [!TIP]
+> Helpful tip.
 ```
 
----
-
-## **9. Tables**
-
+## 🧩 Tags
 ```
-| Header 1 | Header 2 | 
-|----------|----------| 
-| Row 1    | Data 1   | 
-| Row 2    | Data 2   |
+#tagname
 ```
 
----
-## **10. Task Lists**
-
+## 🖇 Footnotes
 ```
-- [ ] Task 1 - 
-- [ ] [x] Completed Task
-```
+Here's a statement with a footnote.[^1]
 
----
-
-## **11. Footnotes**
-
-```
-Here is a footnote reference[^1].  
-
-[^1]: This is the footnote content.
+[^1]: This is the footnote.
 ```
 
----
-## **12. Escaping Special Characters**
+## 🔄 Embeds (Obsidian)
 
-Use a backslash `\` before special characters:
-
+### ➤ Embed Note
 ```
-\*Not italicized\*
+![[Note Name]]
 ```
 
----
-## **13. Internal Obsidian Links (Obsidian-Specific)**
+### ➤ Embed Section or Block
+```
+![[Note Name#Heading]]
+![[Note Name^blockid]]
+```
+
+## 📆 Date Links (Obsidian Daily Notes)
 
 ```
-[[Note Title]]         <!-- Links to another note --> 
-[[Note Title|Alias]]   <!-- Custom display text -->
+[[2025-07-31]]
 ```
+
+## 📌 Comments (Non-rendered text)
+
+```
+<!-- This won't appear in preview -->
+```
+

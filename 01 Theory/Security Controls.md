@@ -1,4 +1,3 @@
-
 Security controls are safeguards or countermeasures designed to reduce risk and protect the confidentiality, integrity, and availability (CIA) of systems and data.
 
 ---

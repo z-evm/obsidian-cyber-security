@@ -97,7 +97,7 @@ Also known as:
 
 - [[SIEM & SOAR]]
 - [[Threat Intelligence]]
-- [[Intrusion Detection and Prevention]]
+- [[Intrusion Detection & Prevention]]
 - [[Insider Threats]]
 - [[Anomaly Detection]]
 - [[Security Automation]]

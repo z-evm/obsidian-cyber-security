@@ -121,7 +121,7 @@ SSDF consists of **four practice groups**, each containing **tasks and implement
 - [[Secure Software Development Life Cycle (SSDLC)]]
 - [[Software Composition Analysis (SCA)]]
 - [[SBOM (Software Bill of Materials)]]
-- [[DevOps Security]]
+- [[DevSecOps]]
 - [[Supply Chain Security]]
 - [[NIST SP 800-53]]
 - [[Code Review Checklist]]

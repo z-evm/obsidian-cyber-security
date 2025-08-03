@@ -94,7 +94,7 @@
 ## 🗂 Related Topics
 
 - [[Encryption Technologies]]
-- [[TLS & SSL]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Digital Signatures]]
 - [[Hashing]]
 - [[HMAC and MACs]]

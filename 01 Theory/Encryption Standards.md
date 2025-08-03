@@ -96,7 +96,7 @@ Applies to:
 - [[Data Classification Policy]]
 - [[Cryptographic Key Management]]
 - [[Secure File Handling]]
-- [[Acceptable Use Policies]]
+- [[Acceptable Use Policy (AUP)]]
 
 ---
 

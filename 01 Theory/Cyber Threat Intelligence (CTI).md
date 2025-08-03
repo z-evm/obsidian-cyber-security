@@ -102,7 +102,7 @@
 
 - [[Threat Intelligence Platforms (TIP)]]
 - [[SIEM & Log Analysis]]
-- [[MITRE ATT&CK]]
+- [[MITRE ATT&CK Framework]]
 - [[Threat Modeling]]
 - [[Security Operations Center (SOC)]]
 - [[Incident Response Framework]]

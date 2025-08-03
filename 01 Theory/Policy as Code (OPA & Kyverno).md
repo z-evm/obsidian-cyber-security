@@ -119,7 +119,7 @@ spec:
 - [[Infrastructure as Code (IaC) Security]]
 - [[DevSecOps Pipeline]]
 - [[Container Security]]
-- [[Role Based Access Control (RBAC)]]
+- [[Role-Based Access Control (RBAC)]]
 
 ---
 

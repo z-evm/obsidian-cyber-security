@@ -76,10 +76,10 @@
 
 ## 📚 Related Topics
 
-- [[Web Application Firewalls]]
+- [[Web Application Firewall (WAF)]]
 - [[Email Security Gateways (SEG)]]
 - [[Data Loss Prevention (DLP)]]
-- [[Acceptable Use Policies]]
+- [[Acceptable Use Policy (AUP)]]
 - [[DNS Security]]
 - [[Intrusion Prevention Systems (IPS)]]
 

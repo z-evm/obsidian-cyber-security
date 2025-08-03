@@ -107,7 +107,7 @@ A **Purple Team** is a collaborative model where red and blue teams **work toget
 - [[Threat Hunting]]
 - [[SIEM & Log Analysis]]
 - [[Incident Response]]
-- [[MITRE ATT&CK]]
+- [[MITRE ATT&CK Framework]]
 - [[Adversary Emulation]]
 
 ---

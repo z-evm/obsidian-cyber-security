@@ -86,7 +86,7 @@ This policy applies to:
 - [[Data Classification Policy]]
 - [[Secure File Handling]]
 - [[Incident Response Policy]]
-- [[Acceptable Use Policies]]
+- [[Acceptable Use Policy (AUP)]]
 - [[Encryption Standards]]
 
 ---

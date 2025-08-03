@@ -43,7 +43,7 @@ This policy applies to all employees, contractors, vendors, and third parties wh
 - [[Security Awareness Training]]
 - [[Incident Response Policy]]
 - [[Data Retention Policy]]
-- [[Acceptable Use Policies]]
+- [[Acceptable Use Policy (AUP)]]
 
 ---
 

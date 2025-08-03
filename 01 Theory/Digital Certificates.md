@@ -96,7 +96,7 @@ When certificates are compromised or no longer valid, they must be **revoked**:
 - [[Public Key Infrastructure (PKI)]]
 - [[Digital Signatures]]
 - [[Authentication]]
-- [[TLS & SSL]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Non-Repudiation]]
 - [[Hashing]]
 

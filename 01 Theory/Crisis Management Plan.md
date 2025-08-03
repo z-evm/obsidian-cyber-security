@@ -19,7 +19,7 @@ A **Crisis Management Plan (CMP)** outlines the structured approach an organizat
 | **Crisis Management Team (CMT)** | Core group responsible for command, decision-making, and communication.     |
 | **Roles and Responsibilities** | Defined leadership roles (e.g., Incident Commander, Spokesperson, Liaison). |
 | **Activation Protocols**      | How and when the CMP is activated; criteria and authority thresholds.        |
-| **Communication Strategy**    | Integration with [[Emergency Communications Plan]] for internal and external messaging. |
+| **Communication Strategy**    | Integration with [[Emergency Communications Plan (ECP)]] for internal and external messaging. |
 | **Scenario Playbooks**        | Pre-developed action plans for common crisis types (e.g., cyberattack, flood, PR scandal). |
 | **Resource Directory**        | Key contacts, vendors, facilities, and tools needed in a crisis.            |
 | **Training and Exercises**    | Regular drills, simulations, and after-action reviews (AARs).               |
@@ -85,7 +85,7 @@ A **Crisis Management Plan (CMP)** outlines the structured approach an organizat
 
 - [[Business Continuity Planning (BCP)]]
 - [[Disaster Recovery Planning]]
-- [[Emergency Communications Plan]]
+- [[Emergency Communications Plan (ECP)]]
 - [[Incident Response Planning (IRP)]]
 - [[After Action Report (AAR)]]
 

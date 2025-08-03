@@ -85,7 +85,7 @@
 - [[Threat Modeling]]
 - [[Cyber Threat Intelligence (CTI)]]
 - [[Incident Response Framework]]
-- [[MITRE ATT&CK]]
+- [[MITRE ATT&CK Framework]]
 ---
 
 ## 🏷 Tags

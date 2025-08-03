@@ -113,7 +113,7 @@ Subject: Security ID: S-1-5-18, Account Name: WIN-ADMIN, Logon ID: 0x3e7
 - [[SIEM & Log Analysis]]
 - [[EDR & Threat Detection]]
 - [[Windows Event IDs]]
-- [[Indicators of Compromise (IOCs)]]
+- [[Indicators of Compromise (IoC)]]
 - [[Threat Hunting]]
 
 ---

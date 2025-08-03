@@ -95,7 +95,7 @@ Content-Security-Policy: script-src 'self'; object-src 'none';
 ## 📚 Related Topics
 
 - [[Content Filtering]]
-- [[Web Application Firewalls]]
+- [[Web Application Firewall (WAF)]]
 - [[TLS Certificate Management]]
 - [[Input Validation and Sanitization]]
 - [[OWASP Top 10]]

@@ -109,7 +109,7 @@ Goals:
 - [[Vulnerability Management]]
 - [[Security Controls]]
 - [[Configuration Management]]
-- [[Change Management]]
+- [[Change Management Process]]
 - [[Security Information & Event Management (SIEM)]]
 - [[Incident Response Planning (IRP)]]
 

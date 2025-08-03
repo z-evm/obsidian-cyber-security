@@ -119,7 +119,7 @@ Policy = IF (UserDept = HR AND Time < 5pm) → ALLOW
 - [[Identity & Access Management (IAM)]]
 - [[Privilege Escalation Risks]]
 - [[Security Principles]]
-- [[Role Based Access Control (RBAC)]]
+- [[Role-Based Access Control (RBAC)]]
 - [[Attribute-Based Access Control (ABAC)]]
 - [[Discretionary Access Control (DAC)]]
 - [[Mandatory Access Control (MAC)]]

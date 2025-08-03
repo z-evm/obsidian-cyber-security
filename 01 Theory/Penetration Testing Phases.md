@@ -132,7 +132,7 @@ Pen testers follow a structured methodology to mimic real-world adversaries.
 - [[Vulnerability Scanning]]
 - [[Exploitation Techniques]]
 - [[Security Assessments and Audits]]
-- [[Rules of Engagement]]
+- [[Rules of Engagement (RoE)]]
 - [[Chain of Custody]]
 - [[Reporting and Remediation]]
 

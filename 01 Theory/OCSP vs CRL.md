@@ -72,10 +72,10 @@ An enhancement that allows the **server** (not the client) to fetch and cache th
 
 ## 📚 Related Topics
 
-- [[PKI and Certificates]]
+- [[PKI & Certificates]]
 - [[TLS Certificate Management]]
 - [[Certificate Pinning]]
-- [[HTTPS Inspection and Decryption]]
+- [[HTTPS Inspection & Decryption]]
 - [[Security Policy Frameworks]]
 
 ---

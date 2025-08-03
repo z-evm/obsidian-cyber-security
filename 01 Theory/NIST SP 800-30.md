@@ -89,7 +89,7 @@ NIST SP 800-30 defines a 4-step cyclical risk assessment process:
 - [[Business Impact Analysis (BIA)]]
 - [[System Security Plan (SSP)]]
 - [[Authorization to Operate (ATO)]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 
 ---
 

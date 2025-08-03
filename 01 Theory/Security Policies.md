@@ -91,7 +91,7 @@ Goals:
 ## 📚 Related Concepts
 
 - [[User Awareness Training]]
-- [[Acceptable Use Policies]]
+- [[Acceptable Use Policy (AUP)]]
 - [[Risk Management]]
 - [[Compliance Frameworks]]
 - [[Access Control]]

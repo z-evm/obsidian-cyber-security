@@ -103,7 +103,7 @@
 - [[Incident Response Planning (IRP)]]
 - [[Threat Intelligence]]
 - [[Behavior Analytics]]
-- [[Intrusion Detection and Prevention]]
+- [[Intrusion Detection & Prevention]]
 - [[Security Controls]]
 
 ---

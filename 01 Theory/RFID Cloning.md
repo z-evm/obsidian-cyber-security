@@ -86,7 +86,7 @@
 
 ## 🧩 Related Topics
 
-- [[Physical Security]]
+- [[Physical Security Controls]]
 - [[Insider Threats]]
 - [[Proximity Card Spoofing]]
 - [[Wireless Attacks]]

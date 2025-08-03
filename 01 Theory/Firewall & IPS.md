@@ -48,7 +48,7 @@
 | **Policy-Based**      | Custom rules that define acceptable behavior    |
 | **Heuristic**         | Behaviorally infers malicious activity          |
 
-> See: [[Intrusion Detection and Prevention]]
+> See: [[Intrusion Detection & Prevention]]
 
 ---
 
@@ -97,12 +97,14 @@
 
 ## 🗂 Related Topics (Links)
 
-- [[Intrusion Detection and Prevention]]
+- [[Intrusion Detection & Prevention]]
 - [[Security Controls]]
 - [[SIEM & SOAR]]
 - [[Anomaly Detection]]
 - [[Network Segmentation]]
 - [[Zero Trust Architecture]]
+- [[Next-Generation Firewall (NGFW)]]
+- [[Web Application Firewall (WAF)]]
 
 ---
 

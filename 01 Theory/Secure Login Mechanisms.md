@@ -98,11 +98,11 @@
 ## 🗂 Related Topics
 
 - [[Multi-Factor Authentication (MFA)]]
-- [[Password Policies]]
+- [[Password Policy]]
 - [[Password Hashing Techniques]]
 - [[Authentication Attacks]]
 - [[OpenID Connect]]
-- [[TLS & SSL]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Session Hijacking]]
 
 ---

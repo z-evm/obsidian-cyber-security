@@ -1,5 +1,3 @@
-# 🔐 Multi-Factor Authentication (MFA)
-
 **Multi-Factor Authentication (MFA)** is a security mechanism that requires users to provide **two or more independent forms of verification** before gaining access to a system. It significantly strengthens identity assurance by reducing reliance on just passwords.
 
 > ✅ Something you **know**, ✅ something you **have**, ✅ something you **are**.

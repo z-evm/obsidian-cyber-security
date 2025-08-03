@@ -1,5 +1,3 @@
-# ⚠️ Risk Assessment
-
 **Risk Assessment** is the process of identifying, analyzing, and evaluating risks that could negatively affect an organization’s assets, operations, or personnel. It forms the backbone of any effective cybersecurity and risk management strategy.
 
 ---

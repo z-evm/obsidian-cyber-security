@@ -42,7 +42,7 @@ The **Federal Risk and Authorization Management Program (FedRAMP)** provides a s
 - Generate key artifacts:
   - [[Security Assessment Plan (SAP)]]
   - [[Security Assessment Report (SAR)]]
-  - [[Plan of Action and Milestones (POA&M)]]
+  - [[Plan of Action & Milestones (POA&M)]]
 - Validate findings and fix high-risk vulnerabilities.
 
 ---
@@ -126,7 +126,7 @@ The **Federal Risk and Authorization Management Program (FedRAMP)** provides a s
 
 - [[System Security Plan (SSP)]]
 - [[Security Assessment Report (SAR)]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[Authorization to Operate (ATO)]]
 - [[FedRAMP Assessment Process]]
 - [[Continuous Monitoring]]

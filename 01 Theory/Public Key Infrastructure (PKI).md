@@ -96,4 +96,4 @@
 
 - [ ] Diagram of certificate trust chain
 - [ ] Demo of using `openssl` to generate a cert
-- [ ] Link to [[TLS & SSL]] topic in future notes
+- [ ] Link to [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]] topic in future notes

@@ -100,7 +100,7 @@ A **Disaster Recovery Plan (DRP)** is a documented and tested strategy for recov
 - [[Business Impact Analysis (BIA)]]
 - [[Backup Strategies]]
 - [[Continuity of Operations (COOP)]]
-- [[Emergency Communications Plan]]
+- [[Emergency Communications Plan (ECP)]]
 - [[Redundancy Models]]
 
 ---

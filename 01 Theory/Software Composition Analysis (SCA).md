@@ -101,7 +101,7 @@ npm audit
 ## 🔗 Linked Topics
 
 - [[SBOM (Software Bill of Materials)]]
-- [[DevOps Security]]
+- [[DevSecOps]]
 - [[Supply Chain Security]]
 - [[Secure Software Development Life Cycle (SSDLC)]]
 - [[Patch Management Process]]

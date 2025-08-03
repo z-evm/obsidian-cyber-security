@@ -95,7 +95,7 @@ Use DFDs to apply models like **STRIDE**:
 - [[STRIDE Threat Modeling]]
 - [[Secure Software Development Life Cycle (SSDLC)]]
 - [[OWASP Top 10 ]]
-- [[Architecture Risk Analysis]]
+- [[Architecture Risk Analysis (ARA)]]
 
 ---
 

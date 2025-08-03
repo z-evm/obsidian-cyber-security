@@ -127,7 +127,7 @@ interface GigabitEthernet0/1.10
 ## 🗂 Related Topics
 
 - [[Secure Network Design]]
-- [[802.1X and EAP]]
+- [[802.1X & EAP]]
 - [[Firewall Rules & Zoning]]
 - [[Network Access Control (NAC)]]
 - [[SIEM & Log Analysis]]

@@ -98,10 +98,10 @@ C:\Data\report.txt NT AUTHORITY\SYSTEM:(F)
 ## 📚 Related Topics
 
 - [[NTFS Permissions]]
-- [[Role Based Access Control (RBAC)]]
+- [[Role-Based Access Control (RBAC)]]
 - [[Discretionary Access Control (DAC)]]
-- [[Firewall Rules and Zoning]]
-- [[User and Group Management]]
+- [[Firewall Rules & Zoning]]
+- [[User & Group Management]]
 
 ---
 

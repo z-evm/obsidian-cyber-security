@@ -87,7 +87,7 @@
 ## 🧩 Related Topics
 
 - [[RFID Cloning]]
-- [[Physical Security]]
+- [[Physical Security Controls]]
 - [[Wireless Attacks]]
 - [[Insider Threats]]
 

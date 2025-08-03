@@ -96,7 +96,7 @@
 - [[Compliance Reporting and Audits]]
 - [[Cloud Security Principles]]
 - [[Monitoring & Alerting in the Cloud]]
-- [[Data Classification & Labeling]]
+- [[Data Classification & Labelling]]
 - [[Identity & Access Management (IAM)]]
 
 ---

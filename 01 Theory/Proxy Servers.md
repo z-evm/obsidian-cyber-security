@@ -93,7 +93,7 @@ A **proxy server** acts as an intermediary between a client (user) and the desti
 ## 📚 Related Topics
 
 - [[Content Filtering]]
-- [[Web Application Firewalls]]
+- [[Web Application Firewall (WAF)]]
 - [[Firewall Rules & Zoning]]
 - [[SIEM & Log Analysis]]
 - [[TLS Inspection and Decryption]]

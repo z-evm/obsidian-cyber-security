@@ -55,7 +55,7 @@ Discretionary Access Control (DAC) is a flexible access control model where **re
 | **MAC**      | System/Policy Driven   | Low           | Military/Government systems |
 | **RBAC**     | Based on User Roles    | Medium        | Corporate networks |
 
-> See: [[Mandatory Access Control (MAC)]], [[Role Based Access Control (RBAC)]]
+> See: [[Mandatory Access Control (MAC)]], [[Role-Based Access Control (RBAC)]]
 
 ---
 
@@ -63,7 +63,7 @@ Discretionary Access Control (DAC) is a flexible access control model where **re
 
 - [[Access Control Models]]
 - [[NTFS Permissions]]
-- [[User and Group Management]]
+- [[User & Group Management]]
 - [[RBAC vs ABAC vs DAC]]
 - [[Access Control List (ACL)]]
 

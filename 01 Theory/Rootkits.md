@@ -91,7 +91,7 @@ They are commonly used in **Advanced Persistent Threats (APTs)** to support long
 - [[Backdoors]]
 - [[Persistence Mechanisms]]
 - [[Bootkits]]
-- [[File Integrity Monitoring]]
+- [[File Integrity Monitoring (FIM)]]
 - [[Malware Types]]
 
 ---

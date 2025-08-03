@@ -71,7 +71,7 @@ A globally accessible knowledge base of:
 - **Techniques**: Specific methods used to achieve goals
 - **Procedures**: Real-world implementations
 
-📎 Related: [[MITRE ATT&CK]], [[TTPs]]
+📎 Related: [[MITRE ATT&CK Framework]], [[Threat Actor Tactics, Techniques, & Procedures (TTPs)]]
 
 ---
 
@@ -99,7 +99,7 @@ A globally accessible knowledge base of:
 - [[Risk Management]]
 - [[Security Information & Event Management (SIEM)]]
 - [[Vulnerability Management]]
-- [[MITRE ATT&CK]]
+- [[MITRE ATT&CK Framework]]
 - [[Defense in Depth]]
 
 ---

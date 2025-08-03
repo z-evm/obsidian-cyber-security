@@ -99,7 +99,7 @@ sha256sum backup.iso
 - [[Hashing]]
 - [[Digital Signatures]]
 - [[HMAC and MACs]]
-- [[File Integrity Monitoring]]
+- [[File Integrity Monitoring (FIM)]]
 - [[CIA Triad]]
 - [[Security Models]]
 

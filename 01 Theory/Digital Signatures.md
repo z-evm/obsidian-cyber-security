@@ -96,4 +96,4 @@ Digital signatures rely on **asymmetric encryption** (public/private key pairs):
 
 - [ ] Add diagram of signature generation/validation process
 - [ ] Create example using `gpg` to sign and verify a file
-- [ ] Link to [[MIME]] and [[Code Signing]] notes
+- [ ] Link to [[Multipurpose Mail Extensions (MIME)]] and [[Code Signing]] notes

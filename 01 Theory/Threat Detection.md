@@ -29,7 +29,7 @@ Goals:
 | **Anomaly-Based**   | Uses statistical baselines to detect deviations        | Spike in outbound traffic at 3AM               |
 | **Threat Intel-Based**| Uses external indicators and context                 | IP matched to known C2 infrastructure          |
 
-📎 Related: [[Indicators of Compromise (IOCs)]], [[Detection Engineering]]
+📎 Related: [[Indicators of Compromise (IoC)]], [[Detection Engineering]]
 
 ---
 
@@ -79,7 +79,7 @@ Goals:
 - Establish clear **alert triage workflows**
 - Continuously test with **simulated attacks**
 
-📎 Related: [[Purple Teaming]], [[Detection Engineering]], [[MITRE ATT&CK]]
+📎 Related: [[Purple Teaming]], [[Detection Engineering]], [[MITRE ATT&CK Framework]]
 
 ---
 
@@ -99,9 +99,9 @@ Goals:
 - [[Detection Engineering]]
 - [[Incident Response]]
 - [[Threat Intelligence]]
-- [[Network-Based Threat Detection]]
-- [[TTPs]]
-- [[Indicators of Compromise (IOCs)]]
+- [[Network Based Threat Detection]]
+- [[Threat Actor Tactics, Techniques, & Procedures (TTPs)]]
+- [[Indicators of Compromise (IoC)]]
 
 ---
 

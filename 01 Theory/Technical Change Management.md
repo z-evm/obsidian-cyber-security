@@ -15,7 +15,7 @@ Goals:
 - Reduce **human error** through controlled automation
 - Maintain an **audit trail** of changes for compliance and review
 
-📎 Related: [[Change Management]], [[Configuration Management]], [[Patch Management]]
+📎 Related: [[Change Management Process]], [[Configuration Management]], [[Patch Management]]
 
 ---
 
@@ -85,11 +85,11 @@ Goals:
 
 ## 📚 Related Concepts
 
-- [[Change Management]]
+- [[Change Management Process]]
 - [[Configuration Management]]
 - [[Patch Management]]
 - [[Incident Response Planning (IRP)]]
-- [[DevOps Security]]
+- [[DevSecOps]]
 - [[Auditing & Accounting]]
 
 ---

@@ -112,7 +112,7 @@ Content-Security-Policy:
 
 - [[XSS and Web Exploits]]
 - [[Secure Web Application Design]]
-- [[HTTPS Inspection and Decryption]]
+- [[HTTPS Inspection & Decryption]]
 - [[OWASP Top 10]]
 - [[Web Security Headers]]
 - [[CORS Configuration]]

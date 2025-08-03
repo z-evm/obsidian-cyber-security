@@ -82,7 +82,7 @@ FedRAMP uses the NIST RMF process to assess and authorize CSPs:
 - [[NIST SP 800-53]]
 - [[FedRAMP Assessment Process]]
 - [[System Security Plan (SSP)]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[Authorization to Operate (ATO)]]
 - [[Security Assessment Report (SAR)]]
 - [[Continuous Monitoring]]

@@ -66,7 +66,7 @@ Access is **only granted** if the subject’s level **meets or exceeds** the obj
 | **DAC**      | Resource Owner         | High          | File sharing in OS |
 | **RBAC**     | Role Definitions       | Medium        | Enterprise environments |
 
-> See: [[Discretionary Access Control (DAC)]], [[Role Based Access Control (RBAC)]]
+> See: [[Discretionary Access Control (DAC)]], [[Role-Based Access Control (RBAC)]]
 
 ---
 

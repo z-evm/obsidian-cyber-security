@@ -103,7 +103,7 @@
 
 - [[Firewall Rules & Zoning]]
 - [[Zero Trust Architecture]]
-- [[01 Theory/Intrusion Detection Systems (IDS)]]
+- [[Intrusion Detection Systems (IDS)]]
 - [[SIEM & Log Analysis]]
 - [[Patch Management]]
 - [[Data Loss Prevention (DLP)]]

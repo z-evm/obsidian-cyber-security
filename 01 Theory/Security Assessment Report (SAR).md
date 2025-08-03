@@ -70,7 +70,7 @@ A **Security Assessment Report (SAR)** provides a comprehensive evaluation of an
 
 ## 🧩 Related Topics
 
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[System Security Plan (SSP)]]
 - [[Risk Assessment Techniques]]
 - [[Security Controls]]

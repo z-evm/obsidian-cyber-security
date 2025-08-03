@@ -97,7 +97,7 @@ Set-Cookie: sessionId=abc123;
 
 - [[Session Hijacking]]
 - [[XSS and Web Exploits]]
-- [[TLS & SSL]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Phishing Defense Techniques]]
 - [[Secure Login Mechanisms]]
 - [[Authentication Attacks]]

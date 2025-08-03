@@ -79,10 +79,10 @@ Hashing and digital signatures are foundational to data integrity, authenticatio
 ## 🗂 Related Topics
 
 - [[Symmetric vs Asymmetric Encryption]]
-- [[PKI and Certificates]]
-- [[TLS & SSL]]
+- [[PKI & Certificates]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Encryption Technologies]]
-- [[Email Security Standards (SPF, DKIM, DMARC)]]
+- [[Email Security Standards]]
 - [[Hash Cracking & Rainbow Tables]]
 
 ---

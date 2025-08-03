@@ -108,7 +108,7 @@
 
 - [[Behavior Analytics]]
 - [[SIEM & SOAR]]
-- [[Intrusion Detection and Prevention]]
+- [[Intrusion Detection & Prevention]]
 - [[Security Automation]]
 - [[Threat Intelligence]]
 - [[Zero-Day Threats]]

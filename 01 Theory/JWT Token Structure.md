@@ -1,5 +1,3 @@
-# 🔐 JWT Token Structure (JSON Web Token)
-
 **JWT (JSON Web Token)** is a compact, URL-safe token format used for securely transmitting claims between parties. It's widely used in **authentication**, **authorization**, and **API security**, especially with **OAuth 2.0** and **OpenID Connect**.
 
 ---
@@ -136,7 +134,7 @@ SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
 ## 🗂 Related Topics
 
 - [[OAuth]]
-- [[OpenID 1]]
+- [[OpenID Connect]]
 - [[Authentication Protocols]]
 - [[Token-Based Authentication]]
 - [[OAuth vs SAML vs OpenID]]

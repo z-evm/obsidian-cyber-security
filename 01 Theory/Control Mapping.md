@@ -82,7 +82,7 @@
 ## 🧩 Related Topics
 
 - [[System Security Plan (SSP)]]
-- [[Plan of Action and Milestones (POA&M)]]
+- [[Plan of Action & Milestones (POA&M)]]
 - [[Compliance Reporting and Audits]]
 - [[Security Policy Enforcement]]
 - [[Risk Assessment Techniques]]

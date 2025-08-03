@@ -4,23 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "80ddd23b5370746c",
+        "id": "d7685645dec169dc",
         "type": "tabs",
         "children": [
           {
-            "id": "1a1110c681b704fe",
+            "id": "043d5dd4fb86b1c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Theory/51 Percent Attack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "51 Percent Attack"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e38996e5840638d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89f2a988e1ec1a9c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Theory/Wireless Attacks.md",
+                "file": "01 Reference/FOLDER USAGE GUIDELINES.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Wireless Attacks"
+              "title": "FOLDER USAGE GUIDELINES"
             }
           }
         ]
@@ -55,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:inciden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5026054382324
+    "width": 369.5004348754883
   },
   "right": {
     "id": "da840f2c4f64ccf7",
@@ -149,8 +169,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "3790a2e47f50e26d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,43 +201,43 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1a1110c681b704fe",
+  "active": "043d5dd4fb86b1c1",
   "lastOpenFiles": [
-    "01 Theory/Vulnerability Scanning Tools.md",
-    "01 Theory/Vulnerability Scanning.md",
-    "01 Theory/Vulnerability Management.md",
-    "01 Theory/Wireless Attacks.md",
-    "Brand Protection Strategies.md",
-    "Typosquatting Detection Tools.md",
-    "DNS Attacks.md",
-    "01 Theory/DNS Security.md",
-    "01 Theory/Denial of Service (DoS).md",
-    "01 Theory/RFID Cloning.md",
-    "01 Theory/Network Pentesting Methodology.md",
-    "01 Theory/Account Takeover Prevention.md",
-    "01 Theory/Identity & Access Management (IAM).md",
-    "01 Theory/Password Policy Enforcement.md",
-    "01 Theory/Phishing Campaign Simulation.md",
-    "01 Theory/SIEM & Threat Detection.md",
-    "01 Theory/Physical Security Recon.md",
-    "01 Theory/Credential Leak Monitoring.md",
-    "01 Theory/Open Source Intelligence (OSINT).md",
-    "01 Theory/Social Engineering Recon.md",
-    "01 Theory/Red Teaming.md",
-    "01 Theory/Wireless Pentesting Methodology.md",
-    "01 Theory/Proximity Card Spoofing.md",
-    "01 Theory/Physical Security.md",
-    "01 Theory/Malware Types.md",
-    "01 Theory/Logic Bomb.md",
-    "Unwanted Software Classification (PUA",
-    "TLS",
-    "CI",
-    "SOPs",
-    "BC",
-    "Email Security Protocols (S",
-    "SSL",
-    "SAML/ OAuth",
-    "SAML",
-    "Business Continuity and Disaster Recovery (BC"
+    "01 Reference/FOLDER USAGE GUIDELINES.md",
+    "MARKDOWN SYNTAX.md",
+    "12 Labs",
+    "README.md",
+    "01 Reference/CODE OF CONDUCT.md",
+    "01 Reference",
+    "01 Theory/Vendor Security Assessment.md",
+    "01 Theory/Wireshark Filters Cheat Sheet.md",
+    "01 Theory/Transport Layer Security (TLS 1.3).md",
+    "01 Theory/OAuth.md",
+    "01 Theory/Hashing & Digital Signatures.md",
+    "01 Theory/51 Percent Attack.md",
+    "01 Theory/Acceptable Use Policy (AUP).md",
+    "01 Theory/Adversary Emulation.md",
+    "01 Theory/API Gateway Security.md",
+    "01 Theory/DNS Filtering.md",
+    "01 Theory/802.1X & EAP.md",
+    "01 Theory/Account Lockout Policies.md",
+    "01 Theory/Tripwire.md",
+    "01 Theory/Volatility Framework.md",
+    "01 Theory/User & Entity Behavior Analytics (UEBA).md",
+    "01 Theory/YARA Rule Development.md",
+    "01 Theory/Unified Kill Chain (UKC).md",
+    "01 Theory/Hash Cracking & Rainbow Tables.md",
+    "01 Theory/Hashing.md",
+    "01 Theory/Work Order (WO).md",
+    "01 Theory/Forensic Analysis.md",
+    "01 Theory/Remote Work Security Guidelines.md",
+    "01 Theory/10 Practice & Cross-topic",
+    "01 Theory/09 Governance & Compliance",
+    "01 Theory/08 Cryptography & PKI",
+    "01 Theory/07 Incident Response",
+    "01 Theory/06 Operational Security",
+    "01 Theory/05 Application & Host Security",
+    "01 Theory/04 Network Security",
+    "01 Theory/03 Access Control"
   ]
 }
