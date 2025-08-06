@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "Roboto",
   "textFontFamily": "Roboto SemiCondensed",
   "monospaceFontFamily": "Roboto Condensed",
   "baseFontSizeAction": true,
-  "theme": "system"
+  "theme": "moonstone",
+  "baseFontSize": 14
 }
