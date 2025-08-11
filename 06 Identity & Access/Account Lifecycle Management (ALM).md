@@ -80,7 +80,7 @@
 
 - [[User & Group Management]]
 - [[Access Control Models]]
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 - [[RBAC vs ABAC vs MAC]]
 - [[Password Policy]]
 - [[Identity & Access Management (IAM)]]

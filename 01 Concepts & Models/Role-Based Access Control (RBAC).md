@@ -21,14 +21,12 @@
 
 ## 📦 Example
 
-```plaintext
-Role: HR_Manager
- → Permissions: View_Employee_Records, Approve_Leave
+***Role****:* ***HR****_****Manager***
+ *→* ***Permissions****:* ***View****_****Employee****_****Records****,* ***Approve****_****Leave***
 
-User: Alice
- → Assigned Role: HR_Manager
- → Resulting Access: Can view employee records and approve leave
-```
+***User****:* ***Alice***
+ *→* ***Assigned Role****:* ***HR****_****Manager***
+ *→* ***Resulting Access****:* ***Can view employee records and approve leave***
 
 ## 🧬 RBAC Variants
 
@@ -93,7 +91,7 @@ User: Alice
 - [[Attribute-Based Access Control (ABAC)]]
 - [[Discretionary Access Control (DAC)]]
 - [[Mandatory Access Control (MAC)]]
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 - [[User & Group Management]]
 - [[Access Control Models]]
 

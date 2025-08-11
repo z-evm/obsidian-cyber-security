@@ -90,7 +90,7 @@
 
 ---
 
-## 🧭 Security+ Relevance
+## 🧭 Relevance
 
 - Appears in **blockchain**, **consensus**, and **emerging technologies** topics.
 - Highlights:

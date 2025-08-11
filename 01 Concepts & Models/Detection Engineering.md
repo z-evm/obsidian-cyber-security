@@ -88,7 +88,7 @@
 ## 🧩 Related Topics
 
 - [[SIEM & Threat Detection]]
-- [[Security Logging & Monitoring]]
+- [[Audit Logs]]
 - [[Security Orchestration, Automation, and Response (SOAR)]]
 - [[Threat Hunting]]
 - [[Adversary Emulation]]

@@ -1,5 +1,3 @@
-## 🎯 Purpose
-
 To define the secure handling, transfer, storage, and disposal of files to prevent unauthorized access, data leakage, or regulatory non-compliance. This policy supports the protection of sensitive and classified information in accordance with the organization’s data classification standards.
 
 ---

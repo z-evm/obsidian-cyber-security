@@ -92,7 +92,7 @@ ssl_ciphers 'ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256';
 
 ## 🧩 Related Topics
 
-- [[TLS Handshake Process]]
+- [[TCP Three-Way Handshake]]
 - [[TLS & SSL Attacks]]
 - [[Cryptographic Attacks]]
 - [[Public Key Infrastructure (PKI)]]

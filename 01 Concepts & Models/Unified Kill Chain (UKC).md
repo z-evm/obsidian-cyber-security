@@ -87,7 +87,7 @@ The **Unified Kill Chain (UKC)** is an advanced cyber attack framework that expa
 - [[Cyber Kill Chain]]  
 - [[MITRE ATT&CK Framework]]  
 - [[Red Teaming]]  
-- [[NIST Incident Response Lifecycle]]  
+- [[NIST Incident Response Framework]]  
 - [[Threat Modeling]]  
 - [[Command & Control (C2)]]  
 - [[Credential Access Techniques]]

@@ -35,18 +35,16 @@
 
 ## 🔄 SOAR Workflow Example
 
-```plaintext
-SIEM Alert: Suspicious login
-   ↓
-SOAR triggers playbook
-   ↓
-1. Gather user context from AD
-2. Check geolocation & device fingerprint
-3. If abnormal:
-   - Disable user in AD
-   - Send Slack alert
-   - Open ServiceNow ticket
-```
+***SIEM Alert****:* ***Suspicious login***
+   *↓*
+***SOAR triggers playbook***
+   *↓*
+1. ***Gather user context from AD***
+2. ***Check geolocation & device fingerprint***
+3. ***If abnormal****:*
+   - ***Disable user in AD***
+   - ***Send Slack alert***
+   - ***Open ServiceNow ticket***
 
 ## 🛠 Leading SOAR Platforms
 

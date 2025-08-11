@@ -104,7 +104,7 @@
 
 - [[Blockchain Technology]]
 - [[Proof of Work (PoW)]]
-- [[Proof of Stake]]
+- [[Proof of Stake (PoS)]]
 - [[Byzantine Fault Tolerance]]
 - [[Cryptographic Hashing (Blockchain)]]
 - [[Merkle Trees]]

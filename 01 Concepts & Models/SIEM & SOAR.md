@@ -100,9 +100,10 @@
 
 - [[Incident Response Planning (IRP)]]
 - [[Threat Intelligence]]
-- [[Intrusion Detection & Prevention]]
+- [[Intrusion Detection Systems (IDS)]]
+- [[Intrusion Prevention Systems (IPS)]]
 - [[Security Automation]]
-- [[Log Management]]
+- [[Audit Logs]]
 - [[SOC Roles & Responsibilities]]
 
 ---

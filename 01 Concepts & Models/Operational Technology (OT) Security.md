@@ -114,7 +114,7 @@
 
 ## 📎 Related Topics
 
-- [[Supervisory Control & Data Acquisition, & Industrial Control System (SCADA & ICS)]]
+- [[Supervisory Control & Data Acquisition + Industrial Control System (SCADA + ICS)]]
 - [[Air Gapping & Isolation]]
 - [[Network Segmentation]]
 - [[Industrial Protocol Security]]

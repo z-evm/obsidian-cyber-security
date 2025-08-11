@@ -52,8 +52,8 @@ The model also allows for **meta-analysis** using attributes like:
 
 Multiple intrusion events can be connected into a **campaign graph**:
 
-***APT28*** **➝** ***sends*** **➝** ***Malicious Email Server*** **➝** ***delivers*** **➝** ***Excel Macro*** **➝** ***infects*** **➝** ***Employee Machine ***
-↘ ↘  
+***APT28*** **➝** ***sends*** **➝** ***Malicious Email Server*** **➝** ***delivers*** **➝** ***Excel Macro*** **➝** ***infects*** **➝** ***Employee Machine***
+**↘ ↘**  
 ***New Infrastructure***
 
 

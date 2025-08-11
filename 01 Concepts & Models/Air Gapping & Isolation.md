@@ -86,7 +86,7 @@ Even air-gapped systems are vulnerable to:
 
 ## 📎 Related Topics
 
-- [[Supervisory Control & Data Acquisition, & Industrial Control System (SCADA & ICS)]]
+- [[Supervisory Control & Data Acquisition + Industrial Control System (SCADA + ICS)]]
 - [[Operational Technology (OT) Security]]
 - [[Jump Server]]
 - [[Data Loss Prevention (DLP)]]

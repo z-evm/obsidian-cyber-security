@@ -88,10 +88,11 @@ Both IAM and PAM are vital in a **Zero Trust model**, which assumes no implicit 
 ## 📎 Related Topics
 
 - [[Privileged Access Management (PAM)]]
+- [[Identity & Access Management (IAM)]]
 - [[Zero Trust Architecture]]
 - [[Jump Server]]
 - [[Access Control Models]]
-- [[Federated Identity Management 1]]
+- [[Federated Identity Management (FidM)]]]
 - [[Authentication vs Authorization]]
 
 ---

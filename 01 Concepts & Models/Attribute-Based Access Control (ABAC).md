@@ -85,7 +85,7 @@ THEN:
 - [[RBAC vs ABAC vs MAC]]
 - [[Zero Trust Architecture]]
 - [[Security Policy Frameworks]]
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 - [[Access Control Models]]
 
 ---

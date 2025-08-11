@@ -62,7 +62,7 @@ Federated Identity Management (FIdM) enables users to access multiple systems or
 ## 🔗 Related Topics
 
 - [[Single Sign-On (SSO)]]
-- [[OAuth vs SAML vs OpenID]]
+- [[OAuth vs SAML vs OpenID Connect]]
 - [[Authentication Protocols]]
 - [[JWT Token Structure]]
 - [[MFA Integration]]

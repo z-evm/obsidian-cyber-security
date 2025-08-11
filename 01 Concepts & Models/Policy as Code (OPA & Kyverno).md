@@ -117,7 +117,7 @@ spec:
 
 - [[Kubernetes Security]]
 - [[Infrastructure as Code (IaC) Security]]
-- [[DevSecOps Pipeline]]
+- [[DevSecOps]]
 - [[Container Security]]
 - [[Role-Based Access Control (RBAC)]]
 

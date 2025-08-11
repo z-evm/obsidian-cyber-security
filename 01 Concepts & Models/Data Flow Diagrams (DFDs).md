@@ -45,11 +45,10 @@ DFDs illustrate **data inputs, processes, storage, and trust boundaries**, helpi
 - Database
 - Email Notification Service
 
-```plaintext
-[User] → (Login Page) → (Auth Process) → [User Database]
-                         ↓
-                   [Email Service]
-```
+***User*** *→* ***(Login Page)*** *→* ***(Auth Process)*** *→* ***User Database***
+                         *↓*
+                   ***Email Service***
+
 **Trust Boundary**: Between external user and internal app
 
 ---

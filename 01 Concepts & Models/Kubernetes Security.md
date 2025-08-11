@@ -105,7 +105,7 @@ encryptionConfig:
 
 - [[Container Security]]
 - [[Infrastructure as Code (IaC) Security]]
-- [[DevSecOps Pipeline]]
+- [[DevSecOps]]
 - [[Policy as Code (OPA & Kyverno)]]
 - [[Runtime Threat Detection]]
 

@@ -71,6 +71,23 @@ Goals:
 
 ---
 
+## 🚨 Continuous Compliance and Audit
+
+- Enforce CIS Benchmarks, NIST 800-53, ISO 27001 in CI/CD.
+- Generate evidence for compliance audits automatically.
+- Integrate into Jira/Ticketing systems for remediation tracking.
+
+---
+
+## 📈 DevSecOps KPIs
+
+- 🧪 **Mean Time to Detect (MTTD)** vulnerabilities
+- 🔁 **Mean Time to Remediate (MTTR)**
+- 🧼 **Vulnerability density per repo/module**
+- ✅ **% of pipelines with passing security gates**
+
+---
+
 ## ✅ Best Practices
 
 - Integrate **security tools into CI/CD pipelines**
@@ -79,6 +96,15 @@ Goals:
 - Automate **code and dependency scanning**
 - Conduct **regular threat modeling**
 - Foster **cross-functional collaboration** between Dev, Ops, and Security
+
+---
+
+## ⚠️ Challenges
+
+- 🧑‍💻 Requires upskilling devs in security
+- 🛠 Tool integration and orchestration can be complex
+- 💬 May introduce cultural resistance to change
+- 🧪 Need to balance speed vs security rigor
 
 ---
 

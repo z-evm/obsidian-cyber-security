@@ -36,7 +36,6 @@ A **Risk Register** is a structured document or system used to record, track, an
 
 ## 🧠 Sample Risk Entry
 
-```markdown
 - **Risk ID**: RISK-2025-001  
 - **Description**: Outdated web server running on production system.  
 - **Category**: Technical  
@@ -53,7 +52,6 @@ A **Risk Register** is a structured document or system used to record, track, an
 - **Status**: In Progress  
 - **Date Identified**: 2025-07-25  
 - **Review Date**: 2025-07-28  
-```
 
 ## 🛠 Tips for Effective Use
 

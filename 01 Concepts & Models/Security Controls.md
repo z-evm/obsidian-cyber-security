@@ -52,7 +52,7 @@ Security controls are safeguards or countermeasures designed to reduce risk and 
 
 - [[Control Types]]
 - [[Access Control Provisioning]]
-- [[Phishing Response]]
+- [[Phishing Response Workflow]]
 - [[Mail Header Analysis]]
 - [[Port Numbers & Protocols]]
 

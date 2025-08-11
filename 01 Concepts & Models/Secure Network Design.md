@@ -57,9 +57,7 @@ Segmenting the network limits lateral movement and exposure.
 
 ### 🧭 1. **DMZ Design**
 
-```text
-[Internet] ─▶ [Firewall] ─▶ [DMZ] ─▶ [Internal Firewall] ─▶ [LAN/Servers]
-```
+***Internet*** ─▶ ***Firewall*** ─▶ ***DMZ*** ─▶ ***Internal Firewall*** ─▶ ***LAN****/****Servers***
 
 - DMZ hosts: Web server, mail relay, reverse proxy
 - Blocks direct access to internal network

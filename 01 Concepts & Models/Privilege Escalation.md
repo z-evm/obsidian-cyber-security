@@ -60,6 +60,16 @@
 
 ---
 
+## 🔥 Risks and Impacts
+
+- 🔓 **Full system compromise**
+- 📦 **Data exfiltration or tampering**
+- 🐛 **Installation of persistent malware**
+- 🧩 **Lateral movement across the network**
+- 🧍 **Masquerading as privileged users**
+
+---
+
 ## 💣 Kernel-Level Exploits
 
 - Use CVEs and public PoCs to target vulnerable kernel versions.

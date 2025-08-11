@@ -104,7 +104,7 @@ Typical fields:
 - [[Incident Response Planning (IRP)]]
 - [[Vulnerability Management]]
 - [[Compliance Frameworks]]
-- [[Business Continuity & Disaster Recovery]]
+- [[Business Continuity & Disaster Recovery (BC & DR)]]
 
 ---
 

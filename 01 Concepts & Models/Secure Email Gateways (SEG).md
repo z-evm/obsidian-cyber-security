@@ -94,7 +94,7 @@ See: [[SPF, DKIM, DMARC]]
 ## 🔗 Related Topics
 
 - [[SPF, DKIM, DMARC]]
-- [[Phishing Response]]
+- [[Phishing Response Workflow]]
 - [[Zero-Day Threats]]
 - [[Data Loss Prevention (DLP)]]
 - [[SIEM & Log Analysis]]

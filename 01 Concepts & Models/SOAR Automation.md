@@ -35,15 +35,13 @@
 
 ## 🧠 Example Workflow: Phishing Response
 
-```yaml
-Playbook: Auto-Phishing Response
+***Playbook: Auto-Phishing Response***
 1. Ingest email alert from SIEM
 2. Extract indicators: sender, URLs, attachments
 3. Query threat intel sources
 4. Quarantine email (if malicious)
 5. Disable user account (if compromised)
 6. Notify SOC and create ticket
-```
 
 ## 🛠️ Popular SOAR Platforms
 
@@ -101,7 +99,7 @@ def check_url_virustotal(url, api_key):
 ## 🗂 Related Topics
 
 - [[SIEM Use Cases]]
-- [[NIST Incident Response Lifecycle]]
+- [[NIST Incident Response Framework]]
 - [[Threat Intelligence]]
 - [[Scripting & Automation]]
 - [[Isolation & Containment]]

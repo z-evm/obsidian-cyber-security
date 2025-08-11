@@ -92,7 +92,7 @@
 
 ## 📎 Related Topics
 
-- [[High Availability Strategies]]
+- [[High Availability]]
 - [[Server Clustering]]
 - [[Load Balancers]]
 - [[Disaster Recovery Planning (DRP)]]

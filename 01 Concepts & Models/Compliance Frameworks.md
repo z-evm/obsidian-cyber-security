@@ -100,6 +100,18 @@ Maintain both through **defense-in-depth**, **continuous monitoring**, and **inc
 
 ---
 
+## ⚠️ Penalties for Non-Compliance
+
+| Regulation | Penalty Examples                                       |
+|------------|---------------------------------------------------------|
+| **HIPAA**  | Up to $1.5M per year per violation category             |
+| **PCI DSS**| Fines from $5,000 to $100,000 per month                 |
+| **GDPR**   | €20 million or 4% of global annual revenue (whichever is greater) |
+| **SOX**    | Fines and potential imprisonment for executives         |
+
+
+---
+
 ## 📚 Related Concepts
 
 - [[Security Controls]]

@@ -103,7 +103,7 @@
 - [[Redundancy Models]]
 - [[Backup Strategies]]
 - [[Cloud Security Principles]]
-- [[Security Logging & Monitoring]]
+- [[Audit Logs]]
 - [[Security Policy Enforcement]]
 - [[Compliance & Governance in the Cloud]]
 

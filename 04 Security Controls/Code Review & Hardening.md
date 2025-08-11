@@ -101,7 +101,7 @@ Code review involves manual or automated examination of source code to catch **b
 - [[OWASP Top 10]]
 - [[Input Validation and Sanitization]]
 - [[Secure Web Application Design]]
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 
 ---
 

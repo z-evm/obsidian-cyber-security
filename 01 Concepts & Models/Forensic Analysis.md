@@ -12,7 +12,7 @@
 
 ---
 
-## 🧱 Forensic Process (Phases)
+## 🧱 Forensic Process (Phases or Lifecycle)
 
 | Phase             | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 Key Evidence Types
+## 🧠 Evidence Types
 
 | Category         | Examples                                                               |
 |------------------|------------------------------------------------------------------------|
@@ -64,6 +64,17 @@ Maintaining a **chain of custody** ensures evidence is:
 
 ---
 
+## 🛡 Incident Response vs Forensics
+
+| Aspect            | Incident Response                        | Digital Forensics                            |
+|-------------------|------------------------------------------|-----------------------------------------------|
+| **Goal**          | Contain and recover from an incident     | Investigate and gather legally-sound evidence |
+| **Speed**         | Prioritizes rapid action                 | Prioritizes thoroughness and documentation    |
+| **Scope**         | Operational impact mitigation            | Legal, root cause, long-term evidence         |
+
+
+---
+
 ## ✅ Best Practices
 
 - Use **write blockers** when imaging storage devices.
@@ -94,8 +105,13 @@ Maintaining a **chain of custody** ensures evidence is:
 - [[Volatility Framework]]
 - [[SIEM & Threat Detection]]
 - [[Root Cause Analysis]]
-- [[Security Logging & Monitoring]]
+- [[Audit Logs]]
 - [[After Action Report (AAR)]]
+- [[NIST Incident Response Lifecycle]]
+- [[Evidence Handling Procedures]]
+- [[Memory Forensics]]
+- [[Log Analysis]]
+- [[SIEM Tools]]
 
 ---
 

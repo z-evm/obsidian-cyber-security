@@ -93,7 +93,7 @@
 - [[Compliance & Governance in the Cloud]]
 - [[Access Control Models]]
 - [[Incident Response Framework]]
-- [[Audit Logging & Monitoring]]
+- [[Audit Logs]]
 
 ---
 

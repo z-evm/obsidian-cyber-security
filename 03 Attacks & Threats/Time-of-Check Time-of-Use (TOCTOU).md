@@ -14,12 +14,11 @@
 
 ### 🔓 File Access Bypass (Unix/Linux)
 
-```plaintext
 1. Program checks if /tmp/user.cfg is accessible to the user.
 2. Between check and access, attacker swaps /tmp/user.cfg → /etc/shadow via symlink.
 3. Program now reads from /etc/shadow with unintended privileges.
-```
-This bypasses access controls by exploiting the non-atomic sequence of operations.
+
+==This bypasses access controls by exploiting the non-atomic sequence of operations.
 
 ---
 

@@ -92,8 +92,8 @@
 ## 📎 Related Topics
 
 - [[Redundancy Models]]
-- [[High Availability Strategies]]
-- [[Load Balancers]]
+- [[High Availability]]
+- [[Load Balancing]]
 - [[Virtualization & Clustering]]
 - [[Disaster Recovery Planning (DRP)]]
 

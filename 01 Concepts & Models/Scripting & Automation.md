@@ -106,7 +106,7 @@ with open("auth.log") as f:
 - [[PowerShell Security Commands]]
 - [[Linux File Permissions Cheat Sheet]]
 - [[Command Line Tools for Security]]
-- [[NIST Incident Response Lifecycle]]
+- [[NIST Incident Response Framework]]
 - [[Threat Intelligence]]
 
 ---

@@ -97,10 +97,10 @@ A **Profile** represents the alignment of cybersecurity activities with business
 
 - [[NIST SP 800-53]]
 - [[NIST SP 800-115]]
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 - [[Security Assessments & Audits]]
 - [[Incident Response Framework]]
-- [[Compliance Regulations]]
+- [[Compliance Frameworks]]
 
 ---
 

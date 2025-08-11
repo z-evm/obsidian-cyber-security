@@ -119,8 +119,6 @@ cat dns.log | grep suspicious-domain
 
 ## ✅ To Do
 
--  Build Zeek detection script examples (e.g., HTTP exfil)
-    
--  Add Wireshark filters for beaconing detection
-    
--  Create integration guide: Zeek + SIEM (Splunk/ELK)
+- [ ]  Build Zeek detection script examples (e.g., HTTP exfil)
+- [ ]  Add Wireshark filters for beaconing detection
+- [ ]  Create integration guide: Zeek + SIEM (Splunk/ELK)

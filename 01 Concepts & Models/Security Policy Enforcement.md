@@ -52,9 +52,7 @@
 
 ## 📋 Policy Enforcement Workflow
 
-```
-Policy Creation → Control Mapping → Tool Implementation → Monitoring → Reporting → Audit & Review
-```
+***Policy Creation*** *→* ***Control Mapping*** *→* ***Tool Implementation*** *→* ***Monitoring*** *→* ***Reporting*** *→* ***Audit & Review***
 
 
 ---
@@ -98,7 +96,7 @@ Policy Creation → Control Mapping → Tool Implementation → Monitoring → R
 - [[Configuration Management (CM)]]
 - [[Monitoring & Alerting in the Cloud]]
 - [[Zero Trust Architecture]]
-- [[Security Auditing & Logging]]
+- [[Audit Logs]]
 
 ---
 

@@ -90,7 +90,7 @@ Goals:
 - [[Patch Management]]
 - [[Incident Response Planning (IRP)]]
 - [[DevSecOps]]
-- [[Auditing & Accounting]]
+- [[Audit Logs]]
 
 ---
 

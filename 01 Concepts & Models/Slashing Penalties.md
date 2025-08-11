@@ -79,7 +79,7 @@
 
 ---
 
-## 🧠 Security+ Relevance
+## 🧠 Relevance
 
 - Tied to **blockchain trust mechanisms**, **economic deterrents**, and **consensus enforcement**.
 - Reinforces:

@@ -77,7 +77,7 @@ Because the OS is foundational to all other applications, these vulnerabilities 
 - [[Exploit Development]]
 - [[Endpoint Protection]]
 - [[Rootkits]]
-- [[Security Auditing & Logging]]
+- [[Audit Logs]]
 
 ---
 

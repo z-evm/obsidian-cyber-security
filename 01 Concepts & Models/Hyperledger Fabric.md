@@ -83,7 +83,7 @@
 
 ---
 
-## 🧠 Security+ Relevance
+## 🧠 Relevance
 
 - Tied to **permissioned blockchain**, **role-based access**, and **enterprise security frameworks**.
 - Demonstrates:

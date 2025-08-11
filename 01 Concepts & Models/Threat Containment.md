@@ -64,7 +64,7 @@
 
 ## 🔗 Related Topics
 
-- [[NIST Incident Response Lifecycle]]
+- [[NIST Incident Response Framework]]
 - [[Sandboxing]]
 - [[Malware Analysis]]
 - [[Security Controls]]

@@ -87,7 +87,7 @@ A 4-layer **practical model** used in the real world, especially for the interne
 - [[Network Infrastructure Concepts]]
 - [[Port Numbers & Protocols]]
 - [[Defense in Depth (DiD)]]
-- [[Firewall & IDS]]
+- [[Firewall & IDS + IPS]]
 - [[Packet Analysis with Wireshark]]
 
 ---

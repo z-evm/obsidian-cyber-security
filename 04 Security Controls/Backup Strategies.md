@@ -97,7 +97,7 @@ A **backup strategy** is a structured approach for creating and storing copies o
 ## 📎 Related Topics
 
 - [[Disaster Recovery Planning (DRP)]]
-- [[High Availability Strategies]]
+- [[High Availability]]
 - [[Snapshot Risks vs Backup Benefits]]
 - [[Data Types & Classifications]]
 - [[Redundancy Models]]

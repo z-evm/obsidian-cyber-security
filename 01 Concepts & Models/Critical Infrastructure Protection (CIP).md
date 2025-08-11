@@ -108,7 +108,7 @@ According to many global frameworks (e.g., NIST, DHS, AU Gov), **Critical Infras
 
 ## 📎 Related Topics
 
-- [[Supervisory Control & Data Acquisition, & Industrial Control System (SCADA & ICS)]]
+- [[Supervisory Control & Data Acquisition + Industrial Control System (SCADA + ICS)]]
 - [[Operational Technology (OT) Security]]
 - [[Industrial Protocol Security]]
 - [[Incident Response Planning (IRP)]]

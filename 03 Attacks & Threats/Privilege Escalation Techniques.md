@@ -82,7 +82,7 @@
 
 - [[Privilege Escalation Risks]]
 - [[Endpoint Detection & Response (EDR)]]
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 - [[Access Control Models]]
 - [[Red Team vs Blue Team]]
 - [[Persistence Techniques]]

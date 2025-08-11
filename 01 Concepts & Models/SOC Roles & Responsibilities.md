@@ -87,7 +87,7 @@ Tier 1 → Tier 2 → Tier 3 → IR Team / External Support
 
 ---
 
-## 🧠 Security+ Relevance
+## 🧠 Relevance
 
 - Critical to domains covering:
     - **Security operations**
@@ -105,9 +105,10 @@ Tier 1 → Tier 2 → Tier 3 → IR Team / External Support
 - [[SIEM & SOAR]]
 - [[Incident Response Planning (IRP)]]
 - [[Threat Intelligence]]
-- [[Intrusion Detection & Prevention]]
+- [[Intrusion Detection Systems (IDS)]]
+- [[Intrusion Prevention Systems (IPS)]]
 - [[Security Automation]]
-- [[Behavior Analytics]]
+- [[User & Entity Behavior Analytics (UEBA)]]
 
 ---
 

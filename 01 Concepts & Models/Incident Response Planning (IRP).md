@@ -106,10 +106,11 @@ Goals:
 
 ## 📚 Related Concepts
 
+- [[Incident Response Framework]]
 - [[Risk Management]]
 - [[Security Controls]]
 - [[Security Information & Event Management (SIEM)]]
-- [[Business Continuity & Disaster Recovery]]
+- [[Business Continuity & Disaster Recovery (BC & DR)]]
 - [[Threat Intelligence]]
 - [[Gap Analysis]]
 

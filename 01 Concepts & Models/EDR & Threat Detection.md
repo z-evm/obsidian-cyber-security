@@ -133,7 +133,7 @@ NewLogonIP NOT IN InternalRanges
 - [[Malware Analysis]]
 - [[Incident Response]]
 - [[Indicators of Compromise (IoC)]]
-- [[Endpoint Protection vs EDR]]
+- [[EPP & EDR]]
 
 ---
 

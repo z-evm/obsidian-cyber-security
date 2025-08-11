@@ -114,7 +114,7 @@ exploit
 
 ## 🔗 Related Topics
 
-- [[Metasploit Framework]]
+- [[Metasploit]]
 - [[Post-Exploitation]]
 - [[Privilege Escalation]]
 - [[Payload Delivery Techniques]]

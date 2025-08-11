@@ -11,6 +11,17 @@
 
 ---
 
+## 📊 Availability Targets
+
+| Availability % | Downtime Per Year | Classification       |
+|----------------|-------------------|-----------------------|
+| 99%            | ~87.6 hours       | Standard availability |
+| 99.9%          | ~8.8 hours        | High availability     |
+| 99.99%         | ~52 minutes       | Very high availability|
+| 99.999%        | ~5 minutes        | "Five nines" mission critical |
+
+---
+
 ## 📐 Key HA Metrics
 
 | Metric       | Description                                                |
@@ -77,6 +88,16 @@
 
 ---
 
+## ⚖️ HA vs Fault Tolerance vs Disaster Recovery
+
+| Concept            | Focus                    | Example                          |
+|--------------------|--------------------------|-----------------------------------|
+| **High Availability** | Minimal downtime         | Web server failover in load balancer |
+| **Fault Tolerance**   | Continuous operation      | RAID array handles disk failure   |
+| **Disaster Recovery** | Restore after major failure | Data center backup site           |
+
+---
+
 ## 🔐 Security Considerations
 
 - 🔐 Secure HA paths (e.g., heartbeat channels) to prevent spoofing
@@ -106,13 +127,23 @@
 
 ---
 
+## 📚 Standards & Frameworks
+
+- **NIST SP 800-34** – Contingency Planning Guide  
+- **ISO 22301** – Availability and Continuity  
+- **Uptime Institute Tier Standards**  
+- **AWS Well-Architected Framework (Reliability Pillar)**  
+
+---
+
 ## 📎 Related Topics
 
 - [[Redundancy Models]]
 - [[Disaster Recovery Planning (DRP)]]
 - [[Server Clustering]]
-- [[Load Balancers]]
 - [[Backup Strategies]]
+- [[Load Balancing]]
+- [[Failover Clustering]]
 
 ---
 

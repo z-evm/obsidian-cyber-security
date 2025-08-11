@@ -63,7 +63,7 @@ This means the organization can expect to lose approximately **$50,000 annually*
 
 ## 🔗 Linked Topics
 
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 - [[Qualitative vs Quantitative Risk Assessment]]
 - [[Security Controls]]
 - [[Cost-Benefit Analysis (CBA)]]

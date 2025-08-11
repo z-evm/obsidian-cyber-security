@@ -89,9 +89,10 @@
 - [[Risk Assessment Techniques]]
 - [[Qualitative Risk]]
 - [[Risk Register]]
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 - [[Business Impact Analysis (BIA)]]
 - [[Cost-Benefit Analysis (CBA)]]
+- [[Qualitative vs Quantitative Risk Assessment]]
 
 ---
 

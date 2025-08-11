@@ -10,12 +10,12 @@ The **NIST SP 800-61 Rev. 2**: *Computer Security Incident Handling Guide* is th
 
 ## 🔄 NIST Incident Response Lifecycle
 
-| Phase           | Description                                                                 |
-|------------------|-----------------------------------------------------------------------------|
-| **1. Preparation**       | Develop policies, procedures, and tools to handle incidents effectively |
-| **2. Detection & Analysis** | Identify indicators of compromise and determine scope/severity          |
-| **3. Containment, Eradication & Recovery** | Stop the incident, remove threats, restore systems       |
-| **4. Post-Incident Activity** | Document findings, analyze root causes, update IR plans             |
+| Phase                                      | Description                                                             |
+| ------------------------------------------ | ----------------------------------------------------------------------- |
+| **1. Preparation**                         | Develop policies, procedures, and tools to handle incidents effectively |
+| **2. Detection & Analysis**                | Identify indicators of compromise and determine scope/severity          |
+| **3. Containment, Eradication & Recovery** | Stop the incident, remove threats, restore systems                      |
+| **4. Post-Incident Activity**              | Document findings, analyze root causes, update IR plans                 |
 
 ---
 
@@ -97,6 +97,7 @@ The **NIST SP 800-61 Rev. 2**: *Computer Security Incident Handling Guide* is th
 
 ## 📚 Related Topics
 
+- [[Incident Response Planning (IRP)]]
 - [[Phishing Response Workflow]]
 - [[Security Information & Event Management (SIEM)]]
 - [[Chain of Custody]]

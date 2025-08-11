@@ -88,11 +88,14 @@ Groups simplify permission management by allowing you to assign access to multip
 ## 📚 Related Topics
 
 - [[Access Control Models]]
-- [[RBAC vs ABAC vs MAC]]
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 - [[Account Lifecycle Management (ALM)]]
 - [[Password Policy]]
 - [[Multi-Factor Authentication (MFA)]]
+- [[Role-Based Access Control (RBAC)]]
+- [[Attribute-Based Access Control (ABAC)]]
+- [[Mandatory Access Control (MAC)]]
+- [[Discretionary Access Control (DAC)]]
 
 ---
 

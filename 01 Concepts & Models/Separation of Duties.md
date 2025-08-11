@@ -75,7 +75,7 @@
 
 ## 🗂 Related Topics
 
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 - [[Access Control Models]]
 - [[Change Management Process]]
 - [[Identity & Access Management (IAM)]]

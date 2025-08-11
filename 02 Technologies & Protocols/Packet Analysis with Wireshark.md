@@ -109,7 +109,7 @@
 ## 📎 Related Notes
 
 - [[OSI & TCP IP Models]]
-- [[Firewall & IDS]]
+- [[Firewall & IDS + IPS]]
 - [[SIEM Tools]]
 - [[Malware Analysis Workflow]]
 - [[Network Infrastructure Concepts]]

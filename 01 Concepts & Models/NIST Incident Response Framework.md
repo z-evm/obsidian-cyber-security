@@ -69,6 +69,17 @@ Focus: **Learn and improve**
 
 ---
 
+## 🧱 Security Control Mapping
+
+| Phase                     | Relevant Controls (NIST 800-53 / CIS)                   |
+|---------------------------|---------------------------------------------------------|
+| **Preparation**            | IR-1, IR-2, IR-8; CIS 17.1 (IR Policy)                  |
+| **Detection & Analysis**   | SI-4, AU-6, AC-6; CIS 8, 13 (Log & Detection)           |
+| **Containment & Recovery** | IR-4, SC-7, CP-10; CIS 11, 12, 13                       |
+| **Post-Incident**          | IR-5, PM-14; CIS 17.5 (Lessons Learned), 19 (Audit)     |
+
+---
+
 ## 🧰 Supporting Tools & Technologies
 
 - 🛠 SIEM (e.g., Splunk, QRadar)
@@ -84,6 +95,15 @@ Focus: **Learn and improve**
 - 📈 Improves **incident response maturity**
 - ⚖️ Assists with **compliance and legal readiness**
 - 🤝 Enables better **coordination across teams**
+
+---
+
+## 📌 Best Practices
+
+- Maintain **runbooks** and **playbooks**
+- Automate with **SOAR** platforms
+- Train blue team and red team regularly
+- Integrate incident response with **BCP/DRP**
 
 ---
 

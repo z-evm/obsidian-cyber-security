@@ -131,7 +131,7 @@
 - [[Authorization Models]]
 - [[Access Control Provisioning]]
 - [[Zero Trust Architecture]]
-- [[Auditing & Accounting]]
+- [[Audit Logs]]
 - [[Security Models]]
 
 ---

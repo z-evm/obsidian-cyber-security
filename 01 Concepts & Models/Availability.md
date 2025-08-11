@@ -70,7 +70,7 @@ Goals:
 | **RTO (Recovery Time Objective)**     | How fast a system must be restored       |
 | **RPO (Recovery Point Objective)**    | Acceptable data loss measured in time    |
 
-📎 Related: [[Business Continuity & Disaster Recovery]]
+📎 Related: [[Business Continuity & Disaster Recovery (BC & DR)]]
 
 ---
 

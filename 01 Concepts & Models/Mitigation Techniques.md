@@ -84,7 +84,7 @@ Prevent unauthorized physical access to systems and data.
 
 ## 🧠 Related Topics
 
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 - [[Control Types]]
 - [[Defense in Depth (DiD)]]
 - [[Security Policy Enforcement]]

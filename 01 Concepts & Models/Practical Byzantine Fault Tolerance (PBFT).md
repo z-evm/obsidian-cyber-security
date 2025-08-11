@@ -81,7 +81,7 @@
 
 ---
 
-## 🧠 Security+ Relevance
+## 🧠 Relevance
 
 - Demonstrates a **non-PoW** consensus model suitable for:
   - **Enterprise blockchain**

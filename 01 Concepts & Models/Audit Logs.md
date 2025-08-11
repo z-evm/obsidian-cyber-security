@@ -30,15 +30,40 @@ Goals:
 
 ---
 
-## 🧰 Examples of Audit Logs
+## 📦 Types of Logs
 
-| Event Type             | Audit Entry Example                                          |
-|-------------------------|-------------------------------------------------------------|
-| **Authentication**      | User login, logout, failed login (Event ID 4625 in Windows) |
-| **Access Control**       | File or folder access, permission changes                  |
-| **System Changes**       | Service restarts, registry modifications, software installs|
-| **Privilege Escalation** | User added to admin group, sudo command in Linux           |
-| **Network Access**       | VPN session started, remote desktop initiated              |
+| Log Type              | Description                               | Example Entries                              |
+|------------------------|-------------------------------------------|-----------------------------------------------|
+| **Authentication Logs**| Track login attempts, successes, failures| Windows Event ID 4625 (failed login)          |
+| **System Logs**        | OS and kernel-level messages              | Syslog, Event Viewer                          |
+| **Application Logs**   | Logs from custom or third-party software  | Web server access logs                        |
+| **Security Logs**      | Events related to threats or violations   | Firewall rules triggered, AV detections       |
+| **Network Logs**       | Traffic flow and communication patterns   | NetFlow, DNS queries, VPN usage               |
+| **Audit Logs**         | Tracks changes to system configurations   | File changes, GPO edits, sudo actions         |
+
+📎 Related: [[Configuration Management (CM)]]
+
+---
+
+## 🔍 What Makes Good Audit Data?
+
+- **Accuracy**: Time-synced logs (e.g., via NTP)
+- **Completeness**: Covers all relevant systems and applications
+- **Integrity**: Logs are protected from tampering
+- **Retention**: Stored per compliance policies (e.g., 1 year+)
+- **Correlation-ready**: Easily parsed and normalized for SIEM
+
+📎 Related: [[Non-Repudiation]], [[Compliance Frameworks]]
+
+---
+
+## ⚠️ Common Pitfalls
+
+- Incomplete or missing logs
+- Poor time synchronization
+- No log review process
+- Insufficient retention policies
+- Lack of access controls on logs
 
 ---
 
@@ -63,14 +88,27 @@ Goals:
 📎 Related: [[Incident Response]], [[Detection Engineering]]
 
 ---
+## 🛠 Tools for Managing Audit Trails
 
-## 🔐 Security Best Practices
+| Tool Type            | Examples                                                  |
+|----------------------|-----------------------------------------------------------|
+| **SIEM**              | Splunk, Microsoft Sentinel, QRadar, Elastic              |
+| **Log Forwarders**    | rsyslog, syslog-ng, Fluentd                              |
+| **Cloud-native Logs** | AWS CloudTrail, Azure Activity Logs, GCP Audit Logs       |
+| **Database Auditing** | Oracle Audit Vault, MySQL Audit Plugin                   |
+| **File Integrity Monitoring** | OSSEC, AIDE, Tripwire                        |
 
-- Enable auditing on **all critical systems**
-- Store logs in **centralized**, **tamper-resistant** location (e.g., SIEM)
-- Use **time synchronization (NTP)** for accurate timestamps
-- Enforce **log access controls and integrity validation**
-- Implement **log rotation** and archival per policy
+--- 
+
+## ✅ Best Practices
+
+- 📌 **Enable auditing on all critical systems**
+- 🔐 **Secure log storage**: Prevent tampering and unauthorized access
+- 🧪 **Test logging configurations** regularly
+- ⏳ **Use timestamps and time sync (e.g., NTP)**
+- 📁 **Separate logs by source and sensitivity**
+- 🔄 **Review logs regularly** as part of security operations
+- 🧾 **Retain logs per regulatory and business needs**
 
 ---
 
@@ -100,9 +138,6 @@ Goals:
 
 ## 📚 Related Concepts
 
-- [[Audit Trails]]
-- [[Auditing & Accounting]]
-- [[Log Management]]
 - [[Incident Response]]
 - [[Security Information & Event Management (SIEM)]]
 - [[Threat Detection]]

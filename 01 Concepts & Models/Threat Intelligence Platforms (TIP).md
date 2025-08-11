@@ -51,13 +51,11 @@
 
 ## 🔄 TIP Workflow Example
 
-```plaintext
 1. Ingest IOCs from OSINT, ISACs, and vendors
 2. Normalize and deduplicate indicators
 3. Correlate with internal logs via SIEM
 4. Enrich with WHOIS, VirusTotal, sandbox results
 5. Send high-risk IPs to SOAR or firewall for blocking
-```
 
 ## ✅ Best Practices
 

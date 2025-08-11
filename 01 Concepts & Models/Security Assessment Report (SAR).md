@@ -75,7 +75,7 @@ A **Security Assessment Report (SAR)** provides a comprehensive evaluation of an
 - [[Risk Assessment Techniques]]
 - [[Security Controls]]
 - [[FedRAMP Assessment Process]]
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 
 ---
 

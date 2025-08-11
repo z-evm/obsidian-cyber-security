@@ -96,13 +96,9 @@ permissions:
 ## 🔐 Security Considerations
 
 - **RBAC** risks include **role explosion** and excessive privileges.
-    
 - **ABAC** complexity may lead to misconfigured policies or **unintended access**.
-    
 - ABAC offers stronger **context-aware enforcement** for **least privilege**.
-    
 - Both models should enforce **auditing, logging, and periodic reviews**.
-    
 
 ---
 

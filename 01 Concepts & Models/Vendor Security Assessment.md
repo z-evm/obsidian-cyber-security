@@ -99,7 +99,7 @@ A **Vendor Security Assessment** is the structured process of evaluating a third
 - [[Supply Chain Security]]
 - [[Compliance & Governance in the Cloud]]
 - [[Access Control Models]]
-- [[Audit Logging & Monitoring]]
+- [[Audit Logs]]
 - [[Incident Response Framework]]
 
 ---

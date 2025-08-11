@@ -97,7 +97,7 @@
 ## 📚 Related Topics
 
 - [[Certificate Pinning]]
-- [[OAuth vs SAML vs OpenID]]
+- [[OAuth vs SAML vs OpenID Connect]]
 - [[Data Loss Prevention (DLP)]]
 - [[PKI & Certificates]]
 - [[TLS Certificate Management]]

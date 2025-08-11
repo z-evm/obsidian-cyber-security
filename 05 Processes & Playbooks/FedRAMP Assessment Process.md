@@ -101,7 +101,7 @@ The **Federal Risk and Authorization Management Program (FedRAMP)** standardizes
 - [[System Security Plan (SSP)]]
 - [[Plan of Action & Milestones (POA&M)]]
 - [[Continuous Monitoring (ConMon)]]
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 
 ---
 

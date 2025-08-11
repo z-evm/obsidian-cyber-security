@@ -99,7 +99,7 @@
 
 ## 🗂 Related Topics
 
-- [[Email Security Gateways (SEG)]]
+- [[Secure Email Gateways (SEG)]]
 - [[Email Security Standards]]
 - [[Multi-Factor Authentication (MFA)]]
 - [[Authentication Attacks]]

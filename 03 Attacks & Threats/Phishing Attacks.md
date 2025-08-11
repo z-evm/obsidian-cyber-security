@@ -109,7 +109,7 @@ If you do not act, your account will be locked.
 - [[Antivirus Evasion]]
 - [[Credential Dumping]]
 - [[User Awareness Training]]
-- [[Email Security Gateways (SEG)]]
+- [[Secure Email Gateways (SEG)]]
 
 ---
 

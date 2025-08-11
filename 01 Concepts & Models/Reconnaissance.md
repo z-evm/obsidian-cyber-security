@@ -95,7 +95,7 @@ intitle:"index of" "passwords"
 - [[Cyber Kill Chain]]
 - [[OSINT Tools]]
 - [[Red Teaming]]
-- [[Penetration Testing Lifecycle]]
+- [[Penetration Testing]]
 
 ---
 
@@ -108,7 +108,5 @@ intitle:"index of" "passwords"
 ## ✅ To Do
 
 -  Add flowchart: Passive → Active → Enumeration
-    
 -  Document tool outputs (e.g., theHarvester, Shodan)
-    
 -  Include OSINT cheat sheet or toolkit reference

@@ -113,7 +113,7 @@ These systems are part of **Critical Infrastructure (CI)** and require **special
 - [[Network Segmentation]]
 - [[Incident Response Planning (IRP)]]
 - [[Air Gapping & Isolation]]
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 
 ---
 

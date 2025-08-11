@@ -65,7 +65,7 @@
 
 ---
 
-## 🧠 Security+ Relevance
+## 🧠 Relevance
 
 - Central to:
   - **Threat identification**

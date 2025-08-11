@@ -108,7 +108,7 @@ int main() {
 - [[Reverse Engineering]]
 - [[Memory Corruption]]
 - [[Static vs Dynamic Analysis]]
-- [[Metasploit Framework]]
+- [[Metasploit]]
 
 ---
 

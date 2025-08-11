@@ -98,7 +98,7 @@ These are part of the **Bell-LaPadula Model**, focused on **confidentiality**.
 - [[Access Control Models]]
 - [[Bell-LaPadula Model]]
 - [[Security Policy Frameworks]]
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 
 ---
 

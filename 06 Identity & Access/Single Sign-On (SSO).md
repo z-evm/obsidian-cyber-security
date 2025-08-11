@@ -109,7 +109,7 @@
 
 - [[OpenID Connect]]
 - [[Security Assertion Markup Language (SAML)]]
-- [[OAuth vs SAML vs OpenID]]
+- [[OAuth vs SAML vs OpenID Connect]]
 - [[Authentication Protocols]]
 - [[Federated Identity Management 1]]
 - [[Multi-Factor Authentication (MFA)]]

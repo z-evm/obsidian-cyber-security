@@ -85,12 +85,6 @@ ALE = $40,000 × 1.5 = $60,000/year
 
 ---
 
-## 🏷 Tags
-
-#risk_assessment #qualitative #quantitative #ale #security_metrics #risk_matrix
-
----
-
 ## 🔗 Linked Topics
 
 - [[Annual Loss Expectancy (ALE)]]
@@ -99,3 +93,10 @@ ALE = $40,000 × 1.5 = $60,000/year
 - [[Risk Treatment Strategies]]
 - [[Risk Register]]
 - [[Business Impact Analysis (BIA)]]
+
+---
+
+## 🏷 Tags
+
+#risk_assessment #qualitative #quantitative #ale #security_metrics #risk_matrix
+

@@ -89,7 +89,7 @@
 - [[Version Control]]
 - [[Infrastructure as Code (IaC) Security]]
 - [[Secure Baseline]]
-- [[DevSecOps Pipeline]]
+- [[DevSecOps]]
 
 ---
 

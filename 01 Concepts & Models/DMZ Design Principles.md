@@ -56,18 +56,16 @@ A **DMZ (Demilitarized Zone)** is a **buffer network** between a trusted interna
 
 ## 🧾 Sample Network Layout
 
-```plaintext
-Internet
-   ↓
-[External Firewall]
-   ↓ (only port 80/443)
-[      DMZ Network      ]
-|  Web Server  | VPN | Mail |
-   ↓
-[Internal Firewall]
-   ↓ (restricted access)
-[Internal Network]
-```
+***Internet***
+   *↓*
+***External Firewall***
+   *↓* ***(only port 80/443)***
+      ***DMZ Network***      
+*|* ***Web Server***  *|* ***VPN*** *|* ***Mail*** *|*
+   *↓*
+***Internal Firewall***
+   *↓* ***(restricted access)***
+***Internal Network***
 
 ## 🔐 Security Best Practices
 
@@ -90,7 +88,7 @@ Internet
 
 ## 📚 Related Topics
 
-- [[Firewall Rules and Zoning]]
+- [[Firewall Rules & Zoning]]
 - [[Network Segmentation]]
 - [[Intrusion Detection Systems (IDS)]]
 - [[Intrusion Prevention Systems (IPS)]]

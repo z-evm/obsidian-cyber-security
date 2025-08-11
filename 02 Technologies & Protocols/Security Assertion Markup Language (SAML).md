@@ -108,7 +108,7 @@ Assertions are **digitally signed** to ensure integrity and authenticity.
 
 ## 🗂 Related Topics
 
-- [[OAuth vs SAML vs OpenID]]
+- [[OAuth vs SAML vs OpenID Connect]]
 - [[OpenID Connect]]
 - [[Authentication Protocols]]
 - [[Single Sign-On (SSO)]]

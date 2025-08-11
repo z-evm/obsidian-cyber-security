@@ -1,4 +1,4 @@
-Firewalls and Intrusion Detection Systems (IDS) are critical components of **network perimeter and internal defense**. They help control traffic flow and detect unauthorized or malicious activity.
+Firewalls, Intrusion Detection Systems (IDS), and Intrusion Prevention Systems (IPS), are critical components of **network perimeter and internal defense**. They help control traffic flow and detect unauthorized or malicious activity.
 
 ---
 
@@ -51,6 +51,18 @@ An IDS monitors network or host activity for **suspicious patterns** or **known 
 
 ---
 
+### 🔍 IPS Detection Methods
+
+| Method               | Description                                      |
+|----------------------|--------------------------------------------------|
+| **Signature-Based**   | Detects known attack patterns                    |
+| **Anomaly-Based**     | Detects deviations from normal behavior         |
+| **Policy-Based**      | Custom rules that define acceptable behavior    |
+| **Heuristic**         | Behaviorally infers malicious activity          |
+
+
+---
+
 ## 💥 IPS (Intrusion Prevention System)
 
 An IPS is an **active** system that **blocks** traffic in real-time. Often integrated with NGFW.
@@ -60,6 +72,29 @@ An IPS is an **active** system that **blocks** traffic in real-time. Often integ
 | Role             | Detect only                 | Detect + Prevent             |
 | Deployment       | TAP/SPAN                    | Inline                       |
 | Risk             | Low risk of false positives | False positives may block good traffic |
+
+---
+
+## 🔁 Firewall vs IPS
+
+| Feature              | Firewall                             | IPS                                    |
+|----------------------|----------------------------------------|----------------------------------------|
+| **Primary Function** | Allow/deny based on rules              | Detect and block threats in real time  |
+| **Traffic Focus**    | Header and protocol-based filtering    | Deep packet/content inspection         |
+| **Placement**        | Perimeter or host                      | Inline with traffic                    |
+| **Response**         | Policy enforcement                     | Automated threat prevention            |
+| **False Positives**  | Lower (static rules)                   | Higher (requires tuning)               |
+
+---
+
+## 🧰 Combined Systems
+
+- **Next-Gen Firewalls (NGFW)** often integrate:
+  - IPS/IDS capabilities
+  - Deep packet inspection
+  - Application control
+  - Threat intelligence feeds
+- Examples: Palo Alto NGFW, Cisco Firepower, Fortinet FortiGate
 
 ---
 
@@ -93,11 +128,26 @@ An IPS is an **active** system that **blocks** traffic in real-time. Often integ
 
 ---
 
+## ⚠️ Common Challenges
+
+| Challenge              | Firewall                             | IPS                                    |
+|------------------------|----------------------------------------|----------------------------------------|
+| **Overblocking**        | Can interrupt legitimate services      | False positives may block good traffic |
+| **Performance Impact**  | Minimal in stateless mode              | High if deep inspection is unoptimized |
+| **Evasion Techniques**  | Fragmented or tunneled packets         | Encrypted traffic bypasses inspection  |
+
+
+---
+
 ## 📎 Related Notes
 
 - [[Network Infrastructure Concepts]]
 - [[OSI & TCP IP Models]]
 - [[SIEM Tools]]
+- [[SIEM & SOAR]]
+- [[Anomaly Detection]]
+- [[Network Segmentation]]
+- [[Security Controls]]
 - [[Defense in Depth (DiD)]]
 - [[Zero Trust Architecture]]
 - [[Next-Generation Firewall (NGFW)]]

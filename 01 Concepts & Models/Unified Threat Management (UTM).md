@@ -90,11 +90,11 @@ Many UTM solutions support:
 
 ## 📎 Related Topics
 
-- [[Firewall & IPS]]
+- [[Firewall & IDS + IPS]]
 - [[Next-Generation Firewall (NGFW)]]
 - [[Cloud Security Appliances]]
 - [[SIEM Tools]]
-- [[Threat Detection & Response]]
+- [[Threat Detection]]
 
 ---
 

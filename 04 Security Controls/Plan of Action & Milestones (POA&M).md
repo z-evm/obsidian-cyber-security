@@ -81,7 +81,7 @@ A **Plan of Action and Milestones (POA&M)** is a formal document that identifies
 ## 🧩 Related Topics
 
 - [[System Security Plan (SSP)]]
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 - [[Security Assessment Report (SAR)]]
 - [[Vulnerability Management]]
 - [[NIST SP 800-53]]

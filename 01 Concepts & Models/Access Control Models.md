@@ -111,7 +111,7 @@
 
 ## 🗂 Related Topics
 
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 - [[Separation of Duties]]
 - [[Access Control List (ACL)]]
 - [[Identity & Access Management (IAM)]]

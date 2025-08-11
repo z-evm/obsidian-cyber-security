@@ -35,12 +35,12 @@
 
 ## 🧱 Backup Storage Options
 
-| Location     | Description                                  | Pros                                | Cons                        |
-|--------------|----------------------------------------------|-------------------------------------|-----------------------------|
-| **On-Prem**   | Local devices (e.g., tape, NAS, disk arrays) | Fast access                         | Vulnerable to local disasters |
-| **Offsite**   | Physical remote storage or secondary site    | Resilient to local threats          | Requires transport/logistics |
-| **Cloud**     | Backups stored in cloud services             | Scalable, automated, cost-efficient | Dependent on internet, recurring cost |
-| **Hybrid**    | Mix of on-prem + cloud                       | Balanced speed and resilience       | More complex to manage       |
+| Location    | Description                                  | Pros                                | Cons                                  |
+| ----------- | -------------------------------------------- | ----------------------------------- | ------------------------------------- |
+| **On-Prem** | Local devices (e.g., tape, NAS, disk arrays) | Fast access                         | Vulnerable to local disasters         |
+| **Offsite** | Physical remote storage or secondary site    | Resilient to local threats          | Requires transport/logistics          |
+| **Cloud**   | Backups stored in cloud services             | Scalable, automated, cost-efficient | Dependent on internet, recurring cost |
+| **Hybrid**  | Mix of on-prem + cloud                       | Balanced speed and resilience       | More complex to manage                |
 
 ---
 

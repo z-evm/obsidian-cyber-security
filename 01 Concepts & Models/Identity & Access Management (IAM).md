@@ -31,7 +31,7 @@ Goals:
 | **Provisioning**     | Granting/modifying/removing user access                      |
 | **Federation**       | Enables SSO across different organizations or domains        |
 
-📎 Related: [[Authentication]], [[Auditing & Accounting]]
+📎 Related: [[Authentication]], [[Audit Logs]]
 
 ---
 
@@ -103,7 +103,7 @@ Cloud IAM platforms (e.g., AWS IAM, Azure AD) provide:
 - [[Authentication]]
 - [[Authorization]]
 - [[Security Policies]]
-- [[Auditing & Accounting]]
+- [[Audit Logs]]
 - [[Zero Trust Architecture]]
 - [[Compliance Frameworks]]
 

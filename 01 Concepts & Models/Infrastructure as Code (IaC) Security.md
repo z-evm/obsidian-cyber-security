@@ -96,7 +96,7 @@
 
 ## 🧩 Related Topics
 
-- [[DevSecOps Pipeline]]
+- [[DevSecOps]]
 - [[Container Security]]
 - [[Cloud Specific Vulnerabilities]]
 - [[Secure API Design Guidelines]]

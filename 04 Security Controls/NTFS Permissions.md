@@ -93,7 +93,7 @@ The **Effective Permissions** are the combination of:
 
 - [[User & Group Management]]
 - [[Access Control Models]]
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 - [[Account Lifecycle Management (ALM)]]
 - [[Discretionary Access Control (DAC)]]
 

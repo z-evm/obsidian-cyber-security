@@ -94,12 +94,12 @@
 
 ## 🗂 Related Topics
 
-- [[NIST Incident Response Lifecycle]]
+- [[NIST Incident Response Framework]]
 - [[Disaster Recovery (DR) Metrics]]
 - [[Business Continuity Planning (BCP)]]
 - [[Security Policy Frameworks]]
 - [[SOAR Automation]]
-- [[Digital Forensics]]
+- [[Forensic Analysis]]
 
 ---
 

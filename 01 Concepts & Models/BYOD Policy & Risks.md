@@ -44,6 +44,7 @@
 
 ## 🔐 BYOD Security Best Practices
 
+
 ### ✅ Device Requirements
 
 - Enforce encryption (FDE for laptops, mobile device encryption)

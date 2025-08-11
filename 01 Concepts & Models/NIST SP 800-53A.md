@@ -103,7 +103,7 @@ SP 800-53A assessments feed into the **Security Assessment Report (SAR)** used b
 
 - [[NIST SP 800-53]]
 - [[Security Control Evaluation]]
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 - [[Continuous Monitoring (ConMon)]]
 - [[Security Assessment Report (SAR)]]
 - [[FedRAMP Authorization Process]]

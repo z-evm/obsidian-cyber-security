@@ -87,7 +87,7 @@ Modern NGFWs are **cloud-compatible**, often deployed as:
 ## 📎 Related Topics
 
 - [[Firewall & IPS]]
-- [[Unified Threat Management]]
+- [[Unified Threat Management (UTM)]]
 - [[Cloud Security Appliances]]
 - [[Intrusion Prevention Systems (IPS)]]
 - [[Threat Detection]]

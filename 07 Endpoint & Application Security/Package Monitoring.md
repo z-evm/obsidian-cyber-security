@@ -82,7 +82,6 @@
 
 ## 🔗 Related Topics
 
-- [[Application Security]]
 - [[Supply Chain Security]]
 - [[DevSecOps]]
 - [[Static vs Dynamic Analysis]]

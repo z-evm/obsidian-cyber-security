@@ -95,7 +95,7 @@ IoT devices often lack robust security controls due to cost, size, and performan
 
 ---
 
-## 🧭 Security+ Relevance
+## 🧭 Relevance
 
 - Appears in **emerging technologies**, **risk management**, and **network security** domains
 - Topics include:

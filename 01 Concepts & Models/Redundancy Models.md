@@ -115,7 +115,8 @@
 ## 🧩 Related Topics
 
 - [[Disaster Recovery Planning (DRP)]]
-- [[High Availability & Load Balancing]]
+- [[High Availability]]
+- [[Load Balancing]]
 - [[Business Continuity Planning (BCP)]]
 - [[Backup Strategies]]
 - [[Business Impact Analysis (BIA)]]

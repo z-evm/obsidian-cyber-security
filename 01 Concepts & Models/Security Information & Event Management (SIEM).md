@@ -92,7 +92,7 @@
 - [[Threat Detection]]
 - [[Incident Response]]
 - [[Non-Repudiation]]
-- [[Log Management]]
+- [[Audit Logs]]
 
 ---
 

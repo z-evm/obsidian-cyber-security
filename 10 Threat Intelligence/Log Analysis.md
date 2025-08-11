@@ -93,7 +93,6 @@ It forms the backbone of **threat detection**, **incident response**, and **comp
 
 - [[SIEM Tools]]
 - [[Incident Response]]
-- [[Security Logging & Monitoring]]
 - [[Audit Logs]]
 - [[Threat Hunting]]
 

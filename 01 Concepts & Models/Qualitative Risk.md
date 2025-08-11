@@ -25,7 +25,6 @@
 
 ## 📊 Risk Rating Matrix
 
-```text
      +-------------+------------+------------+------------+
      |             |  Low       | Medium     | High       |
      |             |  Impact →  | Impact →   | Impact →   |
@@ -35,7 +34,6 @@
      | High        | Medium     | High       | Critical   |
      ↑
      Likelihood
-```
 
 > A risk matrix helps **visualize** and **rank** risks for treatment.
 
@@ -89,12 +87,6 @@
 
 ---
 
-## 🏷 Tags
-
-#risk_assessment #qualitative #risk_matrix #cybersecurity #threat_modeling #likelihood #impact
-
----
-
 ## 🔗 Linked Topics
 
 - [[Risk Assessment]]
@@ -103,3 +95,10 @@
 - [[Threat Modeling]]
 - [[Business Impact Analysis (BIA)]]
 - [[Risk Register]]
+- [[Qualitative vs Quantitative Risk Assessment]]
+
+---
+
+## 🏷 Tags
+
+#risk_assessment #qualitative #risk_matrix #cybersecurity #threat_modeling #likelihood #impact

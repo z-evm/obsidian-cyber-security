@@ -102,8 +102,7 @@
 - [[SIEM & SOAR]]
 - [[Incident Response Planning (IRP)]]
 - [[Threat Intelligence]]
-- [[Behavior Analytics]]
-- [[Intrusion Detection & Prevention]]
+- [[User & Entity Behavior Analytics (UEBA)]]
 - [[Security Controls]]
 
 ---

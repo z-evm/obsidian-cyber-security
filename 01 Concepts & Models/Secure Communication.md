@@ -91,8 +91,8 @@
 
 ## 📎 Related Topics
 
-- [[TLS Handshake Process]]
-- [[Forward Secrecy Explained]]
+- [[TCP Three-Way Handshake]]
+- [[Perfect Forward Secrecy (PFS)]]
 - [[Public Key Infrastructure (PKI)]]
 - [[Hashing]]
 - [[Email Security Standards]]

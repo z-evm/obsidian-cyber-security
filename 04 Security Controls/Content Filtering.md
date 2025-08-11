@@ -77,7 +77,7 @@
 ## 📚 Related Topics
 
 - [[Web Application Firewall (WAF)]]
-- [[Email Security Gateways (SEG)]]
+- [[Secure Email Gateways (SEG)]]
 - [[Data Loss Prevention (DLP)]]
 - [[Acceptable Use Policy (AUP)]]
 - [[DNS Security]]

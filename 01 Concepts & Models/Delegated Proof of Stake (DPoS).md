@@ -71,7 +71,7 @@
 
 ---
 
-## 🧠 Security+ Relevance
+## 🧠 Relevance
 
 - Tied to **blockchain consensus**, **voting systems**, and **delegated trust**.
 - Demonstrates:

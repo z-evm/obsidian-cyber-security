@@ -110,7 +110,7 @@ Wireless infrastructure security ensures that **Wi-Fi networks and communication
 ## 📎 Related Notes
 
 - [[Wireless Pentesting Methodology]]
-- [[Firewall & IDS]]
+- [[Firewall & IDS + IPS]]
 - [[Encryption Technologies]]
 - [[Network Access Control (NAC)]]
 - [[Zero Trust Architecture]]

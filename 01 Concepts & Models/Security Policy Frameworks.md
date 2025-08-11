@@ -70,11 +70,11 @@
 
 ## 🗂 Related Topics
 
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 - [[Acceptable Use Policy (AUP)]]
 - [[Configuration Management (CM)]]
 - [[Access Control Models]]
-- [[Compliance Regulations]]
+- [[Compliance Frameworks]]
 
 ---
 

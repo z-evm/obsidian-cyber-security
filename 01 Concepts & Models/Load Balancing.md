@@ -46,6 +46,17 @@
 
 ---
 
+## 🧠 High Availability vs Load Balancing
+
+| Feature             | High Availability                          | Load Balancing                            |
+|---------------------|--------------------------------------------|-------------------------------------------|
+| Focus               | Uptime and fault tolerance                 | Performance and workload distribution      |
+| Handles Failures    | Yes                                         | Not directly                              |
+| Distributes Load    | Not necessarily                            | Yes                                       |
+| Typically Paired    | With clustering, redundant hardware        | With autoscaling, CDN, caching             |
+
+---
+
 ## 🛡️ Security Considerations
 
 - 🔐 Hide backend IPs and network details
@@ -65,6 +76,18 @@ Load balancers routinely check backend servers for:
 - 🧪 Custom logic (e.g., API status checks)
 
 Servers failing health checks are removed from the pool until recovery.
+
+---
+
+## ⛑ Use Case Scenarios
+
+| Scenario                         | Strategy                                                           |
+|----------------------------------|---------------------------------------------------------------------|
+| **Web app with global users**     | Geo-based load balancing + multi-region HA                         |
+| **Database cluster**             | Master-slave replication + automatic failover                      |
+| **E-commerce site**              | Round-robin or weighted load balancing + application failover      |
+| **API gateway**                  | Load balancing with rate limiting, health checks, and failover     |
+| **Microservices architecture**   | Load balancers with container orchestrators (e.g., Kubernetes Ingress) |
 
 ---
 
@@ -95,7 +118,7 @@ Servers failing health checks are removed from the pool until recovery.
 - [[Reverse Proxies]]
 - [[Web Application Firewall (WAF)]]
 - [[TLS Certificate Management]]
-- [[High Availability & Redundancy]]
+- [[High Availability]]
 - [[API Gateway]]
 - [[Network Segmentation]]
 

@@ -47,14 +47,11 @@ It provides a **hardware-rooted trust chain** that protects the boot process fro
 
 ## 🔍 Verification Flow
 
-```
-UEFI Firmware ──> Bootloader ──> OS Kernel ──> Drivers  
-│ │ │ │  
-(Signed) (Signed) (Signed) (Signed)
-```
+***UEFI Firmware*** *──>* ***Bootloader*** *──>* ***OS Kernel*** *──>* ***Drivers***  
+*│ │ │ │ * 
+***(Signed) (Signed) (Signed) (Signed)***
 
-
-Each component is cryptographically validated before execution.
+==Each component is cryptographically validated before execution.
 
 ---
 

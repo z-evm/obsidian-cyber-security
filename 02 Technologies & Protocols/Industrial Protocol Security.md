@@ -86,7 +86,7 @@ Many of these protocols were designed for **availability and interoperability**,
 
 ## 📎 Related Topics
 
-- [[Supervisory Control & Data Acquisition, & Industrial Control System (SCADA & ICS)]]
+- [[Supervisory Control & Data Acquisition + Industrial Control System (SCADA + ICS)]]
 - [[Operational Technology (OT) Security]]
 - [[Network Segmentation]]
 - [[Air Gapping & Isolation]]

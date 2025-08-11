@@ -113,7 +113,7 @@ powershell -nop -w hidden -enc <base64-encoded-payload>
 - [[EDR & Threat Detection]]
 - [[Post-Exploitation]]
 - [[Persistence Techniques]]
-- [[Metasploit Framework]]
+- [[Metasploit]]
 
 ---
 

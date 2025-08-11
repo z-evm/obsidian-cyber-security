@@ -19,13 +19,11 @@
 - Your wallet manages multiple UTXOs and aggregates them when needed.
 
 ### 📦 Example:
-```text
-Input: 
-  UTXO1 (0.6 BTC) + UTXO2 (0.4 BTC)
-Output: 
-  0.8 BTC to recipient + 0.2 BTC back to sender (change)
-```
 
+***Input****:* 
+  ***UTXO1 (0.6 BTC)*** *+* ***UTXO2 (0.4 BTC)***
+***Output***: 
+  ***0.8 BTC to recipient*** *+* ***0.2 BTC back to sender (change)***
 ### ✅ Benefits
 
 |Advantage|Description|
@@ -100,7 +98,7 @@ Output:
 
 ---
 
-## 🧠 Security+ Relevance
+## 🧠 Relevance
 
 - Applies to **blockchain design**, **data integrity**, and **privacy**.
 - Supports:

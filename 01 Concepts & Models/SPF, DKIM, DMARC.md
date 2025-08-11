@@ -1,4 +1,6 @@
-SPF (Sender Policy Framework) helps verify that the sender's mail server is authorized to send email on behalf of the domain.
+## 📌Sender Policy Framework (SPF)
+
+SPF helps verify that the sender's mail server is authorized to send email on behalf of the domain.
 
 **How It Works:**
 - SPF records are stored as **DNS TXT records**.

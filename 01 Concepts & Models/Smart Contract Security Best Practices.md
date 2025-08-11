@@ -119,7 +119,7 @@ modifier onlyOwner { ... }
 
 ---
 
-## 🧠 Security+ Relevance
+## 🧠 Relevance
 
 - Reflects **secure coding practices**, **vulnerability management**, and **application security** in blockchain systems.
 - Tied to:

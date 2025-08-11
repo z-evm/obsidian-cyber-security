@@ -71,7 +71,7 @@ These documents form the **authorization package** submitted to the **Authorizin
 - [[System Security Plan (SSP)]]
 - [[Security Assessment Report (SAR)]]
 - [[Plan of Action & Milestones (POA&M)]]
-- [[Risk Management Framework (RMF)]]
+- [[NIST Risk Management Framework (RMF)]]
 - [[NIST SP 800-37]]
 - [[FedRAMP Authorization Process]]
 

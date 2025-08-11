@@ -86,7 +86,7 @@
 
 - [[Redundancy Models]]
 - [[Disaster Recovery Planning (DRP)]]
-- [[High Availability Strategies]]
+- [[High Availability]]
 - [[Server Clustering]]
 - [[Physical Security Controls]]
 

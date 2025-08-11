@@ -85,7 +85,7 @@
 
 - [[Disaster Recovery (DR) Metrics]]
 - [[Business Continuity Planning (BCP)]]
-- [[NIST Incident Response Lifecycle]]
+- [[NIST Incident Response Framework]]
 - [[Backup Strategies]]
 - [[Tabletop Exercises]]
 - [[Security Baseline Enforcement]]

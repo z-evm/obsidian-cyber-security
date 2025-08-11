@@ -80,7 +80,7 @@ switch(config)# ip arp inspection vlan 10
 ## 📎 Related Topics
 
 - [[Port Security]]
-- [[802.1X & NAC]]
+- [[802.1X, EAP & NAC]]
 - [[Layer 2 Attacks]]
 - [[Network Segmentation]]
 - [[Rogue Device Detection]]

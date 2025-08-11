@@ -97,7 +97,7 @@
 
 ## 🗂 Related Topics
 
-- [[OAuth vs SAML vs OpenID]]
+- [[OAuth vs SAML vs OpenID Connect]]
 - [[Authentication Protocols]]
 - [[Single Sign-On (SSO)]]
 - [[JWT Token Structure]]

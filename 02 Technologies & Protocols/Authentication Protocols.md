@@ -91,7 +91,7 @@
 - [[Authentication Attacks]]
 - [[LDAP & Kerberos]]
 - [[Multi-Factor Authentication (MFA)]]
-- [[OAuth vs SAML vs OpenID]]
+- [[OAuth vs SAML vs OpenID Connect]]
 - [[RADIUS vs TACACS+]]
 
 ---

@@ -97,7 +97,7 @@ Together, they enable:
 ## 📎 Related Topics
 
 - [[Server Clustering]]
-- [[High Availability Strategies]]
+- [[High Availability]]
 - [[Snapshot Risks vs Backup Benefits]]
 - [[Hypervisor Security]]
 - [[Virtual Machine Escape]]

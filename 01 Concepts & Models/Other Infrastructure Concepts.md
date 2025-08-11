@@ -100,7 +100,7 @@ Distributes traffic across multiple systems to ensure:
 ## 📎 Related Notes
 
 - [[Network Infrastructure Concepts]]
-- [[Firewall & IDS]]
+- [[Firewall & IDS + IPS]]
 - [[Cloud Infrastructure]]
 - [[SIEM Tools]]
 - [[Virtualization Vulnerabilities]]

@@ -47,7 +47,7 @@ In cybersecurity and governance, specific roles are assigned to ensure **data is
 - [[Security Baseline Enforcement]]
 - [[Compliance Frameworks]]
 - [[Separation of Duties]]
-- [[Least Privilege Principle]]
+- [[Principle of Least Privilege (PoLP)]]
 
 ---
 
