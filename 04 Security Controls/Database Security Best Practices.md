@@ -107,8 +107,8 @@ Databases store critical data such as PII, credentials, and financial records. *
 - [[Input Validation]]
 - [[Access Control Models]]
 - [[Encryption Technologies]]
-- [[SQL Injection]]
-- [[Security Assessments & Audits]]
+- [[SQL Injection (SQLi)]]
+- [[Security Assessment Plan (SAP)]]
 
 ---
 

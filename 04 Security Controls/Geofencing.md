@@ -1,6 +1,6 @@
 **Geofencing** is a security and access control technique that uses **virtual geographic boundaries** (based on GPS, IP, Wi-Fi, or cellular data) to **trigger actions** when a device or user enters or exits a predefined zone.
 
-Geofencing is used to **enforce location-based policies**, **restrict unauthorized access**, and **detect anomalous behavior** in modern security systems.
+>Geofencing is used to **enforce location-based policies**, **restrict unauthorized access**, and **detect anomalous behavior** in modern security systems.
 
 ---
 

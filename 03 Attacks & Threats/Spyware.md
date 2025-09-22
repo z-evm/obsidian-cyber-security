@@ -66,7 +66,7 @@
 - [[Runtime Threat Detection]]
 - [[Keylogger Detection & Mitigation]]
 - [[Advanced Persistent Threats (APT)]]
-- [[Social Engineering Attacks]]
+- [[Social Engineering]]
 
 ---
 

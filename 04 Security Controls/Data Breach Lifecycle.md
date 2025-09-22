@@ -58,10 +58,10 @@ A **data breach** refers to the unauthorized access, acquisition, or disclosure 
 
 ## 🧠 Related Topics
 
-- [[NIST Incident Response Lifecycle]]
+- [[NIST Incident Response Framework]]
 - [[Threat Containment]]
 - [[Data Loss Prevention (DLP)]]
-- [[Digital Forensics]]
+- [[Forensic Analysis]]
 - [[Security Information & Event Management (SIEM)]]
 - [[Phishing Response]]
 - [[Breach Notification Laws]]

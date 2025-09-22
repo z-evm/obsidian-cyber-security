@@ -6,13 +6,13 @@ These tools are used for **monitoring**, **hardening**, **auditing**, **troubles
 
 ## 📂 File & Process Inspection
 
-| Tool        | Description                                         |
-|-------------|-----------------------------------------------------|
-| `ls`, `find`| List files, search with conditions (`-perm`, `-type`)|
-| `lsof`      | List open files, find who’s accessing a file        |
-| `ps`, `top` | View active processes, system resource usage        |
-| `htop`      | Enhanced interactive process viewer                 |
-| `stat`      | View file metadata (last modified, permissions)     |
+| Tool         | Description                                           |
+| ------------ | ----------------------------------------------------- |
+| `ls`, `find` | List files, search with conditions (`-perm`, `-type`) |
+| `lsof`       | List open files, find who’s accessing a file          |
+| `ps`, `top`  | View active processes, system resource usage          |
+| `htop`       | Enhanced interactive process viewer                   |
+| `stat`       | View file metadata (last modified, permissions)       |
 
 ---
 
@@ -132,7 +132,5 @@ iptables -L -n -v     # View firewall rules
 ## ✅ To Do
 
 -  Create cheat sheet for security CLI commands
-    
 -  Add command chaining & scripting examples
-    
 -  Document case studies using CLI for investigation

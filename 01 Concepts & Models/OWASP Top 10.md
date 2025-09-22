@@ -79,7 +79,7 @@ Published by the **Open Worldwide Application Security Project (OWASP)**, the To
 ## 🗂 Related Topics
 
 - [[XSS & Web Exploits]]
-- [[SQL Injection]]
+- [[SQL Injection (SQLi)]]
 - [[Authentication Protocols]]
 - [[Vulnerability Scanning]]
 - [[Secure Login Mechanisms]]

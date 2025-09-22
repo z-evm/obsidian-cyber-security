@@ -118,7 +118,7 @@ Use templates for CEF/JSON format if required by your SIEM.
 - [[SIEM Use Cases]]
 - [[Linux File Permissions Cheat Sheet]]
 - [[Endpoint Security Controls]]
-- [[AppArmor Overview]]
+- [[AppArmor]]
 - [[Packet Capture & Analysis]]
 
 ---

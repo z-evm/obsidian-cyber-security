@@ -79,7 +79,7 @@
 ## 🧩 Related Topics
 
 - [[Firewall Evasion Techniques]]
-- [[Command and Control (C2)]]
+- [[Command & Control (C2)]]
 - [[Runtime Threat Detection]]
 - [[Typosquatting Detection Tools]]
 - [[Security Information & Event Management (SIEM)]]

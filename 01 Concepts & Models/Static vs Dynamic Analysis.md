@@ -107,7 +107,7 @@ Watch for:
 ## 🔗 Related Topics
 
 - [[Malware Analysis]]
-- [[Reverse Engineering]]
+- [[05 Processes & Playbooks/Reverse Engineering]]
 - [[Memory Forensics]]
 - [[EDR & Threat Detection]]
 - [[Indicators of Compromise (IoC)]]

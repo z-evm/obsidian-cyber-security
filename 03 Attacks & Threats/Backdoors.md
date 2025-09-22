@@ -81,7 +81,7 @@ Backdoors are commonly used by malware, threat actors, and occasionally for legi
 
 - [[Malicious Updates]]
 - [[Rootkits]]
-- [[Remote Access Trojans (RATs)]]
+- [[Remote Access Trojans (RAT)]]
 - [[Advanced Persistent Threats (APT)]]
 - [[File Integrity Monitoring (FIM)]]
 - [[Zero Trust Architecture]]

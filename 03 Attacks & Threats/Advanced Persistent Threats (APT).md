@@ -4,11 +4,11 @@ An **Advanced Persistent Threat (APT)** is a **prolonged and targeted cyberattac
 
 ## 📌 Characteristics of APTs
 
-| Attribute        | Description                                                              |
-|------------------|---------------------------------------------------------------------------|
-| **Advanced**      | Uses sophisticated techniques, custom malware, and zero-day exploits     |
-| **Persistent**    | Maintains long-term access and control over systems                      |
-| **Targeted**      | Focuses on specific entities (e.g., governments, corporations, research) |
+| Attribute      | Description                                                              |
+| -------------- | ------------------------------------------------------------------------ |
+| **Advanced**   | Uses sophisticated techniques, custom malware, and zero-day exploits     |
+| **Persistent** | Maintains long-term access and control over systems                      |
+| **Targeted**   | Focuses on specific entities (e.g., governments, corporations, research) |
 
 > APTs are stealthy, patient, and capable of adapting to defensive measures.
 

@@ -94,7 +94,7 @@ Because DNS traffic is almost always allowed out of internal networks, it provid
 
 ## 🔗 Related Topics
 
-- [[Command and Control (C2)]]
+- [[Command & Control (C2)]]
 - [[Beaconing Detection]]
 - [[Threat Hunting]]
 - [[SIEM Tools]]

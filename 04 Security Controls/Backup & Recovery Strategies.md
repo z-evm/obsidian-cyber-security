@@ -80,6 +80,47 @@
 
 ---
 
+## 🔄 Retention & Rotation
+
+### Retention Policy Example
+
+- **Daily** backups for 7 days  
+- **Weekly** backups for 4 weeks  
+- **Monthly** backups for 12 months  
+- **Yearly** backups for 7 years (compliance)
+
+### Rotation Schemes
+
+| Scheme                  | Description                                     |
+|--------------------------|-------------------------------------------------|
+| **GFS (Grandfather-Father-Son)** | Daily/Weekly/Monthly hierarchy            |
+| **Tower of Hanoi**       | Rotates backups using mathematical sequence     |
+
+---
+
+## 🧰 Tools and Platforms
+
+| Category         | Example Tools                                  |
+|------------------|------------------------------------------------|
+| **Enterprise**    | Veeam, Commvault, Veritas, Rubrik             |
+| **Cloud-native**  | AWS Backup, Azure Backup, Google Vault        |
+| **Open-source**   | Bacula, Duplicati, Restic                     |
+| **Endpoint**      | Acronis, Macrium Reflect, Backblaze           |
+
+---
+
+## ⚠️ Backup Risks & Threats
+
+| Threat                     | Mitigation                                   |
+|----------------------------|----------------------------------------------|
+| **Ransomware encryption**   | Immutable storage, offline backups          |
+| **Insider tampering**       | Access control, MFA, logging                |
+| **Corrupted backups**       | Automated validation, checksum integrity    |
+| **Disaster loss (fire/flood)**| Offsite/cloud backup, hybrid architecture  |
+
+
+---
+
 ## 📚 Related Standards & Frameworks
 
 - **NIST SP 800-34** – Contingency Planning Guide  

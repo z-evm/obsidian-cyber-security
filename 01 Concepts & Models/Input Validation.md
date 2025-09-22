@@ -80,7 +80,7 @@
 - [[Web Security Headers]]
 - [[OWASP Top 10]]
 - [[XSS & Web Exploits]]
-- [[SQL Injection]]
+- [[SQL Injection (SQLi)]]
 - [[Secure Coding Practices]]
 - [[Form Validation & Sanitization]]
 

@@ -48,6 +48,15 @@ Goals:
 
 ---
 
+## 🧠 Real-World Examples
+
+- **Fake IT Support Call**: Vishing call impersonates tech support to gain remote access  
+- **CEO Email Spoofing**: Spear phishing targets finance team to wire money urgently  
+- **Malicious USB Drop**: Attacker plants infected USBs in parking lots (baiting)  
+- **LinkedIn Pretexting**: Impersonating recruiters to extract org charts or insider info  
+
+---
+
 ## 📦 Delivery Vectors
 
 | Vector             | Examples                                 |
@@ -63,15 +72,28 @@ Goals:
 
 ## 🛡 Defense Strategies
 
-- **User training and awareness**
-- **Phishing simulations and drills**
-- **Email filtering and spam controls**
-- **Multi-Factor Authentication (MFA)**
-- **Caller verification procedures**
-- **Physical access controls and badge policies**
-- **Least privilege and need-to-know principles**
+| Method                          | Description                                                |
+|---------------------------------|------------------------------------------------------------|
+| **Security Awareness Training** | Educate users on phishing, pretexting, and other tactics   |
+| **Simulated Phishing Campaigns**| Test and reinforce recognition skills                      |
+| **Multi-Factor Authentication (MFA)** | Reduce impact of compromised credentials           |
+| **Verify Requests**             | Use out-of-band confirmation (e.g., callback, in-person)   |
+| **Least Privilege Principle**   | Limit access to only what is necessary                     |
+| **Email Filtering & Anti-Phishing Tools** | Block spoofed emails, malicious links             |
+| **Clear Reporting Channels**    | Encourage prompt reporting of suspicious interactions       |
 
 📎 Related: [[Security Controls]], [[Defense in Depth (DiD)]], [[Zero Trust Architecture]]
+
+---
+
+## 📚 Related Compliance & Frameworks
+
+| Standard       | Control Area                                 |
+|----------------|-----------------------------------------------|
+| **NIST 800-53**| AT family (Awareness & Training), PE-2, AC-6 |
+| **ISO 27001**  | A.7.2.2 (Security awareness), A.6.1.2         |
+| **CIS Controls**| Control 14: Security Awareness and Skills Training |
+| **PCI-DSS**    | Req 12.6: Security awareness training         |
 
 ---
 

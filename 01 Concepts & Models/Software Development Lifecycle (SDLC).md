@@ -81,7 +81,7 @@ Secure SDLC integrates security throughout each stage of development instead of 
 
 - [[DevSecOps]]
 - [[Secure Coding Practices]]
-- [[Static Code Analysis Tools]]
+- [[Static Code Analysis]]
 - [[Vulnerability Remediation]]
 - [[Threat Modeling]]
 - [[Patch Management]]

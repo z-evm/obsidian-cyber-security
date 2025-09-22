@@ -94,8 +94,8 @@ DDoS attacks are launched from **compromised devices (botnets)** and are among t
 
 ## 📎 Related Topics
 
-- [[Firewall & IPS]]
-- [[Load Balancers]]
+- [[Firewall & IDS + IPS]]
+- [[Load Balancing]]
 - [[High Availability]]
 - [[Threat Detection]]
 - [[SIEM Tools]]

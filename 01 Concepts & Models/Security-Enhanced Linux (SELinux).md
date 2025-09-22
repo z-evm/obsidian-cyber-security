@@ -119,7 +119,7 @@ setsebool -P httpd_enable_homedirs on
 - [[System Hardening]]
 - [[Access Control Models]]
 - [[Linux File Permissions Cheat Sheet]]
-- [[AppArmor Overview]]
+- [[AppArmor]]
 - [[Endpoint Security Controls]]
 
 ---

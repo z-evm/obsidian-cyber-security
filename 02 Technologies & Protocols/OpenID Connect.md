@@ -101,7 +101,7 @@
 - [[Authentication Protocols]]
 - [[Single Sign-On (SSO)]]
 - [[JWT Token Structure]]
-- [[Federated Identity Management 1]]
+- [[Federated Identity Management (FidM)]]
 - [[MFA Integration]]
 
 ---

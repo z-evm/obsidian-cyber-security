@@ -100,7 +100,7 @@ In PtT attacks, **TGTs are ideal**, but **TGS can also be reused** for service-s
 
 ## 🔗 Related Topics
 
-- [[Pass-the-Hash]]
+- [[Pass-the-Hash (PtH) Attacks]]
 - [[Credential Dumping]]
 - [[Kerberoasting]]
 - [[Post-Exploitation]]

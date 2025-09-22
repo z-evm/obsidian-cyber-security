@@ -75,7 +75,7 @@ Content-Type: multipart/form-data; boundary=abc123
 
 - [[Secure Email Gateways (SEG)]]
 - [[Content Filtering]]
-- [[Input Validation and Sanitization]]
+- [[Form Validation & Sanitization]]
 - [[HTTP Headers]]
 - [[Phishing Defense Techniques]]
 

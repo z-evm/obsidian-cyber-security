@@ -112,7 +112,7 @@
 
 - [[Perfect Forward Secrecy (PFS)]]
 - [[Encryption Technologies]]
-- [[TLS Protocol Overview]]
+- [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Public Key Infrastructure (PKI)]]
 - [[Zero Trust Architecture]]
 - [[Mobile Application Security]]

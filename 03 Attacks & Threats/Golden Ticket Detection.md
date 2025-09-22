@@ -104,7 +104,7 @@ Set-ADAccountPassword -Identity krbtgt -Reset
 - [[Kerberos Authentication]]
 - [[Active Directory (AD) Security]]
 - [[Windows Event Auditing]]
-- [[Pass-the-Ticket Attacks]]
+- [[Pass-the-Ticket (PtT) Attacks]]
 - [[SIEM Use Cases]]
 
 ---

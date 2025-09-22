@@ -75,7 +75,7 @@
 - [[Common Vulnerability Scoring System (CVSS)]]
 - [[Vulnerability Analysis]]
 - [[Secure Coding Practices]]
-- [[Static Code Analysis Tools]]
+- [[Static Code Analysis]]
 - [[Software Development Lifecycle (SDLC)]]
 
 ---

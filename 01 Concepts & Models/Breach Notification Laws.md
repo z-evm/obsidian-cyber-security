@@ -60,11 +60,11 @@ These laws vary globally in terms of **scope**, **timelines**, **requirements**,
 
 ## 🧠 Related Topics
 
-- [[NIST Incident Response Lifecycle]]
+- [[NIST Incident Response Framework]]
 - [[Data Breach Lifecycle]]
-- [[Digital Forensics]]
+- [[Forensic Analysis]]
 - [[Data Loss Prevention (DLP)]]
-- [[Compliance Regulations]]
+- [[Compliance Frameworks]]
 
 ---
 

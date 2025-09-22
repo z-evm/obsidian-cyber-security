@@ -79,7 +79,7 @@ A **logic bomb** is a type of malicious code intentionally inserted into a syste
 - [[Malware Types]]
 - [[Runtime Threat Detection]]
 - [[File Integrity Monitoring (FIM)]]
-- [[Command and Control (C2)]]
+- [[Command & Control (C2)]]
 
 ---
 

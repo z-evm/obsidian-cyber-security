@@ -102,7 +102,7 @@ Removed:
 - [[File Integrity Monitoring (FIM)]]
 - [[System Hardening]]
 - [[Linux File Permissions Cheat Sheet]]
-- [[AppArmor Overview]]
+- [[AppArmor]]
 - [[Syslog Monitoring]]
 - [[NIST Incident Response Lifecycle]]
 

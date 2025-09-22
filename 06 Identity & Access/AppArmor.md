@@ -135,7 +135,5 @@ ausearch -m apparmor
 ## ✅ To Do
 
 -  Build interactive AppArmor profile tutorial
-    
 -  Compare real-world AppArmor vs SELinux enforcement logs
-    
 -  Document containerized AppArmor profile use with Docker and LXC

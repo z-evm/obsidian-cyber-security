@@ -112,8 +112,8 @@ Rubeus kerberoast /user:svc_account
 ## 🧩 Related Concepts
 
 - [[Credential Dumping]]
-- [[Pass-the-Ticket Attacks]]
-- [[Active Directory Attacks]]
+- [[Pass-the-Ticket (PtT) Attacks]]
+- [[Active Directory (AD) Attacks]]
 - [[Post-Exploitation]]
 - [[EDR & Threat Detection]]
 

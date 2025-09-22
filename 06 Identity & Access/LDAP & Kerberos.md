@@ -140,8 +140,8 @@ Kerberos is a **network authentication protocol** using **tickets** to allow sec
 
 - [[Authentication vs Authorization]]
 - [[Kerberoasting]]
-- [[Pass-the-Ticket Attacks]]
-- [[Active Directory Attacks]]
+- [[Pass-the-Ticket (PtT) Attacks]]
+- [[Active Directory (AD) Attacks]]
 - [[Credential Dumping]]
 - [[Public Key Infrastructure (PKI)]]
 

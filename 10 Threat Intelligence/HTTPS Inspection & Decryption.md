@@ -112,7 +112,7 @@ Without inspection, **security tools become blind** to:
 ## 🗂 Related Topics
 
 - [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
-- [[Man-in-the-Middle Attacks]]
+- [[Man-in-the-Middle (MitM) Attacks]]
 - [[Firewall Rules & Zoning]]
 - [[Data Loss Prevention (DLP)]]
 - [[Secure Web Gateways]]

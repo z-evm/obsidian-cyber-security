@@ -60,11 +60,11 @@ A **Replay Attack** occurs when a valid data transmission is maliciously or frau
 
 ## 🔗 Related Topics
 
-- [[Man-in-the-Middle Attacks]]
+- [[Man-in-the-Middle (MitM) Attacks]]
 - [[Session Hijacking]]
 - [[Token Expiry Management]]
 - [[HMAC Authentication]]
-- [[TLS Handshake Process]]
+- [[TCP Three-Way Handshake]]
 
 ---
 

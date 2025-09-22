@@ -99,7 +99,7 @@ It is the **default authentication mechanism** in Active Directory environments.
 
 - [[Active Directory (AD) Security]]
 - [[Windows Event Auditing]]
-- [[Pass-the-Ticket Attacks]]
+- [[Pass-the-Ticket (PtT) Attacks]]
 - [[Golden Ticket Detection]]
 - [[Privileged Access Management (PAM)]]
 

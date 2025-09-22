@@ -95,7 +95,7 @@ _Detects hosts communicating repeatedly with the same IP at short intervals._
 ## 📚 Related Topics
 
 - [[Command & Control (C2)]]
-- [[Remote Access Trojans (RATs)]]
+- [[Remote Access Trojans (RAT)]]
 - [[SIEM Tools]]
 - [[DNS Tunneling]]
 - [[Threat Hunting]]

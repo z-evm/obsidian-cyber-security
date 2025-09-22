@@ -123,7 +123,7 @@ secretsdump.py -just-dc -k -no-pass DOMAIN/Administrator@DC-IP
 ## 🔗 Related Topics
 
 - [[Post-Exploitation]]
-- [[Pass-the-Hash]]
+- [[Pass-the-Hash (PtH) Attacks]]
 - [[Lateral Movement]]
 - [[Privilege Escalation]]
 - [[EDR and Threat Detection]]

@@ -80,7 +80,7 @@
 ## 🗂 Related Topics
 
 - [[Authentication Protocols]]
-- [[802.1X, EAP & NAC]]
+- [[IEEE 802.1X, EAP & NAC]]
 - [[Secure Login Mechanisms]]
 - [[AAA Framework]]
 - [[Network Access Control (NAC)]]

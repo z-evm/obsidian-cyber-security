@@ -14,27 +14,24 @@
 
 ## 🛠 How It Works
 
-```text
-[User Request] → [DNS Resolver (filtered)] → [Decision]
+***User Request*** **→** ***DNS Resolver (filtered)*** **→** ***Decision***
          ↘                 ↓
-       (Blocked)      (Allowed or Redirected)
-```
+       ***(Blocked)***      ***(Allowed or Redirected)***
 
-- DNS queries are forwarded to a resolver (e.g., Cisco Umbrella, Cloudflare Gateway) that matches the domain against **threat intelligence**, **categories**, and **policy rules**.
-    
+>DNS queries are forwarded to a resolver (e.g., Cisco Umbrella, Cloudflare Gateway) that matches the domain against **threat intelligence**, **categories**, and **policy rules**.
 
 ---
 
 ## 🧰 Common DNS Filtering Solutions
 
-|Provider|Type|Notes|
-|---|---|---|
-|**Cisco Umbrella**|Cloud DNS security|Enterprise-grade threat feed, identity-aware|
-|**Cloudflare Gateway**|DNS + HTTP filter|Fast, privacy-friendly, free tiers|
-|**Quad9**|Threat-blocking DNS|Free service using curated threat intelligence|
-|**NextDNS**|Privacy DNS + filter|Customizable, good for individuals|
-|**FortiDNS**|UTM-integrated DNS|Tied to FortiGate appliance rules|
-|**Google SafeSearch DNS**|Enforces filtering at DNS level|For parental controls / education use cases|
+| Provider                  | Type                            | Notes                                          |
+| ------------------------- | ------------------------------- | ---------------------------------------------- |
+| **Cisco Umbrella**        | Cloud DNS security              | Enterprise-grade threat feed, identity-aware   |
+| **Cloudflare Gateway**    | DNS + HTTP filter               | Fast, privacy-friendly, free tiers             |
+| **Quad9**                 | Threat-blocking DNS             | Free service using curated threat intelligence |
+| **NextDNS**               | Privacy DNS + filter            | Customizable, good for individuals             |
+| **FortiDNS**              | UTM-integrated DNS              | Tied to FortiGate appliance rules              |
+| **Google SafeSearch DNS** | Enforces filtering at DNS level | For parental controls / education use cases    |
 
 ---
 

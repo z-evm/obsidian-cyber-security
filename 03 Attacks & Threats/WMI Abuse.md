@@ -106,7 +106,7 @@ Get-WmiObject -Query "SELECT * FROM Win32_ComputerSystem"
 - [[Living off the Land Binaries (LOLBins)]]
 - [[Fileless Malware]]
 - [[PowerShell Attacks]]
-- [[Command and Control (C2)]]
+- [[Command & Control (C2)]]
 
 ---
 

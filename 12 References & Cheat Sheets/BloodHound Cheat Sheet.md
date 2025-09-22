@@ -121,12 +121,12 @@ RETURN c.name
 
 ## 🔗 Related Topics
 
-- [[Active Directory Attacks]]
+- [[Active Directory (AD) Attacks]]
 - [[Kerberoasting]]
 - [[Credential Dumping]]
 - [[Post-Exploitation]]
 - [[Privilege Escalation]]
-- [[Pass-the-Ticket Attacks]]
+- [[Pass-the-Ticket (PtT) Attacks]]
 
 ---
 

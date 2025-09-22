@@ -75,7 +75,7 @@
 - [[Open Source Intelligence (OSINT)]]
 - [[Phishing Campaign Simulation]]
 - [[SIEM & SOAR]]
-- [[Account Takeover Prevention]]
+- [[Account Takeover]]
 - [[Password Policy Enforcement]]
 
 ---

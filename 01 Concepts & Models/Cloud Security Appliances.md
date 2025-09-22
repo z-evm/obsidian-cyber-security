@@ -92,7 +92,7 @@ Cloud security appliances are **virtualized or cloud-native solutions** designed
 ## 📎 Related Topics
 
 - [[Network Security Appliances]]
-- [[Firewall & IPS]]
+- [[Firewall & IDS + IPS]]
 - [[Cloud Security Posture Management (CSPM)]]
 - [[SIEM Tools]]
 - [[Cloud Security]]

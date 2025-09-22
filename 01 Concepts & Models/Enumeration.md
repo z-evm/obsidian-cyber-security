@@ -105,7 +105,5 @@ gobuster dir -u http://target/ -w /usr/share/wordlists/dirbuster/directory-list.
 ## ✅ To Do
 
 -  Add enumeration checklist
-    
 -  Link example NSE scripts for service discovery
-    
 -  Include screenshots of tool outputs

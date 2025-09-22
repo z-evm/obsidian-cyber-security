@@ -86,7 +86,7 @@
 - [[XSS & Web Exploits]]
 - [[Secure Web Application Design]]
 - [[OWASP Top 10]]
-- [[SQL Injection]]
+- [[SQL Injection (SQLi)]]
 
 ---
 

@@ -105,7 +105,7 @@ int main() {
 ## 🔗 Related Topics
 
 - [[Exploit Development]]
-- [[Reverse Engineering]]
+- [[05 Processes & Playbooks/Reverse Engineering]]
 - [[Memory Corruption]]
 - [[Static vs Dynamic Analysis]]
 - [[Metasploit]]

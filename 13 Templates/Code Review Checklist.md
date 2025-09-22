@@ -81,10 +81,10 @@ Code reviews help ensure that software is **secure, maintainable, and reliable**
 
 ## 🗂 Related Topics
 
-- [[Secure Development Lifecycle]]
-- [[Application Security Testing Tools]]
+- [[Secure Software Development Life Cycle (SSDLC)]]
+- [[Application Security Testing (AST) Tools]]
 - [[SAST vs DAST]]
-- [[DevSecOps Practice]]
+- [[DevSecOps]]
 - [[OWASP Top 10]]
 
 ---

@@ -89,7 +89,7 @@
 - [[OWASP Top 10]]
 - [[Web Application Security Testing]]
 - [[Authentication vs Authorization]]
-- [[DevSecOps Pipeline]]
+- [[DevSecOps]]
 - [[Secure API Design Guidelines]]
 
 ---

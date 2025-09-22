@@ -121,8 +121,8 @@
 ## 🔗 Related Topics
 
 - [[Kerberoasting]]
-- [[Pass-the-Hash]]
-- [[Pass-the-Ticket Attacks]]
+- [[Pass-the-Hash (PtH) Attacks]]
+- [[Pass-the-Ticket (PtT) Attacks]]
 - [[Credential Dumping]]
 - [[Post-Exploitation]]
 - [[BloodHound Cheat Sheet]]

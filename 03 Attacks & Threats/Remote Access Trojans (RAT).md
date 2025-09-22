@@ -85,7 +85,7 @@ A **Remote Access Trojan (RAT)** is a type of malware that allows an attacker to
 
 - [[Backdoors]]
 - [[Persistence Techniques]]
-- [[Command and Control (C2)]]
+- [[Command & Control (C2)]]
 - [[Fileless Malware]]
 - [[Application Whitelisting]]
 

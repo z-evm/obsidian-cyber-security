@@ -32,26 +32,26 @@
 
 ## 🪟 Windows Hardening Checklist
 
-- Disable SMBv1
-- Remove bloatware and legacy features
-- Enforce Group Policy (GPOs) for security settings
-- Enable Windows Defender or EDR/AV solution
-- Configure AppLocker or Windows Defender Application Control (WDAC)
-- Use `Secpol.msc` and `Gpedit.msc` for local policies
-- Enable auditing (Event IDs, Sysmon)
+- [ ] Disable SMBv1
+- [ ] Remove bloatware and legacy features
+- [ ] Enforce Group Policy (GPOs) for security settings
+- [ ] Enable Windows Defender or EDR/AV solution
+- [ ] Configure AppLocker or Windows Defender Application Control (WDAC)
+- [ ] Use `Secpol.msc` and `Gpedit.msc` for local policies
+- [ ] Enable auditing (Event IDs, Sysmon)
 
 ---
 
 ## 🐧 Linux Hardening Checklist
 
-- Disable root SSH login (`PermitRootLogin no`)
-- Use key-based SSH authentication
-- Remove unused packages and services (`systemctl`, `chkconfig`)
-- Use firewalld, nftables, or ufw for filtering
-- Enforce permissions on `/etc/shadow`, `/etc/passwd`
-- Enable SELinux or AppArmor
-- Use auditd and rsyslog for logging
-- Harden kernel parameters via `/etc/sysctl.conf`
+- [ ] Disable root SSH login (`PermitRootLogin no`)
+- [ ] Use key-based SSH authentication
+- [ ] Remove unused packages and services (`systemctl`, `chkconfig`)
+- [ ] Use firewalld, nftables, or ufw for filtering
+- [ ] Enforce permissions on `/etc/shadow`, `/etc/passwd`
+- [ ] Enable SELinux or AppArmor
+- [ ] Use auditd and rsyslog for logging
+- [ ] Harden kernel parameters via `/etc/sysctl.conf`
 
 ---
 
@@ -129,7 +129,8 @@ ss -tulnp
 
 ## ✅ To Do
 
--  Apply CIS benchmark to lab VM (Windows + Linux)
--  Use Lynis to scan and report on current Linux system
--  Review and enforce GPO settings for Windows endpoints
--  Validate service exposure and shut down unused ports
+- [ ]  Apply CIS benchmark to lab VM (Windows + Linux)
+- [ ]  Use Lynis to scan and report on current Linux system
+- [ ]  Review and enforce GPO settings for Windows endpoints
+- [ ]  Validate service exposure and shut down unused ports
+- [ ] Create hardening checklist templates

@@ -94,7 +94,7 @@ switch(config)# ip arp inspection vlan 10
 
 - [[Port Security]]
 - [[Switch Security]]
-- [[802.1X & NAC]]
+- [[IEEE 802.1X, EAP & NAC]]
 - [[Rogue Device Detection]]
 - [[Packet Analysis with Wireshark]]
 

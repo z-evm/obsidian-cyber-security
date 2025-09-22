@@ -96,6 +96,6 @@ DMARC: FAIL
 
 ## ✅ To Do
 
--  Build visual reference for SPF/DKIM/DMARC flow
--  Add SEG vendor comparison
--  Include phishing simulation tools and walkthroughs
+- [ ]  Build visual reference for SPF/DKIM/DMARC flow
+- [ ]  Add SEG vendor comparison
+- [ ]  Include phishing simulation tools and walkthroughs

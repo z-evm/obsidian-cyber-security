@@ -111,7 +111,7 @@
 
 - [[OWASP Top 10]]
 - [[Secure Software Development Life Cycle (SSDLC)]]
-- [[Application Security Testing Tools]]
+- [[Application Security Testing (AST) Tools]]
 - [[DevSecOps]]
 - [[Code Review Checklist]]
 - [[Bug Bounty & Pentesting]]

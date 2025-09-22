@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad90bbd69a2ce8ec",
+        "id": "d1358bcf81e79e30",
         "type": "tabs",
         "children": [
           {
-            "id": "7cf33dd80c4497ad",
+            "id": "c567f760a2d660ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Concepts & Models/Zero-Knowledge Proofs.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zero-Knowledge Proofs"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.50043487548828
+    "width": 313.5086555480957
   },
   "right": {
     "id": "da840f2c4f64ccf7",
@@ -147,19 +143,9 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "3790a2e47f50e26d",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,51 +157,61 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "copilot:Open Copilot Chat": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7cf33dd80c4497ad",
+  "active": "3e5ff73adfb3fb5f",
   "lastOpenFiles": [
-    "01 Concepts & Models/Zero Trust Network Access (ZTNA).md",
-    "01 Concepts & Models/Zero Trust Architecture.md",
-    "01 Concepts & Models/Web Security Headers.md",
-    "01 Concepts & Models/Vulnerability Scanning Automation.md",
-    "01 Concepts & Models/Vulnerability Management.md",
-    "01 Concepts & Models/Vulnerability Analysis.md",
-    "01 Concepts & Models/VPN vs ZTNA.md",
-    "01 Concepts & Models/VPN Usage Policy.md",
-    "01 Concepts & Models/VLANs & Subnetting.md",
-    "01 Concepts & Models/VPN & TLS Protocol.md",
-    "01 Concepts & Models/Virtualization vs Containerization.md",
-    "01 Concepts & Models/Virtualization & Clustering.md",
-    "01 Concepts & Models/Version Control.md",
-    "01 Concepts & Models/Verifiable Credentials.md",
-    "01 Concepts & Models/Vendor Security Assessment.md",
-    "01 Concepts & Models/UTXO Model vs Account Model.md",
-    "01 Concepts & Models/User & Group Management.md",
-    "01 Concepts & Models/User & Entity Behavior Analytics (UEBA).md",
-    "01 Concepts & Models/Unified Threat Management (UTM).md",
-    "01 Concepts & Models/Unified Kill Chain (UKC).md",
-    "01 Concepts & Models/Trusted Computing Base (TCB).md",
-    "01 Concepts & Models/Transport Layer Security & Secure Sockets Layer (TLS & SSL).md",
-    "01 Concepts & Models/TLS Protocol Overview.md",
-    "01 Concepts & Models/Tokenization vs Encryption.md",
-    "01 Concepts & Models/Token-Based Authentication.md",
-    "01 Concepts & Models/TLS Certificate Management.md",
+    "13 Templates/Bug Bounty Report Template.md",
+    "13 Templates/Blue Team Lab Documentation Template.md",
+    "13 Templates/Code Review Checklist.md",
+    "13 Templates/Defensive Gap Analysis Template.md",
+    "13 Templates/DevSecOps Pipeline Security Template.md",
+    "13 Templates/Elastic & Splunk Detection Rule Template.md",
+    "13 Templates/Exploit Dev Notes Template.md",
+    "13 Templates/Forensics Case Template.md",
+    "13 Templates/HIPAA Compliance Checklist.md",
+    "13 Templates/Incident Response Log.md",
+    "13 Templates/Incident Response Log Template.md",
+    "13 Templates/Insider Threat Investigation Log Template.md",
+    "13 Templates/IR Playbook Template.md",
+    "13 Templates/Lab Configuration Template.md",
+    "13 Templates/Malware Triage Template.md",
+    "13 Templates/Lab Template.md",
+    "12 References & Cheat Sheets/Splunk Commands by Category.md",
+    "12 References & Cheat Sheets/Splunk Command Types.md",
+    "12 References & Cheat Sheets/Splunk Command Quick Reference.md",
+    "12 References & Cheat Sheets/Splunk Cheat Sheet v1.md",
+    "12 References & Cheat Sheets/Splunk Default Index Reference Table.md",
+    "12 References & Cheat Sheets/Wireshark Filters Cheat Sheet.md",
+    "12 References & Cheat Sheets/Splunk Configuration Checklist.md",
+    "11 Labs/Splunk Core Power User Labs/Splunk Core Certified Power User Lab Lessons Plan.md",
+    "11 Labs/Splunk Core Power User Labs/Setup Windows 10 Enterprise.md",
+    "11 Labs/Splunk Core Power User Labs/Setup Syslog Server.md",
+    "14 Images/Pasted image 20250826140141.png",
+    "14 Images/Pasted image 20250826152612.png",
+    "14 Images/Pasted image 20250826152549.png",
+    "Pasted image 20250826151313.png",
+    "Pasted image 20250826150347.png",
+    "14 Images/Pasted image 20250826143946.png",
+    "Pasted image 20250826143037.png",
+    "14 Images/Pasted image 20250826140402.png",
+    "14 Images/Pasted image 20250826140252.png",
+    "Pasted image 20250826131813.png",
+    "12 References & Cheat Sheets/Unconfirmed 231368.crdownload",
+    "12 References & Cheat Sheets/Unconfirmed 993285.crdownload",
+    "11 Labs/Splunk Core Power User Labs",
+    "14 Images",
     "01 Theory/temp",
     "11 Labs",
     "01 Reference",
     "01 Theory/10 Practice & Cross-topic",
     "01 Theory/09 Governance & Compliance",
-    "01 Theory/08 Cryptography & PKI",
-    "01 Theory/07 Incident Response",
-    "01 Theory/06 Operational Security",
-    "01 Theory/05 Application & Host Security",
-    "01 Theory/04 Network Security"
+    "01 Theory/08 Cryptography & PKI"
   ]
 }

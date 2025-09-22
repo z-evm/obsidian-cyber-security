@@ -97,7 +97,7 @@ auth required pam_tally2.so deny=5 unlock_time=900
 - [[Authentication Attacks]]
 - [[Secure Login Mechanisms]]
 - [[Password Policy]]
-- [[Brute Force Mitigation]]
+- [[Brute Force]]
 - [[Multi-Factor Authentication (MFA)]]
 - [[Phishing Defense Techniques]]
 

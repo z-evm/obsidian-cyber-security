@@ -86,7 +86,7 @@
 ## 🧩 Related Topics
 
 - [[Disaster Recovery Planning (DRP)]]
-- [[Backup Strategies]]
+- [[Backup & Recovery Strategies]]
 - [[Business Continuity Planning (BCP)]]
 - [[Redundancy Models]]
 - [[Recovery Time Objective & Recovery Point Objective (RTO & RPO)]]

@@ -65,7 +65,7 @@ Permissions-Policy: geolocation=(), microphone=()
 - [[Secure Web Application Design]]
 - [[Input Validation]]
 - [[XSS & Web Exploits]]
-- [[Clickjacking Protection]]
+- [[Clickjacking]]
 
 ---
 

@@ -114,6 +114,7 @@ scope=openid profile email calendar.read
 
 ## 🗂 Related Topics
 
+- [[OAuth 2.0 Deep Dive]]
 - [[OpenID Connect]]
 - [[OAuth vs SAML vs OpenID Connect]]
 - [[JWT Token Structure]]

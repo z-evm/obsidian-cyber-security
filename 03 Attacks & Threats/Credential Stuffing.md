@@ -104,7 +104,7 @@
 - [[Password Security]]
 - [[MFA Implementation]]
 - [[Phishing Defense Techniques]]
-- [[Brute Force Mitigation]]
+- [[Brute Force]]
 - [[SIEM & Log Analysis]]
 
 ---

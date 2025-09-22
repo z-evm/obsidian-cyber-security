@@ -101,7 +101,7 @@
 - [[Data Loss Prevention (DLP)]]
 - [[PKI & Certificates]]
 - [[TLS Certificate Management]]
-- [[Application Security Testing Tools]]
+- [[Application Security Testing (AST) Tools]]
 
 ---
 

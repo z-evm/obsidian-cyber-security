@@ -98,9 +98,9 @@ TLS (Transport Layer Security) and its predecessor SSL (Secure Sockets Layer) ar
 
 - [[Cryptographic Attacks]]
 - [[Certificate Management]]
-- [[Man-in-the-Middle Attacks]]
+- [[Man-in-the-Middle (MitM) Attacks]]
 - [[Hashing]]
-- [[TLS Handshake Process]]
+- [[TCP Three-Way Handshake]]
 
 ---
 

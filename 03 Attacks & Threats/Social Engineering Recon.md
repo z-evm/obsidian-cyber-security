@@ -92,7 +92,7 @@ Use gathered recon to craft scenarios such as:
 
 ## 🧩 Related Topics
 
-- [[Social Engineering Attacks]]
+- [[Social Engineering]]
 - [[Red Teaming]]
 - [[Phishing Campaign Simulation]]
 - [[Physical Security Recon]]

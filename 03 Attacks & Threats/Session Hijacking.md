@@ -89,7 +89,7 @@
 ## 🗂 Related Topics
 
 - [[Secure Login Mechanisms]]
-- [[Man-in-the-Middle Attacks]]
+- [[Man-in-the-Middle (MitM) Attacks]]
 - [[XSS & Web Exploits]]
 - [[Transport Layer Security & Secure Sockets Layer (TLS & SSL)]]
 - [[Authentication Attacks]]

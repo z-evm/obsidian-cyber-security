@@ -95,7 +95,7 @@
 
 - [[Credential Leak Monitoring]]
 - [[Multi-Factor Authentication (MFA)]]
-- [[Account Takeover Prevention]]
+- [[Account Takeover]]
 - [[Active Directory Hardening]]
 - [[Identity & Access Management (IAM)]]
 

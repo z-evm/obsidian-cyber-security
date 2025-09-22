@@ -91,7 +91,7 @@
 
 - [[Privilege Escalation]]
 - [[Advanced Persistent Threats (APT)]]
-- [[Pass-the-Hash]]
+- [[Pass-the-Hash (PtH) Attacks]]
 - [[Threat Hunting]]
 - [[SIEM & Log Analysis]]
 - [[Network Segmentation]]

@@ -91,7 +91,7 @@
 - [[Password Security]]
 - [[Phishing Attacks]]
 - [[Multi-Factor Authentication (MFA)]]
-- [[Pass-the-Hash]]
+- [[Pass-the-Hash (PtH) Attacks]]
 - [[SIEM & Log Analysis]]
 - [[Identity & Access Management (IAM)]]
 

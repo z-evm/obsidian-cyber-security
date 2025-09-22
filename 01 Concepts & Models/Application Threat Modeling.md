@@ -93,7 +93,7 @@ It is a key component of **secure software development (SSDLC)** and aligns with
 - [[OWASP Top 10 ]]
 - [[DevSecOps Practice]]
 - [[Secure Software Development Life Cycle (SSDLC)]]
-- [[Application Security Testing Tools]]
+- [[Application Security Testing (AST) Tools]]
 - [[Zero Trust Architecture]]
 - [[STRIDE Threat Modeling]]
 

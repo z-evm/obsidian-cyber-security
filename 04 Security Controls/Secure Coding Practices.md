@@ -104,7 +104,7 @@
 
 - [[Code Review & Hardening]]
 - [[OWASP Top 10]]
-- [[Application Security Testing Tools]]
+- [[Application Security Testing (AST) Tools]]
 - [[Secure Software Development Life Cycle (SSDLC)]]
 - [[Input Validation and Sanitization]]
 - [[Threat Modeling]]

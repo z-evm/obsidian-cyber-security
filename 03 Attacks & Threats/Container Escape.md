@@ -91,7 +91,7 @@
 
 ## 📎 Related Topics
 
-- [[Virtual Machine Escape]]
+- [[Virtual Machine Escape (VM Escape)]]
 - [[Hypervisor Security]]
 - [[Kubernetes Security]]
 - [[Pod Security Policies (PSPs)]]

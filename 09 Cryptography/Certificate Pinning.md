@@ -105,7 +105,7 @@ Public-Key-Pins:
 - [[TLS Certificate Management]]
 - [[HTTPS Inspection & Decryption]]
 - [[Web Application Firewall (WAF)]]
-- [[Man-in-the-Middle Attacks]]
+- [[Man-in-the-Middle (MitM) Attacks]]
 - [[Mobile Application Security]]
 
 ---

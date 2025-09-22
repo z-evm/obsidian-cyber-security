@@ -100,7 +100,7 @@ Together, they enable:
 - [[High Availability]]
 - [[Snapshot Risks vs Backup Benefits]]
 - [[Hypervisor Security]]
-- [[Virtual Machine Escape]]
+- [[Virtual Machine Escape (VM Escape)]]
 
 ---
 

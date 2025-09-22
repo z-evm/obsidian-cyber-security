@@ -112,7 +112,7 @@ Assertions are **digitally signed** to ensure integrity and authenticity.
 - [[OpenID Connect]]
 - [[Authentication Protocols]]
 - [[Single Sign-On (SSO)]]
-- [[Federated Identity Management 1]]
+- [[Federated Identity Management (FidM)]]
 - [[JWT Token Structure]]
 
 ---

@@ -127,7 +127,7 @@ pattern_offset AAAABBBB
 - [[Exploit Development]]
 - [[Buffer Overflow]]
 - [[Heap Exploitation]]
-- [[Reverse Engineering]]
+- [[05 Processes & Playbooks/Reverse Engineering]]
 - [[Memory Corruption]]
 
 ---

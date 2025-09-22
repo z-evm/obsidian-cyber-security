@@ -6,11 +6,11 @@
 
 ## 🧱 Types of Encryption
 
-| Type                 | Description                                      | Examples                        |
-|----------------------|--------------------------------------------------|----------------------------------|
-| **Symmetric**        | Same key used to encrypt and decrypt             | AES, DES, 3DES, Blowfish         |
-| **Asymmetric**       | Public key encrypts, private key decrypts        | RSA, ECC, ElGamal                |
-| **Hashing (1-way)**  | Irreversible, used for integrity and auth        | SHA-256, SHA-3, Bcrypt, Argon2   |
+| Type                | Description                               | Examples                       |
+| ------------------- | ----------------------------------------- | ------------------------------ |
+| **Symmetric**       | Same key used to encrypt and decrypt      | AES, DES, 3DES, Blowfish       |
+| **Asymmetric**      | Public key encrypts, private key decrypts | RSA, ECC, ElGamal              |
+| **Hashing (1-way)** | Irreversible, used for integrity and auth | SHA-256, SHA-3, Bcrypt, Argon2 |
 
 ---
 
@@ -62,12 +62,12 @@
 
 ## 🔧 Hashing vs Encryption
 
-| Feature        | Hashing                         | Encryption                        |
-|----------------|----------------------------------|------------------------------------|
-| Direction      | One-way                         | Two-way (encrypt/decrypt)          |
-| Use Case       | Password storage, integrity     | Confidentiality of data            |
-| Reversibility  | ❌ Cannot be reversed            | ✅ Can be decrypted with key        |
-| Examples       | SHA-256, Bcrypt, HMAC           | AES, RSA, ECC                      |
+| Feature       | Hashing                     | Encryption                  |
+| ------------- | --------------------------- | --------------------------- |
+| Direction     | One-way                     | Two-way (encrypt/decrypt)   |
+| Use Case      | Password storage, integrity | Confidentiality of data     |
+| Reversibility | ❌ Cannot be reversed        | ✅ Can be decrypted with key |
+| Examples      | SHA-256, Bcrypt, HMAC       | AES, RSA, ECC               |
 
 ---
 

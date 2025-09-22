@@ -13,12 +13,15 @@
 
 ## 🧱 How VM Escape Works
 
-| Step                         | Description                                               |
-|------------------------------|-----------------------------------------------------------|
-| 1. **Guest Exploit**          | Malicious code exploits vulnerability in hypervisor       |
-| 2. **Privilege Escalation**   | Attacker gains host-level privileges                     |
-| 3. **Lateral Movement**       | Access to other VMs or host OS resources                 |
-| 4. **Persistence or Exfiltration** | Establish foothold, steal data or execute malware   |
+- A vulnerability in the hypervisor, virtual device emulation, or shared components is exploited.
+- The attacker executes code from within a guest VM.
+- That code breaks containment and executes on the hypervisor or host OS.
+
+> 💥 Once escape is achieved, attackers may:
+> - Control other VMs
+> - Exfiltrate data
+> - Install rootkits on the host
+> - Persist undetected across environments
 
 ---
 
@@ -31,11 +34,28 @@
 | **Driver Vulnerabilities**| Faulty guest/host drivers create escape vectors     |
 | **Paravirtualization Bugs**| Escapes due to misbehaving guest-hypervisor API     |
 
-### ☠️ Notable CVEs
+---
 
-- **VENOM (CVE-2015-3456)** – Vulnerability in QEMU virtual floppy controller
-- **Cloudburst (2009)** – Escape in VMware Workstation via virtual video driver
-- **CVE-2017-4901** – VMware ESXi security bypass
+## ⚠️ Notable VM Escape Vulnerabilities
+
+| Name       | CVE / Year       | Description                                        |
+|------------|------------------|----------------------------------------------------|
+| **VENOM**  | CVE-2015-3456    | Flaw in virtual floppy controller (QEMU)          |
+| **Cloudburst** | — (2009)     | Exploit in VMware’s virtualized video driver      |
+| **XSA-148**| Xen Security Advisory | QEMU IDE controller vulnerability           |
+| **Spectre/Meltdown** | CVE-2017-5753/5754 | Side-channel CPU attacks that can cross VM boundaries |
+| **L1TF (Foreshadow)** | CVE-2018-3615 | Attack on Intel SGX / L1 cache that bypasses VM isolation |
+| **Escape via Paravirtual Drivers** | Various         | Bugs in ballooning, RNG, or video drivers         |
+
+---
+
+## 🔍 Attack Techniques
+
+- **Buffer Overflow** in device emulation (e.g., VENOM).
+- **Shared Memory Abuse** (e.g., graphics drivers, ballooning).
+- **CPU Speculation Leaks** (e.g., Spectre, L1TF).
+- **Hypercall Injection** on misconfigured paravirtualized drivers.
+- **Improper Isolation Policies** in container/VM management systems.
 
 ---
 

@@ -108,7 +108,7 @@ A risk-centric, seven-stage threat modeling methodology that simulates attacks a
 - [[Secure Software Development Life Cycle (SSDLC)]]
 - [[OWASP Top 10]]
 - [[Code Review & Hardening]]
-- [[Application Security Testing Tools]]
+- [[Application Security Testing (AST) Tools]]
 - [[Vulnerability Management]]
 - [[Security Policy Frameworks]]
 

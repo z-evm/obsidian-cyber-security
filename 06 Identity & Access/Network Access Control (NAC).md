@@ -118,7 +118,7 @@
 
 ## 🗂 Related Topics
 
-- [[802.1X, EAP & NAC]]
+- [[IEEE 802.1X, EAP & NAC]]
 - [[VLANs & Subnetting]]
 - [[Secure Network Design]]
 - [[Authentication Protocols]]

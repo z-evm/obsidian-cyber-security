@@ -1,6 +1,6 @@
 **Malicious updates** are software updates that are deliberately crafted or manipulated by threat actors to deliver malware, backdoors, or unauthorized code to systems under the guise of a legitimate patch or feature enhancement.
 
-These attacks exploit the **trust model** of software distribution and update infrastructure.
+==These attacks exploit the **trust model** of software distribution and update infrastructure.
 
 ---
 

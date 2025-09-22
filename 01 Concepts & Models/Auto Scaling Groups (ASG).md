@@ -102,7 +102,8 @@
 
 ## 🧩 Related Topics
 
-- [[High Availability & Load Balancing]]
+- [[High Availability]]
+- [[Load Balancing]]
 - [[Redundancy Models]]
 - [[Cloud Disaster Recovery (Cloud DR)]]
 - [[Failover Clustering]]
