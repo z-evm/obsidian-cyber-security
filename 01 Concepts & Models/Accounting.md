@@ -107,6 +107,6 @@ It ensures that all access and usage events are **recorded**, **retained**, and 
 
 ## ✅ To Do
 
-- [ ] Add sample Windows and Linux log entries
+- [x] Add sample Windows and Linux log entries ✅ 2025-09-03
 - [ ] Diagram: flow of AAA with SIEM integration
 - [ ] Link to [[Compliance]] and [[Forensic Analysis]] topics
