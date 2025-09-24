@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Concepts & Models/Air Gapping & Isolation.md",
+                "file": "01 Concepts & Models/51 Percent Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Air Gapping & Isolation"
+              "title": "51 Percent Attack"
             }
           }
         ]
@@ -156,20 +156,31 @@
   },
   "active": "3e6bc5711c5b5e8b",
   "lastOpenFiles": [
-    "01 Concepts & Models/Active Directory (AD).md",
-    "01 Concepts & Models/Accounting.md",
-    "01 Concepts & Models/Access Control Models.md",
-    "01 Concepts & Models/Access Control.md",
-    "01 Concepts & Models/Technical Change Management.md",
-    "01 Concepts & Models/ABAC vs RBAC.md",
-    "01 Concepts & Models/AAA Framework.md",
-    "12 References & Cheat Sheets/PowerShell Security Commands.md",
-    "04 Security Controls/Active Directory (AD) Security.md",
-    "10 Threat Intelligence/Adversary Emulation.md",
-    "10 Threat Intelligence/Anomaly Detection.md",
-    "03 Attacks & Threats/Backdoors.md",
-    "12 References & Cheat Sheets/BloodHound Cheat Sheet.md",
-    "09 Cryptography/Certificate Management.md",
-    "02 Technologies & Protocols/SIEM Tools.md"
+    "01 Concepts & Models/Air Gapping & Isolation.md",
+    "12 References & Cheat Sheets/Splunk Command Types.md",
+    "13 Templates/SOC L1 Splunk Daily Practice Checklist.md",
+    "13 Templates/Lab Configuration Template.md",
+    "13 Templates/Incident Response Log.md",
+    "13 Templates/Code Review Checklist.md",
+    "12 References & Cheat Sheets/Splunk Default Index Reference Table.md",
+    "12 References & Cheat Sheets/Splunk Commands by Category.md",
+    "12 References & Cheat Sheets/Splunk Command Quick Reference.md",
+    "12 References & Cheat Sheets/Install Suricata.md",
+    "12 References & Cheat Sheets/Install & Configure Secure Shell.md",
+    "12 References & Cheat Sheets/Discovering Data in Splunk.md",
+    "12 References & Cheat Sheets/Command Line Tools for Security.md",
+    "10 Threat Intelligence/Syslog Monitoring.md",
+    "10 Threat Intelligence/Packet Analysis with Wireshark.md",
+    "10 Threat Intelligence/Deception & Disruption.md",
+    "09 Cryptography/FileVault.md",
+    "09 Cryptography/BitLocker.md",
+    "09 Cryptography/Backup Encryption.md",
+    "07 Endpoint & Application Security/Application Security Testing (AST) Tools.md",
+    "06 Identity & Access/AppArmor.md",
+    "06 Identity & Access/Active Directory (AD) Security.md",
+    "05 Processes & Playbooks/Reverse Engineering 1.md",
+    "05 Processes & Playbooks/API Security Testing.md",
+    "04 Security Controls/IEEE 802.1X, EAP & NAC.md",
+    "04 Security Controls/Content Security Policy (CSP).md"
   ]
 }
